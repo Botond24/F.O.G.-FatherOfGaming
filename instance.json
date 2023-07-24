@@ -2159,83 +2159,6 @@
         }
       },
       {
-        "name": "Create Fabric",
-        "version": "Create 1.18.2 v0.5.1.b Patch 2",
-        "optional": true,
-        "file": "create-fabric-0.5.1-b-build.1088+mc1.18.2.jar",
-        "type": "mods",
-        "description": "Building Tools and Aesthetic Technology",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "modrinthProject": {
-          "id": "Xbc0uyRg",
-          "slug": "create-fabric",
-          "project_type": "mod",
-          "team": "OzirJQCY",
-          "title": "Create Fabric",
-          "description": "Building Tools and Aesthetic Technology",
-          "body": "<p>&nbsp;</p>\n<p><iframe allowfullscreen=\"allowfullscreen\" src=\"https://www.youtube.com/embed/rR8W-f9YhYA\" height=\"358\" width=\"638\"></iframe></p>\n<p>&nbsp;</p>\n\n## Installation Requirements\n\n<p><a href=\"https://modrinth.com/mod/fabric-api\"><img src=\"https://i.imgur.com/Ol1Tcf8.png\" width=\"156\" /></a></p>\n<p>This version of Create runs on <a href=\"https://fabricmc.net/\">Fabric</a> and <a href=\"https://quiltmc.org/\">Quilt</a> only.<br>You can find the version compatible with the Forge ecosystem <a href=\"https://modrinth.com/mod/create\">here</a>.<br /></p>\n<p>&nbsp;</p>\n\n## Our Patrons\n\nsintrinsic\n&#183; Daniel P.\n&#183; Kyrinon\n&#183; niraami\n&#183; Ulisses\n&#183; BananaIguana\n&#183; Pongo Sapiens\n&#183; Redmecha\n&#183; Kenneth\n&#183; Viriss\n&#183; Trakinson\n&#183; AcidKat\n&#183; rancorasaurous\n&#183; bonemill\n&#183; OldShadowHand\n&#183; dude\n&#183; KnyteGaming\n&#183; Cali\n&#183; CyanSoup\n&#183; Romblood\n&#183; lurker\n&#183; DerpTime \n&#183; Lolaa\n&#183; _Kilburn\n&#183; MrOxiMoron\n&#183; idlesn0w\n&#183; Gabriel M.\n&#183; PieKing1215\n&#183; No One \n&#183; Pixus\n&#183; Spammy\n&#183; nwmqpa\n&#183; A \n&#183; jonas\n&#183; Dannnis \n&#183; Lyren\n&#183; lujoBoy\n&#183; Tugu\n&#183; Shaun Francis H.\n&#183; Thor7O\n&#183; DigitalSeraphim\n&#183; Bootstrap22\n&#183; Marksmen\n&#183; Yuri\n&#183; Queso2469\n&#183; Zanthros\n&#183; Lubey\n&#183; LesserFlame\n&#183; millatime21\n&#183; bagofsquirrels\n&#183; ZizouMunoz\n&#183; sensual kazoo\n&#183; vesperdem\n&#183; Big Saffron\n&#183; rtwishon\n&#183; Jean Machine\n&#183; CottonHeads\n&#183; chimericdream\n&#183; Gyro\n&#183; Jehrendil\n&#183; Slaser360\n&#183; Myra G.\n&#183; Guy \n&#183; jpc\n&#183; LaserLemons\n&#183; Miner of 8 bits\n&#183; hazmodan\n&#183; moss \n&#183; Sunlis\n&#183; Theishiopian\n&#183; Jink\n&#183; AshCraft\n&#183; IllegalEagle\n&#183; Guybrush\n&#183; Requios\n&#183; 4096 RF\n&#183; zaknirahc\n&#183; TheDankMemeRises\n&#183; tomd1969\n&#183; VirenRunner\n&#183; LolaLela\n&#183; serkan\n&#183; Silviuz\n&#183; Jester\n&#183; Kyle\n&#183; Niv \n&#183; Fredster\n&#183; Redstone Says\n&#183; azurecrab5\n&#183; Freeziu\n&#183; End_Rage\n&#183; Lombbm\n&#183; TytusDeZoo\n&#183; Halcyon_Daze\n&#183; Guilherme R.\n&#183; Michael M.\n&#183; Loukenshrew\n&#183; tater\n&#183; Spencer G.\n&#183; breadtoast\n&#183; Poke_Heart\n&#183; 501warhead\n&#183; Captain S.\n&#183; Chewy\n&#183; Nary\n&#183; SillySnowFox\n&#183; Quacky\n<p>&nbsp;</p>\n\n\n## About\n\n<p>Welcome to Create, a mod offering a variety of tools and blocks for Building, Decoration and Aesthetic Automation.</p>\n<p>The added elements of tech are designed to leave as many design choices to the player as possible. With Create, the game isn't played inside a bunch of UIs, it challenges you to setup contraptions of animated components working together in many possible arrangements.</p>\n<p>Create's visual in-game documentation called 'Ponder' will guide you though all added mechanics and gadgets.</p>\n<p><strong>Important</strong>: In order to be able to see all recipes required in Create, consider installing a Recipe Viewer mod. Create has full support for <a href=\"https://www.curseforge.com/minecraft/mc-mods/jei\">JEI</a>, <a href=\"https://modrinth.com/mod/rei\">REI</a>, and <a href=\"https://modrinth.com/mod/emi\">EMI</a>. The vanilla recipe book will not be able to guide you through the experience by itself.</p>\n<p style=\"text-align: left;\">&nbsp;</p>\n<p><a href=\"https://github.com/Fabricators-of-Create/Create/issues\"><img src=\"https://i.imgur.com/qPmjSXy.png\" width=\"160\" /></a> <a href=\"https://www.youtube.com/channel/UCrKV2QTuyGcv4E3eSJpBiYA/playlists\"><img src=\"https://i.imgur.com/L1bU9mr.png\" width=\"160\" /></a><a href=\"https://discord.gg/hmaD7Se\"><img src=\"https://i.imgur.com/uf6V9ZX.png\" width=\"160\" /></a> <a href=\"https://github.com/Creators-of-Create/Create/wiki/Supporting-the-Project\"><img src=\"https://i.imgur.com/fHQ45KR.png\" width=\"227\" /></a></p>\n<p>&nbsp;</p>\n\n## Development\n\n<p>Find out about supported versions and what's currently in the works in <a href=\"https://github.com/Creators-of-Create/Create/wiki/dev.status\">this dedicated wiki page.</a></p>\n<p>&nbsp;</p>\n\n### Developers\n\n<p>simibubi, Jozufozu, Pepper, Zelophed, gamez7, Grimmauld, Snownee</p>\n\n### Porters\n\n<p>Pepper, Tropheus Jay, AlphaMode, smellypengu, Aeiou, Whangd00dle, YTG123</p>\n\n### Artists\n\n<p>Kryppers, voxel_dani, LeastReality, vectorwing</p>\n\n### Special thanks to\n\n<p>tterrag, evanthebruce, D'Arcy Olla</p>\n\n<p>&nbsp;</p>\n\n## Localization\nTranslations may be unfinished or out of date.\n\n* en_us (English US)\n* de_de (German) by Vexatos, Azratosh, SaurierZockt, DreiMu, muffinbarde, Peatral\n* nl_nl (Dutch) by Prusias\n* fr_fr (French) by Kiro, dindin-glitch\n* zh_cn (Chinese) by TUsama, BigDaleAHA, gloomybanana, Snownee, MacrousHyucen, Demonese, StarFish\n* zh_tw (Chinese, Traditional) by dunois\n* ru_ru (Russian) by sqcode06, Hanqnero, sirabein, pgkrol, Alepod\n* pt_br (Brazilian) by lucassabreu, vyhi\n* jp_jp (Japanese) by MORIMORI0317, CKenJa, RakuGaki-MC\n* ko_kr (Korean) by qkrehf2, red1854th\n* it_it (Italian) by Masterlupo, Chexet48\n* es_es (Spanish) by FrannDzs, muriplz\n* es_mx (Spanish, Mexico) by JohanIvan\n* es_cl (Spanish, Chile) by Alonsinwhat\n* pl_pl (Polish) by joker876\n* ro_ro (Romanian) by andreutu",
-          "published": "2022-05-17T01:52:23.290587Z",
-          "updated": "2023-07-03T05:06:50.757137Z",
-          "status": "approved",
-          "license": {
-            "id": "MIT",
-            "name": "MIT License"
-          },
-          "client_side": "required",
-          "server_side": "required",
-          "categories": [
-            "decoration",
-            "equipment",
-            "technology"
-          ],
-          "icon_url": "https://cdn.modrinth.com/data/Xbc0uyRg/f9d7c09397588b690cf3c09303d7812837b2caab.png",
-          "issues_url": "https://github.com/Fabricators-of-Create/Create/issues",
-          "source_url": "https://github.com/Fabricators-of-Create/Create",
-          "wiki_url": "https://github.com/Creators-of-Create/Create/wiki",
-          "discord_url": "https://discord.com/invite/hmaD7Se",
-          "donation_urls": [],
-          "gallery": []
-        },
-        "modrinthVersion": {
-          "id": "uxdmLu14",
-          "project_id": "Xbc0uyRg",
-          "author_id": "zvYJrcc6",
-          "name": "Create 1.18.2 v0.5.1.b Patch 2",
-          "version_number": "0.5.1-b-build.1088+mc1.18.2",
-          "changelog": "- fix some blocks in copycats causing crashes (#988, #984, #971)\n- fix pipe ponder crashing (#987, #970)\n- added safety on train carriage loading (#985)\n- fix visibility in fluids (#967)\n- fix unsupported inventories on contraptions causing crashes (#965)",
-          "date_published": "2023-07-03T05:06:52.948714Z",
-          "version_type": "beta",
-          "files": [
-            {
-              "hashes": {
-                "sha512": "f0c9004b1a996a72d45785f73219b84e5131a1e4c0de1fede130aeb57127340c06b2058d2fe080554073a7d4963cc48713201477022d9fa5116e14dcb4b7b8db",
-                "sha1": "de790d26583a3c767aef804f0fecbdcf09c9f6f7"
-              },
-              "url": "https://cdn.modrinth.com/data/Xbc0uyRg/versions/uxdmLu14/create-fabric-0.5.1-b-build.1088%2Bmc1.18.2.jar",
-              "filename": "create-fabric-0.5.1-b-build.1088+mc1.18.2.jar",
-              "primary": true,
-              "size": 18827993
-            }
-          ],
-          "dependencies": [
-            {
-              "project_id": "P7dR8mSH",
-              "dependency_type": "required"
-            }
-          ],
-          "game_versions": [
-            "1.18.2"
-          ],
-          "loaders": [
-            "fabric",
-            "quilt"
-          ]
-        }
-      },
-      {
         "name": "Controlling",
         "version": "Controlling-fabric-1.18.2-9.0+23.jar",
         "optional": true,
@@ -5076,290 +4999,6 @@
           ],
           "loaders": [
             "fabric"
-          ]
-        }
-      },
-      {
-        "name": "Create Fabric",
-        "version": "Create 1.18.2 v0.5.1.b Patch 2",
-        "optional": true,
-        "file": "create-fabric-0.5.1-b-build.1088+mc1.18.2.jar",
-        "type": "mods",
-        "description": "Building Tools and Aesthetic Technology",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 624165,
-        "curseForgeFileId": 4622429,
-        "curseForgeProject": {
-          "id": 624165,
-          "name": "Create Fabric",
-          "authors": [
-            {
-              "id": 101116846,
-              "name": "tropheusj",
-              "url": "https://www.curseforge.com/members/101116846-tropheusj?username=tropheusj"
-            },
-            {
-              "id": 101935290,
-              "name": "thatguynamedalpha",
-              "url": "https://www.curseforge.com/members/101935290-thatguynamedalpha?username=thatguynamedalpha"
-            },
-            {
-              "id": 100766963,
-              "name": "Pepper_Bell",
-              "url": "https://www.curseforge.com/members/100766963-pepper_bell?username=pepper_bell"
-            }
-          ],
-          "gameId": 432,
-          "summary": "Building Tools and Aesthetic Technology",
-          "categories": [
-            {
-              "name": "Technology",
-              "slug": "technology",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
-              "dateModified": "2014-05-08T17:37:54.597Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 412,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/27/635351494745973439.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Cosmetic",
-              "slug": "cosmetic",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
-              "dateModified": "2014-05-08T17:42:35.597Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 424,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Armor, Tools, and Weapons",
-              "slug": "armor-weapons-tools",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
-              "dateModified": "2014-05-08T17:44:39.057Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 434,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Redstone",
-              "slug": "redstone",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/redstone",
-              "dateModified": "2016-01-19T22:21:51.64Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 4558,
-              "iconUrl": "https://media.forgecdn.net/avatars/32/937/635888173116238506.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 412,
-          "classId": 6,
-          "slug": "create-fabric",
-          "isFeatured": false,
-          "dateModified": "2023-07-03T05:17:52.857Z",
-          "dateCreated": "2022-05-17T01:24:00.827Z",
-          "dateReleased": "2023-07-03T05:06:41.987Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/create-fabric",
-            "wikiUrl": "https://github.com/Creators-of-Create/Create/wiki",
-            "issuesUrl": "https://github.com/Fabricators-of-Create/Create/issues",
-            "sourceUrl": "https://github.com/Fabricators-of-Create/Create"
-          },
-          "logo": {
-            "id": 548377,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/548/377/256/256/637883834427445340.png",
-            "title": "637883834427445340.png",
-            "url": "https://media.forgecdn.net/avatars/548/377/637883834427445340.png",
-            "modId": 624165
-          },
-          "allowModDistribution": true,
-          "screenshots": [],
-          "mainFileId": 4622429
-        },
-        "curseForgeFile": {
-          "id": 4622429,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "Create 1.18.2 v0.5.1.b Patch 2",
-          "fileName": "create-fabric-0.5.1-b-build.1088+mc1.18.2.jar",
-          "releaseType": 2,
-          "fileStatus": 4,
-          "fileDate": "2023-07-03T05:06:41.987Z",
-          "fileLength": 18827993,
-          "dependencies": [
-            {
-              "fileId": 0,
-              "modId": 306612,
-              "relationType": 3
-            }
-          ],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 1134082723,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 1927476733,
-              "name": "LICENSE_create-fabric"
-            },
-            {
-              "fingerprint": 3415180150,
-              "name": "create.accesswidener"
-            },
-            {
-              "fingerprint": 3640877176,
-              "name": ".cache"
-            },
-            {
-              "fingerprint": 2345636260,
-              "name": "logo.png"
-            },
-            {
-              "fingerprint": 2814287397,
-              "name": "data"
-            },
-            {
-              "fingerprint": 2855110470,
-              "name": "assets"
-            },
-            {
-              "fingerprint": 2661230733,
-              "name": "create.mixins.json"
-            },
-            {
-              "fingerprint": 1591322890,
-              "name": "fabric.mod.json"
-            },
-            {
-              "fingerprint": 3113012103,
-              "name": "resourcepacks"
-            },
-            {
-              "fingerprint": 1771982909,
-              "name": "create-fabric-refmap.json"
-            },
-            {
-              "fingerprint": 2324873197,
-              "name": "com"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "de790d26583a3c767aef804f0fecbdcf09c9f6f7",
-              "algo": 1
-            },
-            {
-              "value": "a012a79ed18018f4870aa733d4bbd3cb",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
-              "gameVersionName": "Fabric"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000018.0000000002",
-              "gameVersion": "1.18.2",
-              "gameVersionReleaseDate": "2022-02-28T14:23:37.723Z",
-              "gameVersionName": "1.18.2"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-05-26T00:00:00Z",
-              "gameVersionName": "Quilt"
-            }
-          ],
-          "gameVersions": [
-            "Fabric",
-            "1.18.2",
-            "Quilt"
-          ],
-          "fileFingerprint": 1786207918,
-          "modId": 624165
-        },
-        "modrinthProject": {
-          "id": "Xbc0uyRg",
-          "slug": "create-fabric",
-          "project_type": "mod",
-          "team": "OzirJQCY",
-          "title": "Create Fabric",
-          "description": "Building Tools and Aesthetic Technology",
-          "body": "<p>&nbsp;</p>\n<p><iframe allowfullscreen=\"allowfullscreen\" src=\"https://www.youtube.com/embed/rR8W-f9YhYA\" height=\"358\" width=\"638\"></iframe></p>\n<p>&nbsp;</p>\n\n## Installation Requirements\n\n<p><a href=\"https://modrinth.com/mod/fabric-api\"><img src=\"https://i.imgur.com/Ol1Tcf8.png\" width=\"156\" /></a></p>\n<p>This version of Create runs on <a href=\"https://fabricmc.net/\">Fabric</a> and <a href=\"https://quiltmc.org/\">Quilt</a> only.<br>You can find the version compatible with the Forge ecosystem <a href=\"https://modrinth.com/mod/create\">here</a>.<br /></p>\n<p>&nbsp;</p>\n\n## Our Patrons\n\nsintrinsic\n&#183; Daniel P.\n&#183; Kyrinon\n&#183; niraami\n&#183; Ulisses\n&#183; BananaIguana\n&#183; Pongo Sapiens\n&#183; Redmecha\n&#183; Kenneth\n&#183; Viriss\n&#183; Trakinson\n&#183; AcidKat\n&#183; rancorasaurous\n&#183; bonemill\n&#183; OldShadowHand\n&#183; dude\n&#183; KnyteGaming\n&#183; Cali\n&#183; CyanSoup\n&#183; Romblood\n&#183; lurker\n&#183; DerpTime \n&#183; Lolaa\n&#183; _Kilburn\n&#183; MrOxiMoron\n&#183; idlesn0w\n&#183; Gabriel M.\n&#183; PieKing1215\n&#183; No One \n&#183; Pixus\n&#183; Spammy\n&#183; nwmqpa\n&#183; A \n&#183; jonas\n&#183; Dannnis \n&#183; Lyren\n&#183; lujoBoy\n&#183; Tugu\n&#183; Shaun Francis H.\n&#183; Thor7O\n&#183; DigitalSeraphim\n&#183; Bootstrap22\n&#183; Marksmen\n&#183; Yuri\n&#183; Queso2469\n&#183; Zanthros\n&#183; Lubey\n&#183; LesserFlame\n&#183; millatime21\n&#183; bagofsquirrels\n&#183; ZizouMunoz\n&#183; sensual kazoo\n&#183; vesperdem\n&#183; Big Saffron\n&#183; rtwishon\n&#183; Jean Machine\n&#183; CottonHeads\n&#183; chimericdream\n&#183; Gyro\n&#183; Jehrendil\n&#183; Slaser360\n&#183; Myra G.\n&#183; Guy \n&#183; jpc\n&#183; LaserLemons\n&#183; Miner of 8 bits\n&#183; hazmodan\n&#183; moss \n&#183; Sunlis\n&#183; Theishiopian\n&#183; Jink\n&#183; AshCraft\n&#183; IllegalEagle\n&#183; Guybrush\n&#183; Requios\n&#183; 4096 RF\n&#183; zaknirahc\n&#183; TheDankMemeRises\n&#183; tomd1969\n&#183; VirenRunner\n&#183; LolaLela\n&#183; serkan\n&#183; Silviuz\n&#183; Jester\n&#183; Kyle\n&#183; Niv \n&#183; Fredster\n&#183; Redstone Says\n&#183; azurecrab5\n&#183; Freeziu\n&#183; End_Rage\n&#183; Lombbm\n&#183; TytusDeZoo\n&#183; Halcyon_Daze\n&#183; Guilherme R.\n&#183; Michael M.\n&#183; Loukenshrew\n&#183; tater\n&#183; Spencer G.\n&#183; breadtoast\n&#183; Poke_Heart\n&#183; 501warhead\n&#183; Captain S.\n&#183; Chewy\n&#183; Nary\n&#183; SillySnowFox\n&#183; Quacky\n<p>&nbsp;</p>\n\n\n## About\n\n<p>Welcome to Create, a mod offering a variety of tools and blocks for Building, Decoration and Aesthetic Automation.</p>\n<p>The added elements of tech are designed to leave as many design choices to the player as possible. With Create, the game isn't played inside a bunch of UIs, it challenges you to setup contraptions of animated components working together in many possible arrangements.</p>\n<p>Create's visual in-game documentation called 'Ponder' will guide you though all added mechanics and gadgets.</p>\n<p><strong>Important</strong>: In order to be able to see all recipes required in Create, consider installing a Recipe Viewer mod. Create has full support for <a href=\"https://www.curseforge.com/minecraft/mc-mods/jei\">JEI</a>, <a href=\"https://modrinth.com/mod/rei\">REI</a>, and <a href=\"https://modrinth.com/mod/emi\">EMI</a>. The vanilla recipe book will not be able to guide you through the experience by itself.</p>\n<p style=\"text-align: left;\">&nbsp;</p>\n<p><a href=\"https://github.com/Fabricators-of-Create/Create/issues\"><img src=\"https://i.imgur.com/qPmjSXy.png\" width=\"160\" /></a> <a href=\"https://www.youtube.com/channel/UCrKV2QTuyGcv4E3eSJpBiYA/playlists\"><img src=\"https://i.imgur.com/L1bU9mr.png\" width=\"160\" /></a><a href=\"https://discord.gg/hmaD7Se\"><img src=\"https://i.imgur.com/uf6V9ZX.png\" width=\"160\" /></a> <a href=\"https://github.com/Creators-of-Create/Create/wiki/Supporting-the-Project\"><img src=\"https://i.imgur.com/fHQ45KR.png\" width=\"227\" /></a></p>\n<p>&nbsp;</p>\n\n## Development\n\n<p>Find out about supported versions and what's currently in the works in <a href=\"https://github.com/Creators-of-Create/Create/wiki/dev.status\">this dedicated wiki page.</a></p>\n<p>&nbsp;</p>\n\n### Developers\n\n<p>simibubi, Jozufozu, Pepper, Zelophed, gamez7, Grimmauld, Snownee</p>\n\n### Porters\n\n<p>Pepper, Tropheus Jay, AlphaMode, smellypengu, Aeiou, Whangd00dle, YTG123</p>\n\n### Artists\n\n<p>Kryppers, voxel_dani, LeastReality, vectorwing</p>\n\n### Special thanks to\n\n<p>tterrag, evanthebruce, D'Arcy Olla</p>\n\n<p>&nbsp;</p>\n\n## Localization\nTranslations may be unfinished or out of date.\n\n* en_us (English US)\n* de_de (German) by Vexatos, Azratosh, SaurierZockt, DreiMu, muffinbarde, Peatral\n* nl_nl (Dutch) by Prusias\n* fr_fr (French) by Kiro, dindin-glitch\n* zh_cn (Chinese) by TUsama, BigDaleAHA, gloomybanana, Snownee, MacrousHyucen, Demonese, StarFish\n* zh_tw (Chinese, Traditional) by dunois\n* ru_ru (Russian) by sqcode06, Hanqnero, sirabein, pgkrol, Alepod\n* pt_br (Brazilian) by lucassabreu, vyhi\n* jp_jp (Japanese) by MORIMORI0317, CKenJa, RakuGaki-MC\n* ko_kr (Korean) by qkrehf2, red1854th\n* it_it (Italian) by Masterlupo, Chexet48\n* es_es (Spanish) by FrannDzs, muriplz\n* es_mx (Spanish, Mexico) by JohanIvan\n* es_cl (Spanish, Chile) by Alonsinwhat\n* pl_pl (Polish) by joker876\n* ro_ro (Romanian) by andreutu",
-          "published": "2022-05-17T01:52:23.290587Z",
-          "updated": "2023-07-03T05:06:50.757137Z",
-          "status": "approved",
-          "license": {
-            "id": "MIT",
-            "name": "MIT License"
-          },
-          "client_side": "required",
-          "server_side": "required",
-          "categories": [
-            "decoration",
-            "equipment",
-            "technology"
-          ],
-          "icon_url": "https://cdn.modrinth.com/data/Xbc0uyRg/f9d7c09397588b690cf3c09303d7812837b2caab.png",
-          "issues_url": "https://github.com/Fabricators-of-Create/Create/issues",
-          "source_url": "https://github.com/Fabricators-of-Create/Create",
-          "wiki_url": "https://github.com/Creators-of-Create/Create/wiki",
-          "discord_url": "https://discord.com/invite/hmaD7Se",
-          "donation_urls": [],
-          "gallery": []
-        },
-        "modrinthVersion": {
-          "id": "uxdmLu14",
-          "project_id": "Xbc0uyRg",
-          "author_id": "zvYJrcc6",
-          "name": "Create 1.18.2 v0.5.1.b Patch 2",
-          "version_number": "0.5.1-b-build.1088+mc1.18.2",
-          "changelog": "- fix some blocks in copycats causing crashes (#988, #984, #971)\n- fix pipe ponder crashing (#987, #970)\n- added safety on train carriage loading (#985)\n- fix visibility in fluids (#967)\n- fix unsupported inventories on contraptions causing crashes (#965)",
-          "date_published": "2023-07-03T05:06:52.948714Z",
-          "version_type": "beta",
-          "files": [
-            {
-              "hashes": {
-                "sha1": "de790d26583a3c767aef804f0fecbdcf09c9f6f7",
-                "sha512": "f0c9004b1a996a72d45785f73219b84e5131a1e4c0de1fede130aeb57127340c06b2058d2fe080554073a7d4963cc48713201477022d9fa5116e14dcb4b7b8db"
-              },
-              "url": "https://cdn.modrinth.com/data/Xbc0uyRg/versions/uxdmLu14/create-fabric-0.5.1-b-build.1088%2Bmc1.18.2.jar",
-              "filename": "create-fabric-0.5.1-b-build.1088+mc1.18.2.jar",
-              "primary": true,
-              "size": 18827993
-            }
-          ],
-          "dependencies": [
-            {
-              "project_id": "P7dR8mSH",
-              "dependency_type": "required"
-            }
-          ],
-          "game_versions": [
-            "1.18.2"
-          ],
-          "loaders": [
-            "fabric",
-            "quilt"
           ]
         }
       },
@@ -8382,226 +8021,6 @@
             "fabric",
             "quilt"
           ]
-        }
-      },
-      {
-        "name": "Farmer's Respite (Fabric)",
-        "version": " 1.0.0v - 1.18.2",
-        "optional": true,
-        "file": "Farmersrespite-Fabric-1.0.0.jar",
-        "type": "mods",
-        "description": "Tea addon for Farmer's Delight",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 811003,
-        "curseForgeFileId": 4344002,
-        "curseForgeProject": {
-          "id": 811003,
-          "name": "Farmer's Respite (Fabric)",
-          "authors": [
-            {
-              "id": 101609846,
-              "name": "JustoPlayzz_",
-              "url": "https://www.curseforge.com/members/101609846-justoplayzz_?username=justoplayzz_"
-            },
-            {
-              "id": 101388901,
-              "name": "StevePlayzz_",
-              "url": "https://www.curseforge.com/members/101388901-steveplayzz_?username=steveplayzz_"
-            },
-            {
-              "id": 101206472,
-              "name": "lumpazl",
-              "url": "https://www.curseforge.com/members/101206472-lumpazl?username=lumpazl"
-            }
-          ],
-          "gameId": 432,
-          "summary": "Tea addon for Farmer's Delight",
-          "categories": [
-            {
-              "name": "Food",
-              "slug": "mc-food",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-food",
-              "dateModified": "2014-05-08T17:45:26.55Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 436,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/49/635351499265510402.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 436,
-          "classId": 6,
-          "slug": "farmers-respite-fabric",
-          "isFeatured": false,
-          "dateModified": "2023-07-22T20:19:05.667Z",
-          "dateCreated": "2023-01-15T21:21:04.64Z",
-          "dateReleased": "2023-07-22T20:10:38.983Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/farmers-respite-fabric",
-            "issuesUrl": "https://github.com/Chefs-Delight/Farmersrespite-Fabric/issues",
-            "sourceUrl": "https://github.com/Chefs-Delight/Farmersrespite-Fabric"
-          },
-          "logo": {
-            "id": 758560,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/758/560/256/256/638094144647017511.png",
-            "title": "638094144647017511.png",
-            "url": "https://media.forgecdn.net/avatars/758/560/638094144647017511.png",
-            "modId": 811003
-          },
-          "allowModDistribution": true,
-          "screenshots": [
-            {
-              "id": 605417,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/605/417/310/172/2021-11-29_22-1.png",
-              "title": "Perfect Addition To Any Kitchen!",
-              "url": "https://media.forgecdn.net/attachments/605/417/2021-11-29_22-1.png",
-              "modId": 811003
-            },
-            {
-              "id": 605418,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/605/418/310/172/1-1.png",
-              "title": "Tea On The Beach!",
-              "url": "https://media.forgecdn.net/attachments/605/418/1-1.png",
-              "modId": 811003
-            },
-            {
-              "id": 605415,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/605/415/310/172/2021-11-30_00-1.png",
-              "title": "New Foods!",
-              "url": "https://media.forgecdn.net/attachments/605/415/2021-11-30_00-1.png",
-              "modId": 811003
-            },
-            {
-              "id": 605416,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/605/416/310/172/2021-11-30_00-1.png",
-              "title": "Time to Brew Some Tea!",
-              "url": "https://media.forgecdn.net/attachments/605/416/2021-11-30_00-1.png",
-              "modId": 811003
-            }
-          ],
-          "mainFileId": 4658852
-        },
-        "curseForgeFile": {
-          "id": 4344002,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": " 1.0.0v - 1.18.2",
-          "fileName": "Farmersrespite-Fabric-1.0.0.jar",
-          "releaseType": 2,
-          "fileStatus": 4,
-          "fileDate": "2023-01-16T05:03:59.417Z",
-          "fileLength": 1828039,
-          "dependencies": [
-            {
-              "fileId": 0,
-              "modId": 306612,
-              "relationType": 3
-            },
-            {
-              "fileId": 0,
-              "modId": 482834,
-              "relationType": 3
-            },
-            {
-              "fileId": 0,
-              "modId": 696251,
-              "relationType": 1
-            }
-          ],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 3182473408,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 2137875503,
-              "name": "LICENSE_farmersrespite-fabric"
-            },
-            {
-              "fingerprint": 1602765640,
-              "name": "farmersrespite.mixins.json"
-            },
-            {
-              "fingerprint": 399800916,
-              "name": "farmersrespite.accesswidener"
-            },
-            {
-              "fingerprint": 3119876505,
-              "name": "fabric.mod.json"
-            },
-            {
-              "fingerprint": 4125768766,
-              "name": "data"
-            },
-            {
-              "fingerprint": 2219178918,
-              "name": "assets"
-            },
-            {
-              "fingerprint": 3743762713,
-              "name": "Farmersrespite-Fabric-refmap.json"
-            },
-            {
-              "fingerprint": 2909479010,
-              "name": "com"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "c90ba50309399c6cfa6d0ae3cd09d75593318a45",
-              "algo": 1
-            },
-            {
-              "value": "e63e58c621aa389c13bd3424b77485d1",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
-              "gameVersionName": "Fabric"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
-              "gameVersionName": "Client"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000018.0000000002",
-              "gameVersion": "1.18.2",
-              "gameVersionReleaseDate": "2022-02-28T14:23:37.723Z",
-              "gameVersionName": "1.18.2"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
-              "gameVersionName": "Server"
-            }
-          ],
-          "gameVersions": [
-            "Fabric",
-            "Client",
-            "1.18.2",
-            "Server"
-          ],
-          "fileFingerprint": 221849147,
-          "modId": 811003
         }
       },
       {
@@ -12011,250 +11430,6 @@
         }
       },
       {
-        "name": "CreatePlus",
-        "version": "CreatePlus 1.0-beta4 for 1.18.2",
-        "optional": true,
-        "file": "createplus-1.0.0-beta4.jar",
-        "type": "mods",
-        "description": "Compatibility enchantments for Create Fabric.",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 623941,
-        "curseForgeFileId": 3793504,
-        "curseForgeProject": {
-          "id": 623941,
-          "name": "CreatePlus",
-          "authors": [
-            {
-              "id": 102642522,
-              "name": "Yjn024",
-              "url": "https://www.curseforge.com/members/102642522-yjn024?username=yjn024"
-            }
-          ],
-          "gameId": 432,
-          "summary": "Compatibility enchantments for Create Fabric",
-          "categories": [
-            {
-              "name": "Automation",
-              "slug": "technology-automation",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-automation",
-              "dateModified": "2021-03-08T14:46:13.24Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 4843,
-              "iconUrl": "https://media.forgecdn.net/avatars/352/517/637508115731820565.png",
-              "parentCategoryId": 412,
-              "classId": 6
-            },
-            {
-              "name": "Addons",
-              "slug": "mc-addons",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
-              "dateModified": "2014-05-08T17:09:48.63Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 426,
-              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Utility & QoL",
-              "slug": "utility-qol",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
-              "dateModified": "2021-11-17T11:45:09.143Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 5191,
-              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Miscellaneous",
-              "slug": "mc-miscellaneous",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
-              "dateModified": "2014-06-15T04:27:14.543Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 425,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 425,
-          "classId": 6,
-          "slug": "createplus",
-          "isFeatured": false,
-          "dateModified": "2022-05-18T01:27:43.483Z",
-          "dateCreated": "2022-05-16T07:34:29.227Z",
-          "dateReleased": "2022-05-16T07:37:14.843Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/createplus",
-            "wikiUrl": "",
-            "issuesUrl": "https://github.com/JieningYu/CreatePlus/issues",
-            "sourceUrl": "https://github.com/JieningYu/CreatePlus-mod"
-          },
-          "logo": {
-            "id": 548012,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/548/12/256/256/637882832692550267.png",
-            "title": "637882832692550267.png",
-            "url": "https://media.forgecdn.net/avatars/548/12/637882832692550267.png",
-            "modId": 623941
-          },
-          "allowModDistribution": true,
-          "screenshots": [],
-          "mainFileId": 3793504
-        },
-        "curseForgeFile": {
-          "id": 3793504,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "CreatePlus 1.0-beta4 for 1.18.2",
-          "fileName": "createplus-1.0.0-beta4.jar",
-          "releaseType": 2,
-          "fileStatus": 4,
-          "fileDate": "2022-05-16T07:37:14.843Z",
-          "fileLength": 910315,
-          "dependencies": [
-            {
-              "fileId": 0,
-              "modId": 624165,
-              "relationType": 3
-            },
-            {
-              "fileId": 0,
-              "modId": 306612,
-              "relationType": 3
-            }
-          ],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 1128859364,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 2217446674,
-              "name": "assets"
-            },
-            {
-              "fingerprint": 103718872,
-              "name": "data"
-            },
-            {
-              "fingerprint": 222548119,
-              "name": "resourcepacks"
-            },
-            {
-              "fingerprint": 630052260,
-              "name": "fabric.mod.json"
-            },
-            {
-              "fingerprint": 3688527545,
-              "name": "me"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "199a839806d471ff5b44e65b084998e10ec176ef",
-              "algo": 1
-            },
-            {
-              "value": "98df585810551117b2573fa365f27c98",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
-              "gameVersionName": "Fabric"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000018.0000000002",
-              "gameVersion": "1.18.2",
-              "gameVersionReleaseDate": "2022-02-28T14:23:37.723Z",
-              "gameVersionName": "1.18.2"
-            }
-          ],
-          "gameVersions": [
-            "Fabric",
-            "1.18.2"
-          ],
-          "fileFingerprint": 988012663,
-          "modId": 623941
-        },
-        "modrinthProject": {
-          "id": "svgZx0UN",
-          "slug": "createplus",
-          "project_type": "mod",
-          "team": "J1gzeHS9",
-          "title": "CreatePlus",
-          "description": "Compatibility enchantments for Create Fabric.",
-          "body": "[Datapack Version of CreatePlus](https://github.com/JieningYu/CreatePlus) | [Create Fabric Project](https://modrinth.com/mod/create-fabric)\n\nThis mod enhance the compatibility around Fabric mods of Create Fabric. Requires Create Fabric.\n\nPlease report bugs/suggestions to the Github.\n\nSupported Mods:\n- Tech Reborn\n- Farmer's Delight\n- Alloy Forgery\n- Applied Energistics 2\n- Betternether\n- Immersive Weathering\n- Mores\n- Promenade\n- Unearthed\n- Universal Ores\n- Gobber 2\n- Alloygery\n- Mythic Metals\n- Ecologics\n- Croptopia\n- Architects' Palette\n- More Geodes\n- The Bumblezone\n- Go Fish\n- Modern Industrialization\n- Paradise Lost\n- Blockus\n- Oxidized\n- Cave Enhancements\n- Twigs\n- Oh The Biomes You’ll Go\n- Trinkets\n- Biome Makeover",
-          "published": "2022-04-30T02:12:34.761466Z",
-          "updated": "2022-05-16T07:02:16.259984Z",
-          "license": {
-            "id": "MIT",
-            "name": "MIT License"
-          },
-          "client_side": "required",
-          "server_side": "required",
-          "categories": [
-            "utility"
-          ],
-          "icon_url": "https://cdn.modrinth.com/data/svgZx0UN/icon.png",
-          "issues_url": "https://github.com/JieningYu/CreatePlus/issues",
-          "source_url": "https://github.com/JieningYu/CreatePlus-mod/",
-          "donation_urls": [],
-          "gallery": []
-        },
-        "modrinthVersion": {
-          "id": "9UJV0MUF",
-          "project_id": "svgZx0UN",
-          "author_id": "ji8E3F5a",
-          "name": "CreatePlus 1.0-beta4 for 1.18.2",
-          "version_number": "1.0-beta4",
-          "changelog": "Features:\n\n- Now stray drops zinc dust\n- Add Biome Makeover support\n- Add Fabric Loader/Fabric API support\n\nNOTE: Quilt version will still support because quilt will remove fapi support at any time. Enjoy Fabric!",
-          "date_published": "2022-05-16T07:02:17.638817Z",
-          "version_type": "beta",
-          "files": [
-            {
-              "hashes": {
-                "sha1": "199a839806d471ff5b44e65b084998e10ec176ef",
-                "sha512": "a015baa2f47ee08c33f21958b7b2240504e7adac8f9e060d91bd9dba04857d601ab1063e08cfbe8c27b36ceceeb5eac61f63205fe1fb72ed59aa97c5c9f2e46e"
-              },
-              "url": "https://cdn.modrinth.com/data/svgZx0UN/versions/1.0-beta4/createplus-1.0.0-beta4.jar",
-              "filename": "createplus-1.0.0-beta4.jar",
-              "primary": true,
-              "size": 910315
-            }
-          ],
-          "dependencies": [
-            {
-              "version_id": "uxdmLu14",
-              "project_id": "Xbc0uyRg",
-              "dependency_type": "required"
-            }
-          ],
-          "game_versions": [
-            "1.18.2"
-          ],
-          "loaders": [
-            "fabric",
-            "quilt"
-          ]
-        }
-      },
-      {
         "name": "Deep Mob Learning: Refabricated",
         "version": "Deep Mob Learning: Refabricated 1.18.2+1.18.2",
         "optional": true,
@@ -12890,179 +12065,6 @@
           ],
           "fileFingerprint": 2953692272,
           "modId": 461316
-        }
-      },
-      {
-        "name": "Cloth Config API (UNUSED)",
-        "version": "[Fabric 1.18-1.18.2] v6.2.57",
-        "optional": true,
-        "file": "cloth-config-6.2.57-fabric.jar",
-        "type": "mods",
-        "description": "Config Screen API for Fabric 1.14",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 319057,
-        "curseForgeFileId": 3641132,
-        "curseForgeProject": {
-          "id": 319057,
-          "name": "Cloth Config API (UNUSED)",
-          "authors": [
-            {
-              "id": 32851078,
-              "name": "shedaniel",
-              "url": "https://www.curseforge.com/members/32851078-shedaniel?username=shedaniel"
-            },
-            {
-              "id": 101070148,
-              "name": "LinkieIsBetterThanK9",
-              "url": "https://www.curseforge.com/members/101070148-linkieisbetterthank9?username=linkieisbetterthank9"
-            }
-          ],
-          "gameId": 432,
-          "summary": "Config Screen API for Fabric 1.14",
-          "categories": [
-            {
-              "name": "API and Library",
-              "slug": "library-api",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
-              "dateModified": "2014-05-23T03:21:44.06Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 421,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 421,
-          "classId": 6,
-          "slug": "cloth-config-legacy",
-          "isFeatured": false,
-          "dateModified": "2022-04-21T11:10:05.117Z",
-          "dateCreated": "2019-04-08T09:48:40.703Z",
-          "dateReleased": "2022-04-21T11:04:11.78Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/cloth-config-legacy",
-            "wikiUrl": "https://shedaniel.gitbook.io/cloth-config/",
-            "issuesUrl": "https://github.com/shedaniel/ClothConfig/issues",
-            "sourceUrl": "https://github.com/shedaniel/ClothConfig"
-          },
-          "logo": {
-            "id": 282468,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/282/468/256/256/637289313152268031.png",
-            "title": "637289313152268031.png",
-            "url": "https://media.forgecdn.net/avatars/282/468/637289313152268031.png",
-            "modId": 319057
-          },
-          "allowModDistribution": true,
-          "screenshots": [],
-          "mainFileId": 3641134
-        },
-        "curseForgeFile": {
-          "id": 3641132,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "[Fabric 1.18-1.18.2] v6.2.57",
-          "fileName": "cloth-config-6.2.57-fabric.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2022-02-08T15:20:20.587Z",
-          "fileLength": 1122823,
-          "dependencies": [],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 913256574,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 1681417698,
-              "name": "assets"
-            },
-            {
-              "fingerprint": 1976903584,
-              "name": "cloth-config.accessWidener"
-            },
-            {
-              "fingerprint": 4061651779,
-              "name": "fabric.mod.json"
-            },
-            {
-              "fingerprint": 2356087988,
-              "name": "icon.png"
-            },
-            {
-              "fingerprint": 2112375997,
-              "name": "me"
-            },
-            {
-              "fingerprint": 2458202992,
-              "name": "architectury_inject_clothconfig_common_abcd86632bf44fb981927b83b8e34a90_0356a7a483eabfedaba980b5c85f759a4be93ea3fc0cb8a2cc087e3bc33fa11fclothconfig6257devjar"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "c52ef239d9d3d3473312d3f57bd8e730155ee5a5",
-              "algo": 1
-            },
-            {
-              "value": "85b627bfbfa933d83c383a5e7034f496",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0000000001.0000000018.0000000001",
-              "gameVersion": "1.18.1",
-              "gameVersionReleaseDate": "2021-12-10T10:37:38.06Z",
-              "gameVersionName": "1.18.1"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
-              "gameVersionName": "Fabric"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000019",
-              "gameVersion": "1.19",
-              "gameVersionReleaseDate": "2022-02-21T00:00:00Z",
-              "gameVersionName": "1.19-Snapshot"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000018.0000000002",
-              "gameVersion": "1.18.2",
-              "gameVersionReleaseDate": "2022-02-28T14:23:37.723Z",
-              "gameVersionName": "1.18.2"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000018",
-              "gameVersion": "1.18",
-              "gameVersionReleaseDate": "2021-11-30T16:23:01.427Z",
-              "gameVersionName": "1.18"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000018",
-              "gameVersion": "1.18",
-              "gameVersionReleaseDate": "2021-08-12T00:00:00Z",
-              "gameVersionName": "1.18-Snapshot"
-            }
-          ],
-          "gameVersions": [
-            "1.18.1",
-            "Fabric",
-            "1.19-Snapshot",
-            "1.18.2",
-            "1.18",
-            "1.18-Snapshot"
-          ],
-          "fileFingerprint": 285374830,
-          "modId": 319057
         }
       },
       {
@@ -19500,231 +18502,6 @@
         }
       },
       {
-        "name": "Trinkets",
-        "version": "trinkets-3.3.1.jar",
-        "optional": true,
-        "file": "trinkets-3.3.1.jar",
-        "type": "mods",
-        "description": "A data-driven accessory mod",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 341284,
-        "curseForgeFileId": 3786685,
-        "curseForgeProject": {
-          "id": 341284,
-          "name": "Trinkets (Fabric)",
-          "authors": [
-            {
-              "id": 100436320,
-              "name": "EmilyPloszaj",
-              "url": "https://www.curseforge.com/members/100436320-emilyploszaj?username=emilyploszaj"
-            }
-          ],
-          "gameId": 432,
-          "summary": "A data-driven accessory mod",
-          "categories": [
-            {
-              "name": "API and Library",
-              "slug": "library-api",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
-              "dateModified": "2014-05-23T03:21:44.06Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 421,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 421,
-          "classId": 6,
-          "slug": "trinkets",
-          "isFeatured": false,
-          "dateModified": "2023-07-22T01:32:52.277Z",
-          "dateCreated": "2019-09-12T23:26:22.057Z",
-          "dateReleased": "2023-07-22T01:20:03.83Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/trinkets",
-            "wikiUrl": "https://github.com/emilyalexandra/trinkets/wiki",
-            "issuesUrl": "https://github.com/emilyalexandra/trinkets/issues",
-            "sourceUrl": "https://github.com/emilyalexandra/trinkets"
-          },
-          "logo": {
-            "id": 392688,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/392/688/256/256/637587073088891583.png",
-            "title": "637587073088891583.png",
-            "url": "https://media.forgecdn.net/avatars/392/688/637587073088891583.png",
-            "modId": 341284
-          },
-          "allowModDistribution": true,
-          "screenshots": [
-            {
-              "id": 626565,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/626/565/310/172/trinkets.png",
-              "title": "Trinkets UI",
-              "url": "https://media.forgecdn.net/attachments/626/565/trinkets.png",
-              "modId": 341284
-            }
-          ],
-          "mainFileId": 4657534
-        },
-        "curseForgeFile": {
-          "id": 3786685,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "trinkets-3.3.1.jar",
-          "fileName": "trinkets-3.3.1.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2022-05-11T01:36:28.007Z",
-          "fileLength": 230557,
-          "dependencies": [],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 3516010444,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 2150000053,
-              "name": "LICENSE_trinkets"
-            },
-            {
-              "fingerprint": 492230887,
-              "name": "trinkets.mixins.json"
-            },
-            {
-              "fingerprint": 1117962783,
-              "name": "data"
-            },
-            {
-              "fingerprint": 4155844067,
-              "name": "fabric.mod.json"
-            },
-            {
-              "fingerprint": 479894963,
-              "name": "assets"
-            },
-            {
-              "fingerprint": 3114132999,
-              "name": "trinkets.accesswidener"
-            },
-            {
-              "fingerprint": 3025758381,
-              "name": "trinkets-refmap.json"
-            },
-            {
-              "fingerprint": 2599442920,
-              "name": "dev"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "1f6784a63d0c4cfe6caacf7b7a93ddd9f0b4e491",
-              "algo": 1
-            },
-            {
-              "value": "8b3541d6799c06e4b81cfdccc1e43c8d",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
-              "gameVersionName": "Fabric"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000018.0000000002",
-              "gameVersion": "1.18.2",
-              "gameVersionReleaseDate": "2022-02-28T14:23:37.723Z",
-              "gameVersionName": "1.18.2"
-            }
-          ],
-          "gameVersions": [
-            "Fabric",
-            "1.18.2"
-          ],
-          "fileFingerprint": 4063118160,
-          "modId": 341284
-        },
-        "modrinthProject": {
-          "id": "5aaWibi9",
-          "slug": "trinkets",
-          "project_type": "mod",
-          "team": "F0xlmrbH",
-          "title": "Trinkets",
-          "description": "A data-driven accessory mod",
-          "body": "# Trinkets\nA data-driven accessory mod for Minecraft using Fabric.\n\n![Image of the Trinkets UI](https://cdn-raw.modrinth.com/data/5aaWibi9/images/56224f13887cdd914a9624a18eb845dae0bcdfc0.png)\n\n## About\nTrinkets adds a slot group and slot system to Minecraft. Slot groups are collections of slots for a certain body part or more vague area. By default there are 6 slot groups (head, chest, legs, feet, offhand, hand) that can have slots added to them, but more groups can be added if desired. Trinkets' UI is intuitive to use, accessible, and attempts to do away with clutter. Its system means that you'll never have a slot that's not used for anything, as mods request the slots they want.\n\nFor basic tutorials and comprehensive documentation, visit this project's [wiki](https://github.com/emilyploszaj/trinkets/wiki/Home).\n",
-          "published": "2021-06-08T00:05:32.472592Z",
-          "updated": "2023-07-22T01:20:46.448192Z",
-          "status": "approved",
-          "license": {
-            "id": "MIT",
-            "name": "MIT License"
-          },
-          "client_side": "required",
-          "server_side": "required",
-          "categories": [
-            "equipment",
-            "library",
-            "utility"
-          ],
-          "icon_url": "https://cdn.modrinth.com/data/5aaWibi9/icon.png",
-          "issues_url": "https://github.com/emilyalexandra/trinkets/issues",
-          "source_url": "https://github.com/emilyalexandra/trinkets",
-          "wiki_url": "https://github.com/emilyalexandra/trinkets/wiki",
-          "discord_url": "https://discord.gg/T2PuD9RTWV",
-          "donation_urls": [],
-          "gallery": [
-            {
-              "url": "https://cdn.modrinth.com/data/5aaWibi9/images/56224f13887cdd914a9624a18eb845dae0bcdfc0.png",
-              "featured": false,
-              "title": "Trinkets UI",
-              "created": "2023-02-24T23:54:31.401757Z",
-              "ordering": 0.0
-            }
-          ]
-        },
-        "modrinthVersion": {
-          "id": "XqLNMi9J",
-          "project_id": "5aaWibi9",
-          "author_id": "R6WsWKy9",
-          "name": "3.3.1",
-          "version_number": "3.3.1",
-          "changelog": "### Fixes\n* Fixed undesirable tooltip descriptions with certain slot configurations\n* Fixed layered slot misbehavior #161",
-          "date_published": "2022-05-11T01:37:42.906108Z",
-          "version_type": "release",
-          "files": [
-            {
-              "hashes": {
-                "sha512": "432fd889b941268a820b418b14d6908d25394b478273ce1b5614fa6a385ca634711a52003dd552839a8adee9e220d71b0ee15a59a3b7edfcb06b35901d36d3d7",
-                "sha1": "1f6784a63d0c4cfe6caacf7b7a93ddd9f0b4e491"
-              },
-              "url": "https://cdn.modrinth.com/data/5aaWibi9/versions/3.3.1/trinkets-3.3.1.jar",
-              "filename": "trinkets-3.3.1.jar",
-              "primary": true,
-              "size": 230557
-            }
-          ],
-          "dependencies": [],
-          "game_versions": [
-            "1.18.2"
-          ],
-          "loaders": [
-            "fabric",
-            "quilt"
-          ]
-        }
-      },
-      {
         "name": "Icarus",
         "version": "icarus-1.11.jar",
         "optional": true,
@@ -21340,228 +20117,6 @@
           "game_versions": [
             "1.18",
             "1.18.1",
-            "1.18.2"
-          ],
-          "loaders": [
-            "fabric"
-          ]
-        }
-      },
-      {
-        "name": "Customizable Player Models",
-        "version": "CustomPlayerModelsFabric-1.18 v0.6.9a",
-        "optional": true,
-        "file": "CustomPlayerModels-Fabric-1.18-0.6.9a.jar",
-        "type": "mods",
-        "description": "Customize your minecraft avatar!",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 440597,
-        "curseForgeFileId": 4630298,
-        "curseForgeProject": {
-          "id": 440597,
-          "name": "Customizable Player Models (Fabric)",
-          "authors": [
-            {
-              "id": 20152707,
-              "name": "tom54541",
-              "url": "https://www.curseforge.com/members/20152707-tom54541?username=tom54541"
-            }
-          ],
-          "gameId": 432,
-          "summary": "Customize your minecraft avatar!",
-          "categories": [
-            {
-              "name": "Cosmetic",
-              "slug": "cosmetic",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
-              "dateModified": "2014-05-08T17:42:35.597Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 424,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 424,
-          "classId": 6,
-          "slug": "custom-player-models-fabric",
-          "isFeatured": false,
-          "dateModified": "2023-07-07T16:31:51.837Z",
-          "dateCreated": "2021-01-27T10:38:09.037Z",
-          "dateReleased": "2023-07-07T16:25:26.427Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/custom-player-models-fabric",
-            "wikiUrl": "https://github.com/tom5454/CustomPlayerModels/wiki",
-            "issuesUrl": "https://github.com/tom5454/CustomPlayerModels/issues",
-            "sourceUrl": "https://github.com/tom5454/CustomPlayerModels"
-          },
-          "logo": {
-            "id": 345677,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/345/677/256/256/637493525705772891.png",
-            "title": "637493525705772891.png",
-            "url": "https://media.forgecdn.net/avatars/345/677/637493525705772891.png",
-            "modId": 440597
-          },
-          "allowModDistribution": true,
-          "screenshots": [],
-          "mainFileId": 4630302
-        },
-        "curseForgeFile": {
-          "id": 4630298,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "CustomPlayerModelsFabric-1.18 v0.6.9a",
-          "fileName": "CustomPlayerModels-Fabric-1.18-0.6.9a.jar",
-          "releaseType": 2,
-          "fileStatus": 4,
-          "fileDate": "2023-07-07T16:24:31.963Z",
-          "fileLength": 2128242,
-          "dependencies": [
-            {
-              "fileId": 0,
-              "modId": 319596,
-              "relationType": 2
-            }
-          ],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 2128677910,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 1256489660,
-              "name": "pack.mcmeta"
-            },
-            {
-              "fingerprint": 3471548733,
-              "name": "icon.png"
-            },
-            {
-              "fingerprint": 3965337332,
-              "name": "fabric.mod.json"
-            },
-            {
-              "fingerprint": 1179182089,
-              "name": "cpm.mixins.of.json"
-            },
-            {
-              "fingerprint": 1383802865,
-              "name": "cpm.mixins.json"
-            },
-            {
-              "fingerprint": 2366800017,
-              "name": "cpm.accesswidener"
-            },
-            {
-              "fingerprint": 2148632739,
-              "name": "assets"
-            },
-            {
-              "fingerprint": 2692542837,
-              "name": "CustomPlayerModels-Fabric-1.18-refmap.json"
-            },
-            {
-              "fingerprint": 98243570,
-              "name": "com"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "f001ac3b8aad24779bd5ea1b645b2e871144d858",
-              "algo": 1
-            },
-            {
-              "value": "4a098a2b550e1f1a6fe30b5b3d7b300f",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
-              "gameVersionName": "Fabric"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000018.0000000002",
-              "gameVersion": "1.18.2",
-              "gameVersionReleaseDate": "2022-02-28T14:23:37.723Z",
-              "gameVersionName": "1.18.2"
-            }
-          ],
-          "gameVersions": [
-            "Fabric",
-            "1.18.2"
-          ],
-          "fileFingerprint": 1016625219,
-          "modId": 440597
-        },
-        "modrinthProject": {
-          "id": "h1E7sQNL",
-          "slug": "custom-player-models",
-          "project_type": "mod",
-          "team": "hKEYlyE3",
-          "title": "Customizable Player Models",
-          "description": "Customize your minecraft avatar!",
-          "body": "## Customizable Player Models\nCreate a custom avatar using the built-in editor.\n![Creating a hat in the editor](https://media.forgecdn.net/attachments/337/167/2021-01-30_12.png)\nThe models are stored in unused space on your Minecraft Skin, or as a Gist on GitHub.  \nUpload the exported image file as your skin to load the custom model.  \n\nThe additional parts can have custom textures, higher resolution skins can be used (Steve skin from [Soartex Fanver - Vanilla](https://www.curseforge.com/minecraft/texture-packs/soartex-fanver-vanilla))  \nParts of the normal player model can be hidden or moved around.\n![Examples](https://raw.githubusercontent.com/tom5454/CustomPlayerModels/master/screenshots/examples.png)\nYou can even make parts of your skin \"glow\" like a glow squid.\n![Glow](https://media.forgecdn.net/attachments/337/173/2021-01-30_12.png)\nPlugin for Bukkit/Spigot servers for changing skins ingame (not required): [https://github.com/tom5454/CustomPlayerModels/releases](https://github.com/tom5454/CustomPlayerModels/releases)",
-          "published": "2022-03-19T16:17:46.891784Z",
-          "updated": "2023-07-07T16:25:44.633796Z",
-          "status": "approved",
-          "license": {
-            "id": "MIT",
-            "name": "MIT License"
-          },
-          "client_side": "required",
-          "server_side": "optional",
-          "categories": [
-            "decoration",
-            "social"
-          ],
-          "icon_url": "https://cdn.modrinth.com/data/h1E7sQNL/icon.png",
-          "issues_url": "https://github.com/tom5454/CustomPlayerModels/issues",
-          "source_url": "https://github.com/tom5454/CustomPlayerModels",
-          "wiki_url": "https://github.com/tom5454/CustomPlayerModels/wiki",
-          "discord_url": "https://discord.gg/mKyXdEsMZD",
-          "donation_urls": [],
-          "gallery": []
-        },
-        "modrinthVersion": {
-          "id": "fiWwaAyp",
-          "project_id": "h1E7sQNL",
-          "author_id": "WBSj30w3",
-          "name": "CustomPlayerModelsFabric-1.18 v0.6.9a fabric",
-          "version_number": "1.18v0.6.9a-fabric",
-          "changelog": "Added Reverse Animation frames button  \nAdded /cpm detect command (Closes [#450](https://github.com/tom5454/CustomPlayerModels/issues/450))  \nAdded the ability to bind quick access key with Right Click (Closes [#334](https://github.com/tom5454/CustomPlayerModels/issues/334))  \n  \nFixed UV boxes not rendering in 1.20 (Closes [#436](https://github.com/tom5454/CustomPlayerModels/issues/436))  \nFixed property menu crashing if value layer is added (Closes [#438](https://github.com/tom5454/CustomPlayerModels/issues/438))  \nFixed crash and visual bugs with some other mods on Forge (Closes [#372](https://github.com/tom5454/CustomPlayerModels/issues/372))  \nFixed closing in editor chat closes the Editor on 1.19+  \nFixed z-fighting issues in the editor on 1.20  \nFixed commands not working on 1.20  \nFixed commands not working without a specified player  \nFixed animation restarting when clicking the on the model (Closes [#446](https://github.com/tom5454/CustomPlayerModels/issues/446))  \nFixed /cpm commands not failing correctly",
-          "date_published": "2023-07-07T16:24:41.408944Z",
-          "version_type": "beta",
-          "files": [
-            {
-              "hashes": {
-                "sha512": "a2e90c50fc349e82254f39946a1d053330fa405975afaa9a9b23c7f665da77948bb44459317730ac79c0e49ae27359dc4a2394ef3432a44ef6a9c4ab7cdd1de1",
-                "sha1": "f001ac3b8aad24779bd5ea1b645b2e871144d858"
-              },
-              "url": "https://cdn.modrinth.com/data/h1E7sQNL/versions/fiWwaAyp/CustomPlayerModels-Fabric-1.18-0.6.9a.jar",
-              "filename": "CustomPlayerModels-Fabric-1.18-0.6.9a.jar",
-              "primary": true,
-              "size": 2128242
-            }
-          ],
-          "dependencies": [
-            {
-              "version_id": "upq7HCkV",
-              "project_id": "t5W7Jfwy",
-              "dependency_type": "optional"
-            }
-          ],
-          "game_versions": [
             "1.18.2"
           ],
           "loaders": [
@@ -23739,172 +22294,6 @@
         }
       },
       {
-        "name": "Cloth Config API (Fabric/Forge)",
-        "version": "[Fabric 1.18.x] v6.5.102",
-        "optional": true,
-        "file": "cloth-config-6.5.102-fabric.jar",
-        "type": "mods",
-        "description": "Config Screen API for Minecraft",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 348521,
-        "curseForgeFileId": 4633386,
-        "curseForgeProject": {
-          "id": 348521,
-          "name": "Cloth Config API (Fabric/Forge)",
-          "authors": [
-            {
-              "id": 32851078,
-              "name": "shedaniel",
-              "url": "https://www.curseforge.com/members/32851078-shedaniel?username=shedaniel"
-            },
-            {
-              "id": 101070148,
-              "name": "LinkieIsBetterThanK9",
-              "url": "https://www.curseforge.com/members/101070148-linkieisbetterthank9?username=linkieisbetterthank9"
-            }
-          ],
-          "gameId": 432,
-          "summary": "Config Screen API for Minecraft",
-          "categories": [
-            {
-              "name": "API and Library",
-              "slug": "library-api",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
-              "dateModified": "2014-05-23T03:21:44.06Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 421,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 421,
-          "classId": 6,
-          "slug": "cloth-config",
-          "isFeatured": false,
-          "dateModified": "2023-07-09T14:06:09.703Z",
-          "dateCreated": "2019-10-19T12:26:33.023Z",
-          "dateReleased": "2023-07-09T14:05:06.383Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/cloth-config",
-            "wikiUrl": "https://shedaniel.gitbook.io/cloth-config/",
-            "issuesUrl": "https://github.com/shedaniel/ClothConfig/issues",
-            "sourceUrl": "https://github.com/shedaniel/ClothConfig"
-          },
-          "logo": {
-            "id": 282467,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/282/467/256/256/637289313020452406.png",
-            "title": "637289313020452406.png",
-            "url": "https://media.forgecdn.net/avatars/282/467/637289313020452406.png",
-            "modId": 348521
-          },
-          "allowModDistribution": true,
-          "screenshots": [],
-          "mainFileId": 4633444
-        },
-        "curseForgeFile": {
-          "id": 4633386,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "[Fabric 1.18.x] v6.5.102",
-          "fileName": "cloth-config-6.5.102-fabric.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2023-07-09T13:34:42.773Z",
-          "fileLength": 1150058,
-          "dependencies": [],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 3840402532,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 385043272,
-              "name": "assets"
-            },
-            {
-              "fingerprint": 3688128853,
-              "name": "fabric.mod.json"
-            },
-            {
-              "fingerprint": 1976903584,
-              "name": "cloth-config.accessWidener"
-            },
-            {
-              "fingerprint": 2356087988,
-              "name": "icon.png"
-            },
-            {
-              "fingerprint": 3039595558,
-              "name": "me"
-            },
-            {
-              "fingerprint": 269197167,
-              "name": "architectury_inject_clothconfig_common_eb3676ff47f14a7898cbb2b8b0a18d20_1c3ef205c6f06fead90566bb3969c6803f972c5c6b92aa009ea03e725bb119bcclothconfig65102devjar"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "d8996df838204ebe2aa7314b0a95914d326b37e0",
-              "algo": 1
-            },
-            {
-              "value": "2de29535e064b759e30843aac0dc08bc",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0000000001.0000000018.0000000001",
-              "gameVersion": "1.18.1",
-              "gameVersionReleaseDate": "2021-12-10T10:37:38.06Z",
-              "gameVersionName": "1.18.1"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
-              "gameVersionName": "Fabric"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000018.0000000002",
-              "gameVersion": "1.18.2",
-              "gameVersionReleaseDate": "2022-02-28T14:23:37.723Z",
-              "gameVersionName": "1.18.2"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000018",
-              "gameVersion": "1.18",
-              "gameVersionReleaseDate": "2021-11-30T16:23:01.427Z",
-              "gameVersionName": "1.18"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000018",
-              "gameVersion": "1.18",
-              "gameVersionReleaseDate": "2021-08-12T00:00:00Z",
-              "gameVersionName": "1.18-Snapshot"
-            }
-          ],
-          "gameVersions": [
-            "1.18.1",
-            "Fabric",
-            "1.18.2",
-            "1.18",
-            "1.18-Snapshot"
-          ],
-          "fileFingerprint": 4030958769,
-          "modId": 348521
-        }
-      },
-      {
         "name": "Simple Discord RPC [Forge/Fabric/Quilt]",
         "version": "[FABRIC/QUILT 1.18.2] Simple RPC 3.2.2",
         "optional": true,
@@ -24098,13 +22487,1392 @@
           "fileFingerprint": 1697933304,
           "modId": 411816
         }
+      },
+      {
+        "name": "FTB Library (Fabric)",
+        "version": "ftb-library-fabric-1802.3.11-build.177.jar",
+        "optional": true,
+        "file": "ftb-library-fabric-1802.3.11-build.177.jar",
+        "type": "mods",
+        "description": "Common code for all GUI stuff in FTB Mods. Component/layer based GUI creation. Used by mods such as FTB Chunks, FTB Quests, etc. (Fabric version)",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 438495,
+        "curseForgeFileId": 4396791,
+        "curseForgeProject": {
+          "id": 438495,
+          "name": "FTB Library (Fabric)",
+          "authors": [
+            {
+              "id": 17809311,
+              "name": "FTB",
+              "url": "https://www.curseforge.com/members/17809311-ftb?username=ftb"
+            },
+            {
+              "id": 8021848,
+              "name": "ErrorMikey",
+              "url": "https://www.curseforge.com/members/8021848-error_mikey?username=error_mikey"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Common code for all GUI stuff in FTB Mods. Component/layer based GUI creation. Used by mods such as FTB Chunks, FTB Quests, etc. (Fabric version)",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 421,
+          "classId": 6,
+          "slug": "ftb-library-fabric",
+          "isFeatured": false,
+          "dateModified": "2023-07-24T13:16:57.673Z",
+          "dateCreated": "2021-01-21T14:45:47.627Z",
+          "dateReleased": "2023-07-24T13:13:52.85Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/ftb-library-fabric",
+            "wikiUrl": "https://feedthebeast.notion.site/FTB-Mod-Documentation-da2e359bad2449459d58d787edda3168",
+            "issuesUrl": "https://github.com/FTBTeam/FTB-GUI-Library/issues",
+            "sourceUrl": "https://github.com/FTBTeam/FTB-GUI-Library"
+          },
+          "logo": {
+            "id": 334434,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/334/434/256/256/637468371476661211.png",
+            "title": "637468371476661211.png",
+            "url": "https://media.forgecdn.net/avatars/334/434/637468371476661211.png",
+            "modId": 438495
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 4661833
+        },
+        "curseForgeFile": {
+          "id": 4396791,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "ftb-library-fabric-1802.3.11-build.177.jar",
+          "fileName": "ftb-library-fabric-1802.3.11-build.177.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-02-15T08:55:02.173Z",
+          "fileLength": 575765,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 310111,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 419699,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2382782102,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3818737363,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2229262088,
+              "name": "ftblibrary-common.mixins.json"
+            },
+            {
+              "fingerprint": 1091646804,
+              "name": "kubejs.classfilter.txt"
+            },
+            {
+              "fingerprint": 2170536260,
+              "name": "ftb-library-common-refmap.json"
+            },
+            {
+              "fingerprint": 2593748373,
+              "name": "ftblibrary-fabric.mixins.json"
+            },
+            {
+              "fingerprint": 819857125,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 1584461606,
+              "name": "ftb-library-fabric-refmap.json"
+            },
+            {
+              "fingerprint": 3521958636,
+              "name": "dev"
+            },
+            {
+              "fingerprint": 2515705024,
+              "name": "architectury_inject_FTBLibrary1182_common_be4ba33c1e73475d99a9f1925b90e62d_6054caa5fb1154fdc7159351e10d1fbd668b077b813eafee01c708e73445ac87ftblibrary1802311build177devjar"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "1b030cc96b46b76ab8d28bb6fd19bde64783d7d5",
+              "algo": 1
+            },
+            {
+              "value": "23ae2213f7593c2c8b63012e14616f6b",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000018.0000000002",
+              "gameVersion": "1.18.2",
+              "gameVersionReleaseDate": "2022-02-28T14:23:37.723Z",
+              "gameVersionName": "1.18.2"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.18.2"
+          ],
+          "fileFingerprint": 1936315963,
+          "modId": 438495
+        }
+      },
+      {
+        "name": "FTB Teams (Fabric)",
+        "version": "ftb-teams-fabric-1802.2.11-build.107.jar",
+        "optional": true,
+        "file": "ftb-teams-fabric-1802.2.11-build.107.jar",
+        "type": "mods",
+        "description": "Library for mods that can utilize team progression like FTB Chunks and FTB Quests. (Fabric version)",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 438497,
+        "curseForgeFileId": 4579980,
+        "curseForgeProject": {
+          "id": 438497,
+          "name": "FTB Teams (Fabric)",
+          "authors": [
+            {
+              "id": 17809311,
+              "name": "FTB",
+              "url": "https://www.curseforge.com/members/17809311-ftb?username=ftb"
+            },
+            {
+              "id": 8021848,
+              "name": "ErrorMikey",
+              "url": "https://www.curseforge.com/members/8021848-error_mikey?username=error_mikey"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Library for mods that can utilize team progression like FTB Chunks and FTB Quests. (Fabric version)",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 421,
+          "classId": 6,
+          "slug": "ftb-teams-fabric",
+          "isFeatured": false,
+          "dateModified": "2023-07-03T15:59:19.937Z",
+          "dateCreated": "2021-01-21T14:49:20.477Z",
+          "dateReleased": "2023-07-03T15:48:35.713Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/ftb-teams-fabric",
+            "wikiUrl": "https://feedthebeast.notion.site/FTB-Mod-Documentation-da2e359bad2449459d58d787edda3168",
+            "issuesUrl": "https://github.com/FTBTeam/FTB-Teams/issues",
+            "sourceUrl": "https://github.com/FTBTeam/FTB-Teams"
+          },
+          "logo": {
+            "id": 334436,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/334/436/256/256/637468373605196676.png",
+            "title": "637468373605196676.png",
+            "url": "https://media.forgecdn.net/avatars/334/436/637468373605196676.png",
+            "modId": 438497
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 4611937
+        },
+        "curseForgeFile": {
+          "id": 4579980,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "ftb-teams-fabric-1802.2.11-build.107.jar",
+          "fileName": "ftb-teams-fabric-1802.2.11-build.107.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-06-11T11:16:40.023Z",
+          "fileLength": 204739,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 438495,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 419699,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 140276301,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3681189823,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 4244743998,
+              "name": "kubejs.classfilter.txt"
+            },
+            {
+              "fingerprint": 3326652188,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 3921316953,
+              "name": "dev"
+            },
+            {
+              "fingerprint": 3271103035,
+              "name": "architectury_inject_FTBTeams1182_common_bd65c35c7f254b8eaad55fc564807e6f_d370e04aa1521539dd85a28324fd9f9fdd493b07d5d8ca06e78292f3d88765c0ftbteams1802211build107devjar"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "faaecdef7abee663965a6524fdb9f6020b459274",
+              "algo": 1
+            },
+            {
+              "value": "c4b27348dfa512af740685b6bd5fdb63",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000018.0000000002",
+              "gameVersion": "1.18.2",
+              "gameVersionReleaseDate": "2022-02-28T14:23:37.723Z",
+              "gameVersionName": "1.18.2"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.18.2"
+          ],
+          "fileFingerprint": 487752048,
+          "modId": 438497
+        }
+      },
+      {
+        "name": "Item Filters",
+        "version": "item-filters-fabric-1802.2.8-build.50.jar",
+        "optional": true,
+        "file": "item-filters-fabric-1802.2.8-build.50.jar",
+        "type": "mods",
+        "description": "Item Filters is a library mod that is used by mods like FTB Quests. It adds several filter items that let you precisely select which items to match.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 309674,
+        "curseForgeFileId": 4553321,
+        "curseForgeProject": {
+          "id": 309674,
+          "name": "Item Filters",
+          "authors": [
+            {
+              "id": 11776558,
+              "name": "LatvianModder",
+              "url": "https://www.curseforge.com/members/11776558-latvianmodder?username=latvianmodder"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Item Filters is a library mod that is used by mods like FTB Quests. It adds several filter items that let you precisely select which items to match.",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 421,
+          "classId": 6,
+          "slug": "item-filters",
+          "isFeatured": false,
+          "dateModified": "2023-07-14T19:19:12.823Z",
+          "dateCreated": "2018-12-24T11:44:13.563Z",
+          "dateReleased": "2023-07-14T19:11:47.793Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/item-filters",
+            "wikiUrl": "https://discord.gg/latviandev",
+            "issuesUrl": "https://github.com/LatvianModder/Item-Filters/issues",
+            "sourceUrl": "https://github.com/LatvianModder/Item-Filters"
+          },
+          "logo": {
+            "id": 183063,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/183/63/256/256/636812486536100113.png",
+            "title": "636812486536100113.png",
+            "url": "https://media.forgecdn.net/avatars/183/63/636812486536100113.png",
+            "modId": 309674
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 4553322
+        },
+        "curseForgeFile": {
+          "id": 4553321,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "item-filters-fabric-1802.2.8-build.50.jar",
+          "fileName": "item-filters-fabric-1802.2.8-build.50.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-05-26T13:36:13.007Z",
+          "fileLength": 113724,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 419699,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 500885453,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3407176033,
+              "name": "data"
+            },
+            {
+              "fingerprint": 3895545159,
+              "name": "itemfilters-common.mixins.json"
+            },
+            {
+              "fingerprint": 1163627851,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 1493072104,
+              "name": "item-filters-common-refmap.json"
+            },
+            {
+              "fingerprint": 4170552757,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 456596843,
+              "name": "dev"
+            },
+            {
+              "fingerprint": 361137905,
+              "name": "architectury_inject_ItemFilters118_common_ff8b13cc122d48359290619a35683bda_ae1a30b1dedb0a1f5ca389ecacef4cbf747edbf754c80d23290121ceda9d3e17itemfilters180228build50devjar"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "646175d4efcf0068ad852ba3291cbbaa9d6fdb93",
+              "algo": 1
+            },
+            {
+              "value": "fc2abe81700c293ed2808411389f824e",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000018.0000000002",
+              "gameVersion": "1.18.2",
+              "gameVersionReleaseDate": "2022-02-28T14:23:37.723Z",
+              "gameVersionName": "1.18.2"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.18.2"
+          ],
+          "fileFingerprint": 1204742454,
+          "modId": 309674
+        }
+      },
+      {
+        "name": "FTB Quests (Fabric)",
+        "version": "ftb-quests-fabric-1802.3.14-build.191.jar",
+        "optional": true,
+        "file": "ftb-quests-fabric-1802.3.14-build.191.jar",
+        "type": "mods",
+        "description": "FTB Quests is a lightweight, team-based questing mod and is very simple to use. (Fabric version)",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 438496,
+        "curseForgeFileId": 4398374,
+        "curseForgeProject": {
+          "id": 438496,
+          "name": "FTB Quests (Fabric)",
+          "authors": [
+            {
+              "id": 17809311,
+              "name": "FTB",
+              "url": "https://www.curseforge.com/members/17809311-ftb?username=ftb"
+            },
+            {
+              "id": 8021848,
+              "name": "ErrorMikey",
+              "url": "https://www.curseforge.com/members/8021848-error_mikey?username=error_mikey"
+            }
+          ],
+          "gameId": 432,
+          "summary": "FTB Quests is a lightweight, team-based questing mod and is very simple to use. (Fabric version)",
+          "categories": [
+            {
+              "name": "Map and Information",
+              "slug": "map-information",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
+              "dateModified": "2014-05-08T17:42:23.74Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 423,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Server Utility",
+              "slug": "server-utility",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+              "dateModified": "2014-05-08T17:44:55.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 435,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 422,
+          "classId": 6,
+          "slug": "ftb-quests-fabric",
+          "isFeatured": false,
+          "dateModified": "2023-07-19T10:57:59.08Z",
+          "dateCreated": "2021-01-21T14:48:11.973Z",
+          "dateReleased": "2023-07-19T10:56:01.473Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/ftb-quests-fabric",
+            "wikiUrl": "https://feedthebeast.notion.site/FTB-Mod-Documentation-da2e359bad2449459d58d787edda3168"
+          },
+          "logo": {
+            "id": 334435,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/334/435/256/256/637468372920049386.png",
+            "title": "637468372920049386.png",
+            "url": "https://media.forgecdn.net/avatars/334/435/637468372920049386.png",
+            "modId": 438496
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 4652999
+        },
+        "curseForgeFile": {
+          "id": 4398374,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "ftb-quests-fabric-1802.3.14-build.191.jar",
+          "fileName": "ftb-quests-fabric-1802.3.14-build.191.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-02-16T12:33:37.07Z",
+          "fileLength": 1079085,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 419699,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 438495,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 309674,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 438497,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 395864,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3558581233,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2409759863,
+              "name": "kubejs.plugins.txt"
+            },
+            {
+              "fingerprint": 3083110166,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3371782786,
+              "name": "kubejs.classfilter.txt"
+            },
+            {
+              "fingerprint": 1493074246,
+              "name": "data"
+            },
+            {
+              "fingerprint": 225872815,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 3159895226,
+              "name": "dev"
+            },
+            {
+              "fingerprint": 2734318814,
+              "name": "architectury_inject_FTBQuests1182_common_4aa20a264afc46368ed9f02ced05055e_bd691ed9c57d15ae7fc615e0c749d6f1135916a817db9c78af6d03a5e78df885ftbquests1802314build191devjar"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "818d3621e4d64a1fbdbc478dc04bdc3b6404c754",
+              "algo": 1
+            },
+            {
+              "value": "e22c24956b835cf958fdea4401742059",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000018.0000000002",
+              "gameVersion": "1.18.2",
+              "gameVersionReleaseDate": "2022-02-28T14:23:37.723Z",
+              "gameVersionName": "1.18.2"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.18.2"
+          ],
+          "fileFingerprint": 601482443,
+          "modId": 438496
+        }
+      },
+      {
+        "name": "Better Advancements",
+        "version": "BetterAdvancements-Fabric-1.18.2-0.2.0.146.jar",
+        "optional": true,
+        "file": "BetterAdvancements-Fabric-1.18.2-0.2.0.146.jar",
+        "type": "mods",
+        "description": "Successor to BetterAchievements for the new advancements system in minecraft 1.12+",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 272515,
+        "curseForgeFileId": 4111317,
+        "curseForgeProject": {
+          "id": 272515,
+          "name": "Better Advancements",
+          "authors": [
+            {
+              "id": 14753335,
+              "name": "way2muchnoise",
+              "url": "https://www.curseforge.com/members/14753335-way2muchnoise?username=way2muchnoise"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Successor to BetterAchievements for the new advancements system in minecraft 1.12+",
+          "categories": [
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 424,
+          "classId": 6,
+          "slug": "better-advancements",
+          "isFeatured": false,
+          "dateModified": "2023-07-08T07:34:04.327Z",
+          "dateCreated": "2017-07-19T23:16:12.303Z",
+          "dateReleased": "2023-07-08T07:23:19.22Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/better-advancements",
+            "issuesUrl": "https://github.com/way2muchnoise/BetterAdvancements/issues",
+            "sourceUrl": "https://github.com/way2muchnoise/BetterAdvancements"
+          },
+          "logo": {
+            "id": 106654,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/106/654/256/256/636360849723336023.png",
+            "title": "636360849723336023.png",
+            "url": "https://media.forgecdn.net/avatars/106/654/636360849723336023.png",
+            "modId": 272515
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 4111317
+        },
+        "curseForgeFile": {
+          "id": 4111317,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "BetterAdvancements-Fabric-1.18.2-0.2.0.146.jar",
+          "fileName": "BetterAdvancements-Fabric-1.18.2-0.2.0.146.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2022-11-25T12:51:09.49Z",
+          "fileLength": 64113,
+          "dependencies": [],
+          "alternateFileId": 4111318,
+          "modules": [
+            {
+              "fingerprint": 2914930842,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 864000583,
+              "name": "betteradvancements.mixins.json"
+            },
+            {
+              "fingerprint": 2900330132,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 700195298,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 4186922747,
+              "name": "betteradvancements.accesswidener"
+            },
+            {
+              "fingerprint": 3357212164,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 3466414703,
+              "name": "BetterAdvancements-Fabric-1.18.2-refmap.json"
+            },
+            {
+              "fingerprint": 4223901352,
+              "name": "betteradvancements"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "319bf534ef40874e9897fca624750918cb1c070c",
+              "algo": 1
+            },
+            {
+              "value": "9c56582ad272f71289c8b14ffe1cee5e",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000018.0000000002",
+              "gameVersion": "1.18.2",
+              "gameVersionReleaseDate": "2022-02-28T14:23:37.723Z",
+              "gameVersionName": "1.18.2"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.18.2"
+          ],
+          "fileFingerprint": 2580875621,
+          "modId": 272515
+        }
+      },
+      {
+        "name": "Trinkets (Fabric)",
+        "version": "trinkets-3.3.1.jar",
+        "optional": true,
+        "file": "trinkets-3.3.1.jar",
+        "type": "mods",
+        "description": "A data-driven accessory mod",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 341284,
+        "curseForgeFileId": 3786685,
+        "curseForgeProject": {
+          "id": 341284,
+          "name": "Trinkets (Fabric)",
+          "authors": [
+            {
+              "id": 100436320,
+              "name": "EmilyPloszaj",
+              "url": "https://www.curseforge.com/members/100436320-emilyploszaj?username=emilyploszaj"
+            }
+          ],
+          "gameId": 432,
+          "summary": "A data-driven accessory mod",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 421,
+          "classId": 6,
+          "slug": "trinkets",
+          "isFeatured": false,
+          "dateModified": "2023-07-22T01:32:52.277Z",
+          "dateCreated": "2019-09-12T23:26:22.057Z",
+          "dateReleased": "2023-07-22T01:20:03.83Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/trinkets",
+            "wikiUrl": "https://github.com/emilyalexandra/trinkets/wiki",
+            "issuesUrl": "https://github.com/emilyalexandra/trinkets/issues",
+            "sourceUrl": "https://github.com/emilyalexandra/trinkets"
+          },
+          "logo": {
+            "id": 392688,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/392/688/256/256/637587073088891583.png",
+            "title": "637587073088891583.png",
+            "url": "https://media.forgecdn.net/avatars/392/688/637587073088891583.png",
+            "modId": 341284
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 626565,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/626/565/310/172/trinkets.png",
+              "title": "Trinkets UI",
+              "url": "https://media.forgecdn.net/attachments/626/565/trinkets.png",
+              "modId": 341284
+            }
+          ],
+          "mainFileId": 4657534
+        },
+        "curseForgeFile": {
+          "id": 3786685,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "trinkets-3.3.1.jar",
+          "fileName": "trinkets-3.3.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2022-05-11T01:36:28.007Z",
+          "fileLength": 230557,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3516010444,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2150000053,
+              "name": "LICENSE_trinkets"
+            },
+            {
+              "fingerprint": 492230887,
+              "name": "trinkets.mixins.json"
+            },
+            {
+              "fingerprint": 1117962783,
+              "name": "data"
+            },
+            {
+              "fingerprint": 4155844067,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 479894963,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3114132999,
+              "name": "trinkets.accesswidener"
+            },
+            {
+              "fingerprint": 3025758381,
+              "name": "trinkets-refmap.json"
+            },
+            {
+              "fingerprint": 2599442920,
+              "name": "dev"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "1f6784a63d0c4cfe6caacf7b7a93ddd9f0b4e491",
+              "algo": 1
+            },
+            {
+              "value": "8b3541d6799c06e4b81cfdccc1e43c8d",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000018.0000000002",
+              "gameVersion": "1.18.2",
+              "gameVersionReleaseDate": "2022-02-28T14:23:37.723Z",
+              "gameVersionName": "1.18.2"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.18.2"
+          ],
+          "fileFingerprint": 4063118160,
+          "modId": 341284
+        }
+      },
+      {
+        "name": "Cloth Config API (Fabric/Forge)",
+        "version": "[Fabric 1.18.x] v6.5.102",
+        "optional": true,
+        "file": "cloth-config-6.5.102-fabric.jar",
+        "type": "mods",
+        "description": "Config Screen API for Minecraft",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 348521,
+        "curseForgeFileId": 4633386,
+        "curseForgeProject": {
+          "id": 348521,
+          "name": "Cloth Config API (Fabric/Forge)",
+          "authors": [
+            {
+              "id": 32851078,
+              "name": "shedaniel",
+              "url": "https://www.curseforge.com/members/32851078-shedaniel?username=shedaniel"
+            },
+            {
+              "id": 101070148,
+              "name": "LinkieIsBetterThanK9",
+              "url": "https://www.curseforge.com/members/101070148-linkieisbetterthank9?username=linkieisbetterthank9"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Config Screen API for Minecraft",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 421,
+          "classId": 6,
+          "slug": "cloth-config",
+          "isFeatured": false,
+          "dateModified": "2023-07-09T14:06:09.703Z",
+          "dateCreated": "2019-10-19T12:26:33.023Z",
+          "dateReleased": "2023-07-09T14:05:06.383Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/cloth-config",
+            "wikiUrl": "https://shedaniel.gitbook.io/cloth-config/",
+            "issuesUrl": "https://github.com/shedaniel/ClothConfig/issues",
+            "sourceUrl": "https://github.com/shedaniel/ClothConfig"
+          },
+          "logo": {
+            "id": 282467,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/282/467/256/256/637289313020452406.png",
+            "title": "637289313020452406.png",
+            "url": "https://media.forgecdn.net/avatars/282/467/637289313020452406.png",
+            "modId": 348521
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 4633444
+        },
+        "curseForgeFile": {
+          "id": 4633386,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[Fabric 1.18.x] v6.5.102",
+          "fileName": "cloth-config-6.5.102-fabric.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-07-09T13:34:42.773Z",
+          "fileLength": 1150058,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3840402532,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 385043272,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3688128853,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 1976903584,
+              "name": "cloth-config.accessWidener"
+            },
+            {
+              "fingerprint": 2356087988,
+              "name": "icon.png"
+            },
+            {
+              "fingerprint": 3039595558,
+              "name": "me"
+            },
+            {
+              "fingerprint": 269197167,
+              "name": "architectury_inject_clothconfig_common_eb3676ff47f14a7898cbb2b8b0a18d20_1c3ef205c6f06fead90566bb3969c6803f972c5c6b92aa009ea03e725bb119bcclothconfig65102devjar"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "d8996df838204ebe2aa7314b0a95914d326b37e0",
+              "algo": 1
+            },
+            {
+              "value": "2de29535e064b759e30843aac0dc08bc",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000018.0000000001",
+              "gameVersion": "1.18.1",
+              "gameVersionReleaseDate": "2021-12-10T10:37:38.06Z",
+              "gameVersionName": "1.18.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000018.0000000002",
+              "gameVersion": "1.18.2",
+              "gameVersionReleaseDate": "2022-02-28T14:23:37.723Z",
+              "gameVersionName": "1.18.2"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000018",
+              "gameVersion": "1.18",
+              "gameVersionReleaseDate": "2021-11-30T16:23:01.427Z",
+              "gameVersionName": "1.18"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000018",
+              "gameVersion": "1.18",
+              "gameVersionReleaseDate": "2021-08-12T00:00:00Z",
+              "gameVersionName": "1.18-Snapshot"
+            }
+          ],
+          "gameVersions": [
+            "1.18.1",
+            "Fabric",
+            "1.18.2",
+            "1.18",
+            "1.18-Snapshot"
+          ],
+          "fileFingerprint": 4030958769,
+          "modId": 348521
+        }
+      },
+      {
+        "name": "Create Fabric",
+        "version": "Create 1.18.2 v0.5.1.b Patch 2",
+        "optional": true,
+        "file": "create-fabric-0.5.1-b-build.1088+mc1.18.2.jar",
+        "type": "mods",
+        "description": "Building Tools and Aesthetic Technology",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 624165,
+        "curseForgeFileId": 4622429,
+        "curseForgeProject": {
+          "id": 624165,
+          "name": "Create Fabric",
+          "authors": [
+            {
+              "id": 101116846,
+              "name": "tropheusj",
+              "url": "https://www.curseforge.com/members/101116846-tropheusj?username=tropheusj"
+            },
+            {
+              "id": 101935290,
+              "name": "thatguynamedalpha",
+              "url": "https://www.curseforge.com/members/101935290-thatguynamedalpha?username=thatguynamedalpha"
+            },
+            {
+              "id": 100766963,
+              "name": "Pepper_Bell",
+              "url": "https://www.curseforge.com/members/100766963-pepper_bell?username=pepper_bell"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Building Tools and Aesthetic Technology",
+          "categories": [
+            {
+              "name": "Technology",
+              "slug": "technology",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
+              "dateModified": "2014-05-08T17:37:54.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 412,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/27/635351494745973439.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Armor, Tools, and Weapons",
+              "slug": "armor-weapons-tools",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
+              "dateModified": "2014-05-08T17:44:39.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 434,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Redstone",
+              "slug": "redstone",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/redstone",
+              "dateModified": "2016-01-19T22:21:51.64Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 4558,
+              "iconUrl": "https://media.forgecdn.net/avatars/32/937/635888173116238506.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 412,
+          "classId": 6,
+          "slug": "create-fabric",
+          "isFeatured": false,
+          "dateModified": "2023-07-03T05:17:52.857Z",
+          "dateCreated": "2022-05-17T01:24:00.827Z",
+          "dateReleased": "2023-07-03T05:06:41.987Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/create-fabric",
+            "wikiUrl": "https://github.com/Creators-of-Create/Create/wiki",
+            "issuesUrl": "https://github.com/Fabricators-of-Create/Create/issues",
+            "sourceUrl": "https://github.com/Fabricators-of-Create/Create"
+          },
+          "logo": {
+            "id": 548377,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/548/377/256/256/637883834427445340.png",
+            "title": "637883834427445340.png",
+            "url": "https://media.forgecdn.net/avatars/548/377/637883834427445340.png",
+            "modId": 624165
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 4622429
+        },
+        "curseForgeFile": {
+          "id": 4622429,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Create 1.18.2 v0.5.1.b Patch 2",
+          "fileName": "create-fabric-0.5.1-b-build.1088+mc1.18.2.jar",
+          "releaseType": 2,
+          "fileStatus": 4,
+          "fileDate": "2023-07-03T05:06:41.987Z",
+          "fileLength": 18827993,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1134082723,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1927476733,
+              "name": "LICENSE_create-fabric"
+            },
+            {
+              "fingerprint": 3415180150,
+              "name": "create.accesswidener"
+            },
+            {
+              "fingerprint": 3640877176,
+              "name": ".cache"
+            },
+            {
+              "fingerprint": 2345636260,
+              "name": "logo.png"
+            },
+            {
+              "fingerprint": 2814287397,
+              "name": "data"
+            },
+            {
+              "fingerprint": 2855110470,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2661230733,
+              "name": "create.mixins.json"
+            },
+            {
+              "fingerprint": 1591322890,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 3113012103,
+              "name": "resourcepacks"
+            },
+            {
+              "fingerprint": 1771982909,
+              "name": "create-fabric-refmap.json"
+            },
+            {
+              "fingerprint": 2324873197,
+              "name": "com"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "de790d26583a3c767aef804f0fecbdcf09c9f6f7",
+              "algo": 1
+            },
+            {
+              "value": "a012a79ed18018f4870aa733d4bbd3cb",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000018.0000000002",
+              "gameVersion": "1.18.2",
+              "gameVersionReleaseDate": "2022-02-28T14:23:37.723Z",
+              "gameVersionName": "1.18.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-05-26T00:00:00Z",
+              "gameVersionName": "Quilt"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.18.2",
+            "Quilt"
+          ],
+          "fileFingerprint": 1786207918,
+          "modId": 624165
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1690228272775,
-    "numPlays": 2
+    "lastPlayed": 1690229250349,
+    "numPlays": 7
   },
   "id": "1.18.2",
   "complianceLevel": 1,

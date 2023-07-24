@@ -1,0 +1,17 @@
+{
+	id: "8d4fd818-d3d2-4e54-acdc-f5011dc9cca3"
+	type: "player"
+	player_name: "Button24"
+	ranks: {
+		8d4fd818-d3d2-4e54-acdc-f5011dc9cca3: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Button24"
+		"ftbteams:description": ""
+		"ftbteams:color": "#C3FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
