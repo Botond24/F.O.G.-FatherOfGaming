@@ -1,0 +1,27 @@
+[21:51:14] [main/INFO]: Loading Minecraft 1.18.2 with Fabric Loader 0.14.21
+[21:51:14] [ForkJoinPool-1-worker-15/WARN]: Mod compactmachines uses the version ${version} which isn't compatible with Loader's extended semantic version format (Could not parse version number component '${version}'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[21:51:14] [ForkJoinPool-1-worker-6/WARN]: Mod cpm uses the version 0.6.9a which isn't compatible with Loader's extended semantic version format (Could not parse version number component '9a'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[21:51:14] [ForkJoinPool-1-worker-10/WARN]: The mod "enderchests" contains invalid entries in its mod json:
+- Unsupported root entry "_mixins" at line 24 column 14
+[21:51:14] [ForkJoinPool-1-worker-4/WARN]: Mod flywheel uses the version 0.6.8.a-36 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'a'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[21:51:14] [ForkJoinPool-1-worker-8/WARN]: The mod "origins_paps_fantasy" contains invalid entries in its mod json:
+- Unsupported root entry "pack_format" at line 15 column 18
+[21:51:14] [ForkJoinPool-1-worker-16/WARN]: Mod registrate-fabric uses the version MC1.18.2-1.1.11 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'MC1'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[21:51:14] [main/WARN]: Mod resolution failed
+[21:51:14] [main/INFO]: Immediate reason: [HARD_DEP_INCOMPATIBLE_PRESELECTED estrogen 1.0.0 {depends minecraft @ [1.19.2]}, ROOT_FORCELOAD_SINGLE estrogen 1.0.0]
+[21:51:14] [main/INFO]: Reason: [HARD_DEP estrogen 1.0.0 {depends minecraft @ [1.19.2]}, HARD_DEP sdrp 3.0.4-build.28+mc1.18.2 {depends cloth_config @ [>=6.2.62]}]
+[21:51:14] [main/INFO]: Fix: add [add:cloth_config 6.2.62 ([[6.2.62,?)])], remove [], replace [[estrogen 1.0.0] -> add:estrogen 1 ([(-?,?)])]
+[21:51:14] [main/ERROR]: Incompatible mod set!
+net.fabricmc.loader.impl.FormattedException: Mod resolution encountered an incompatible mod set!
+A potential solution has been determined:
+	 - Install cloth_config, version 6.2.62 or later.
+	 - Replace mod 'Estrogen' (estrogen) 1.0.0 with any version that is compatible with:
+		 - minecraft 1.18.2
+Unmet dependency listing:
+	 - Mod 'Estrogen' (estrogen) 1.0.0 requires version 1.19.2 of 'Minecraft' (minecraft), but only the wrong version is present: 1.18.2!
+	 - Mod 'Simple Discord Rich Presence' (sdrp) 3.0.4-build.28+mc1.18.2 requires version 6.2.62 or later of cloth_config, which is missing!
+	at net.fabricmc.loader.impl.FormattedException.ofLocalized(FormattedException.java:51) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.FabricLoaderImpl.load(FabricLoaderImpl.java:192) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.init(Knot.java:148) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:68) [fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) [fabric-loader-0.14.21.jar:?]
