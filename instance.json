@@ -2749,231 +2749,6 @@
         }
       },
       {
-        "name": "AppleSkin",
-        "version": "appleskin-fabric-mc1.18.2-2.4.1.jar",
-        "optional": true,
-        "file": "appleskin-fabric-mc1.18.2-2.4.1.jar",
-        "type": "mods",
-        "description": "Food/hunger-related HUD improvements",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 248787,
-        "curseForgeFileId": 3927566,
-        "curseForgeProject": {
-          "id": 248787,
-          "name": "AppleSkin",
-          "authors": [
-            {
-              "id": 13914149,
-              "name": "squeek502",
-              "url": "https://www.curseforge.com/members/13914149-squeek502?username=squeek502"
-            }
-          ],
-          "gameId": 432,
-          "summary": "Adds some useful information about food/hunger to the HUD",
-          "categories": [
-            {
-              "name": "Map and Information",
-              "slug": "map-information",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
-              "dateModified": "2014-05-08T17:42:23.74Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 423,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Food",
-              "slug": "mc-food",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-food",
-              "dateModified": "2014-05-08T17:45:26.55Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 436,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/49/635351499265510402.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 436,
-          "classId": 6,
-          "slug": "appleskin",
-          "isFeatured": false,
-          "dateModified": "2023-06-23T05:34:26.047Z",
-          "dateCreated": "2016-08-13T19:00:16.187Z",
-          "dateReleased": "2023-06-23T05:30:08.067Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/appleskin",
-            "wikiUrl": "",
-            "issuesUrl": "https://github.com/squeek502/AppleSkin/issues",
-            "sourceUrl": "https://github.com/squeek502/AppleSkin"
-          },
-          "logo": {
-            "id": 47527,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/47/527/256/256/636066936394500688.png",
-            "title": "636066936394500688.png",
-            "url": "https://media.forgecdn.net/avatars/47/527/636066936394500688.png",
-            "modId": 248787
-          },
-          "allowModDistribution": true,
-          "screenshots": [],
-          "mainFileId": 4605078
-        },
-        "curseForgeFile": {
-          "id": 3927566,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "appleskin-fabric-mc1.18.2-2.4.1.jar",
-          "fileName": "appleskin-fabric-mc1.18.2-2.4.1.jar",
-          "releaseType": 2,
-          "fileStatus": 4,
-          "fileDate": "2022-08-10T07:33:01.05Z",
-          "fileLength": 913604,
-          "dependencies": [
-            {
-              "fileId": 0,
-              "modId": 306612,
-              "relationType": 3
-            }
-          ],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 4072647055,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 589621802,
-              "name": "LICENSE_appleskin-fabric"
-            },
-            {
-              "fingerprint": 1063487217,
-              "name": "assets"
-            },
-            {
-              "fingerprint": 34278849,
-              "name": "fabric.mod.json"
-            },
-            {
-              "fingerprint": 2520837536,
-              "name": "pack.mcmeta"
-            },
-            {
-              "fingerprint": 1182616621,
-              "name": "appleskin.mixins.json"
-            },
-            {
-              "fingerprint": 2214423164,
-              "name": "appleskin-fabric-refmap.json"
-            },
-            {
-              "fingerprint": 2737576691,
-              "name": "squeek"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "bca8d17a4baf9cfa84a36965147bd615bffd539e",
-              "algo": 1
-            },
-            {
-              "value": "4c08a842a39648c6edc24beaac858805",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
-              "gameVersionName": "Fabric"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000018.0000000002",
-              "gameVersion": "1.18.2",
-              "gameVersionReleaseDate": "2022-02-28T14:23:37.723Z",
-              "gameVersionName": "1.18.2"
-            }
-          ],
-          "gameVersions": [
-            "Fabric",
-            "1.18.2"
-          ],
-          "fileFingerprint": 1076465399,
-          "modId": 248787
-        },
-        "modrinthProject": {
-          "id": "EsAfCjCV",
-          "slug": "appleskin",
-          "project_type": "mod",
-          "team": "2RI7njA8",
-          "title": "AppleSkin",
-          "description": "Food/hunger-related HUD improvements",
-          "body": "Adds various food-related HUD improvements. This is a mostly client-side mod, but it needs to be on the server in order to display accurate saturation/exhaustion values on the client.\n\n---\n\n*Note: AppleSkin provides information about some mechanics that are invisible by default (it does not add or change any mechanics). To read about Minecraft's exhaustion and saturation mechanics, see the [Minecraft wiki article on Hunger](https://minecraft.fandom.com/wiki/Hunger#Mechanics)*\n\n---\n\n### Features\n\n* Adds food value information to tooltips:\n\n![](https://i.imgur.com/YksBaUx.png)\n\n* Adds a visualization of saturation and exhaustion to the HUD:\n\n![](https://i.imgur.com/tmImVqo.gif)\n\n* Adds a visualization of potential hunger/saturation restored while holding food:\n\n![](https://i.imgur.com/aHf1QxQ.gif)\n\n* Adds a visualization of potential health restored while holding food:\n\n![](https://i.imgur.com/jUOKFUl.gif)\n\n* Adds hunger/saturation/exhaustion info to the debug overlay (F3)\n* Syncs the value of saturation and exhaustion to the client.\n\n---\n\n### Misc\nYou are welcome to add this mod to any modpack you'd like.\n\n---\n\n### Use on vanilla servers\n\nOne of the following plugins can be used to get the saturation/exhaustion to work when connecting to vanilla Minecraft servers:\n\n- https://github.com/jmattingley23/AppleSkinSpigot\n- https://www.curseforge.com/minecraft/bukkit-plugins/paperapple\n",
-          "published": "2021-11-20T23:37:39.568172Z",
-          "updated": "2023-06-23T05:33:38.329803Z",
-          "status": "approved",
-          "license": {
-            "id": "Unlicense",
-            "name": "The Unlicense"
-          },
-          "client_side": "required",
-          "server_side": "required",
-          "categories": [
-            "food",
-            "utility"
-          ],
-          "icon_url": "https://cdn.modrinth.com/data/EsAfCjCV/icon.png",
-          "issues_url": "https://github.com/squeek502/AppleSkin/issues",
-          "source_url": "https://github.com/squeek502/AppleSkin",
-          "donation_urls": [],
-          "gallery": []
-        },
-        "modrinthVersion": {
-          "id": "T7UGls0O",
-          "project_id": "EsAfCjCV",
-          "author_id": "qB1TNdUc",
-          "name": "appleskin-fabric-mc1.18.2-2.4.1",
-          "version_number": "fabric-mc1.18.2-2.4.1",
-          "changelog": "Fixed transparent icons in custom textures",
-          "date_published": "2022-08-10T07:41:40.140345Z",
-          "version_type": "release",
-          "files": [
-            {
-              "hashes": {
-                "sha1": "bca8d17a4baf9cfa84a36965147bd615bffd539e",
-                "sha512": "8f9b2f6bba35798bdf85ea7495c47c104f227d774331c59643b5cac934691b8cc2093b58fd1c9dc6def3157a74afa6289db70723c717b79bbf3a83028a4d69c4"
-              },
-              "url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/fabric-mc1.18.2-2.4.1/appleskin-fabric-mc1.18.2-2.4.1.jar",
-              "filename": "appleskin-fabric-mc1.18.2-2.4.1.jar",
-              "primary": true,
-              "size": 913604
-            }
-          ],
-          "dependencies": [
-            {
-              "version_id": "1cCEN67v",
-              "project_id": "P7dR8mSH",
-              "dependency_type": "required"
-            }
-          ],
-          "game_versions": [
-            "1.18.2"
-          ],
-          "loaders": [
-            "fabric",
-            "quilt"
-          ]
-        }
-      },
-      {
         "name": "Clumps",
         "version": "Clumps-fabric-1.18.2-8.0.0+17.jar",
         "optional": true,
@@ -23865,6 +23640,447 @@
           ],
           "fileFingerprint": 1786207918,
           "modId": 624165
+        }
+      },
+      {
+        "name": "AppleSkin",
+        "version": "appleskin-fabric-mc1.18.2-2.4.1",
+        "optional": true,
+        "file": "appleskin-fabric-mc1.18.2-2.4.1.jar",
+        "type": "mods",
+        "description": "Food/hunger-related HUD improvements",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "modrinthProject": {
+          "id": "EsAfCjCV",
+          "slug": "appleskin",
+          "project_type": "mod",
+          "team": "2RI7njA8",
+          "title": "AppleSkin",
+          "description": "Food/hunger-related HUD improvements",
+          "body": "Adds various food-related HUD improvements. This is a mostly client-side mod, but it needs to be on the server in order to display accurate saturation/exhaustion values on the client.\n\n---\n\n*Note: AppleSkin provides information about some mechanics that are invisible by default (it does not add or change any mechanics). To read about Minecraft's exhaustion and saturation mechanics, see the [Minecraft wiki article on Hunger](https://minecraft.fandom.com/wiki/Hunger#Mechanics)*\n\n---\n\n### Features\n\n* Adds food value information to tooltips:\n\n![](https://i.imgur.com/YksBaUx.png)\n\n* Adds a visualization of saturation and exhaustion to the HUD:\n\n![](https://i.imgur.com/tmImVqo.gif)\n\n* Adds a visualization of potential hunger/saturation restored while holding food:\n\n![](https://i.imgur.com/aHf1QxQ.gif)\n\n* Adds a visualization of potential health restored while holding food:\n\n![](https://i.imgur.com/jUOKFUl.gif)\n\n* Adds hunger/saturation/exhaustion info to the debug overlay (F3)\n* Syncs the value of saturation and exhaustion to the client.\n\n---\n\n### Misc\nYou are welcome to add this mod to any modpack you'd like.\n\n---\n\n### Use on vanilla servers\n\nOne of the following plugins can be used to get the saturation/exhaustion to work when connecting to vanilla Minecraft servers:\n\n- https://github.com/jmattingley23/AppleSkinSpigot\n- https://www.curseforge.com/minecraft/bukkit-plugins/paperapple\n",
+          "published": "2021-11-20T23:37:39.568172Z",
+          "updated": "2023-06-23T05:33:38.329803Z",
+          "status": "approved",
+          "license": {
+            "id": "Unlicense",
+            "name": "The Unlicense"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "food",
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/EsAfCjCV/icon.png",
+          "issues_url": "https://github.com/squeek502/AppleSkin/issues",
+          "source_url": "https://github.com/squeek502/AppleSkin",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "T7UGls0O",
+          "project_id": "EsAfCjCV",
+          "author_id": "qB1TNdUc",
+          "name": "appleskin-fabric-mc1.18.2-2.4.1",
+          "version_number": "fabric-mc1.18.2-2.4.1",
+          "changelog": "Fixed transparent icons in custom textures",
+          "date_published": "2022-08-10T07:41:40.140345Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "bca8d17a4baf9cfa84a36965147bd615bffd539e",
+                "sha512": "8f9b2f6bba35798bdf85ea7495c47c104f227d774331c59643b5cac934691b8cc2093b58fd1c9dc6def3157a74afa6289db70723c717b79bbf3a83028a4d69c4"
+              },
+              "url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/fabric-mc1.18.2-2.4.1/appleskin-fabric-mc1.18.2-2.4.1.jar",
+              "filename": "appleskin-fabric-mc1.18.2-2.4.1.jar",
+              "primary": true,
+              "size": 913604
+            }
+          ],
+          "dependencies": [
+            {
+              "version_id": "1cCEN67v",
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.18.2"
+          ],
+          "loaders": [
+            "fabric",
+            "quilt"
+          ]
+        }
+      },
+      {
+        "name": "Arcanus: Legacy",
+        "version": "Arcanus",
+        "optional": true,
+        "file": "arcanus-1.29.jar",
+        "type": "mods",
+        "description": "Arcanus is a small magic mod with a magic system inspired by Wynncraft and EB Wizardry",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "modrinthProject": {
+          "id": "zgaWtmrV",
+          "slug": "arcanus",
+          "project_type": "mod",
+          "team": "5Yu4OAyC",
+          "title": "Arcanus: Legacy",
+          "description": "Arcanus is a small magic mod with a magic system inspired by Wynncraft and EB Wizardry",
+          "body": "<a href=\"https://www.curseforge.com/minecraft/mc-mods/fabric-api\"><img src=\"https://i.imgur.com/Ol1Tcf8.png\" width=\"215\" height=\"72\" title=\"Fabric API\" alt=\"Fabric API\"></a>\n\n---\n\nArcanus is a small mod with a magic system inspired by Wynncraft and Electroblob's Wizardry, along with new trinkets, structures, and threats sometime Soon<sup>TM</sup> in future updates.\n\n<details>\n    <summary>Quick Start Guide</summary>\n\n### Wand Recipe:\n![](https://cdn.discordapp.com/attachments/727220166668189749/894984314457047050/discord_why_are_you_bad.png)\n\n### List of Spells:\n- Lunge\n- Dream Warp\n- Magic Missile\n- Telekinetic Shock\n- Heal\n- Discombobulate\n- Solar Strike\n- Arcane Barrier\n\n### Learning Spells:\nIn order to learn Spells, you need to find Spell Books. These can be found in Village Libraries, Stronghold Libraries, and Ruined Portal chests. When you read a Spell Book, you will learn how to cast a spell.\n\nSpell Books contain the Pattern that defines a given Spell.\n\n### Spell Casting:\nCasting Spells requires that you know a given Spell. All you have to do is have a Wand in your main hand, and use the Left and Right Mouse Buttons to create the Pattern of a Spell.\n\n### Mana Flasks:\nMana Flasks are a way for Mages to store Mana for later. In order to fill a Mana Flask, all you have to do is Sneak + hold Right Click, while having at least 5 Mana available.\n\n### Display Case:\nDisplay Cases are decorative blocks that can hold any item. To open or close them, all you have to do is Shift + Right Click them, and to place an item in them all you have to do is Right Click it while it's open with the item you wish to place inside.\n\nDisplay Cases also are able to emit a Comparator output depending on whether they're open or closed.\n</details>\n\nYou can use `/spells list` at any time to see all the spells, as well as their patterns, that you know.\n\n---\n\n<table align=\"center\">\n    <tr>\n        <th><b>Join my Discord</b></th>\n        <th><b>Join my Ko-Fi!</b></th>\n    </tr>\n    <tr>\n        <th><a href=\"https://discord.gg/f5dFYWX\"><img src=\"https://cammiescorner.dev/images/extras/discord.png\" width=\"150\" height=\"150\" title=\"Cammie's Corner Discord\" alt=\"Cammie's Corner Discord\"></a></th>\n        <th><a href=\"https://ko-fi.com/camellias/tiers\"><img src=\"https://cammiescorner.dev/images/extras/kofi.png\" width=\"150\" height=\"150\" title=\"Cammie's Corner Patreon\" alt=\"Cammie's Corner Patreon\"></a></th>\n    </tr>\n</table>",
+          "published": "2021-08-19T20:39:11.051585Z",
+          "updated": "2023-03-03T21:56:45.744928Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-Custom",
+            "name": "",
+            "url": "https://github.com/CammiePone/Arcanus/blob/HEAD/LICENSE"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "adventure",
+            "equipment",
+            "magic"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/zgaWtmrV/icon.png",
+          "issues_url": "https://github.com/CammiePone/Arcanus/issues",
+          "source_url": "https://github.com/CammiePone/Arcanus",
+          "discord_url": "https://discord.gg/f5dFYWX",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "Edsm6ThW",
+          "project_id": "zgaWtmrV",
+          "author_id": "r3JgfO8V",
+          "name": "Arcanus",
+          "version_number": "1.29",
+          "changelog": "The project has been updated to root project 'Arcanus'. No changelog was specified.",
+          "date_published": "2022-04-10T02:16:38.121670Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "b5edc40c232c20e3f2a1df8683aa2a98cb36fd42",
+                "sha512": "54271b4fb04a1003a46251237ddf69f141905a9bf6c0ad45713ab9567a5d834c25405ca28fdd59424d2467cd8069bb1ea90e077fb2b84f07c9c35f64c1197a4c"
+              },
+              "url": "https://cdn.modrinth.com/data/zgaWtmrV/versions/1.29/arcanus-1.29.jar",
+              "filename": "arcanus-1.29.jar",
+              "primary": true,
+              "size": 531043
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.18.2"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "Fabric Waystones",
+        "version": "Fabric Waystones 3.0.0 - MC1.18.2",
+        "optional": true,
+        "file": "wraith-waystones-3.0.0+mc1.18.2.jar",
+        "type": "mods",
+        "description": "A better way of transport",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 410902,
+        "curseForgeFileId": 4187194,
+        "curseForgeProject": {
+          "id": 410902,
+          "name": "Fabric Waystones",
+          "authors": [
+            {
+              "id": 101442514,
+              "name": "LordDeatHunter",
+              "url": "https://www.curseforge.com/members/101442514-lorddeathunter?username=lorddeathunter"
+            }
+          ],
+          "gameId": 432,
+          "summary": "A better way of transport",
+          "categories": [
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Player Transport",
+              "slug": "technology-player-transport",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-player-transport",
+              "dateModified": "2014-05-08T17:38:58.357Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 414,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/29/635351495383551178.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 422,
+          "classId": 6,
+          "slug": "fabric-waystones",
+          "isFeatured": false,
+          "dateModified": "2023-06-27T19:29:01.213Z",
+          "dateCreated": "2020-10-02T11:00:12.853Z",
+          "dateReleased": "2023-06-08T15:37:10.133Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/fabric-waystones",
+            "wikiUrl": "https://github.com/LordDeatHunter/FabricWaystones/wiki/",
+            "issuesUrl": "https://github.com/LordDeatHunter/FabricWaystones/issues",
+            "sourceUrl": "https://github.com/LordDeatHunter/FabricWaystones"
+          },
+          "logo": {
+            "id": 438492,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/438/492/256/256/637684020891858411.png",
+            "title": "637684020891858411.png",
+            "url": "https://media.forgecdn.net/avatars/438/492/637684020891858411.png",
+            "modId": 410902
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 461460,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/461/460/310/172/scroll_of_infinite_knowledge.png",
+              "title": "Scroll of Infinite Knowledge",
+              "url": "https://media.forgecdn.net/attachments/461/460/scroll_of_infinite_knowledge.png",
+              "modId": 410902
+            },
+            {
+              "id": 372489,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/372/489/310/172/recipes.png",
+              "title": "Recipe Overview",
+              "url": "https://media.forgecdn.net/attachments/372/489/recipes.png",
+              "modId": 410902
+            },
+            {
+              "id": 463866,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/463/866/310/172/waystone_void_totem_recipes.png",
+              "title": "Waystone and Void Totem Recipe",
+              "url": "https://media.forgecdn.net/attachments/463/866/waystone_void_totem_recipes.png",
+              "modId": 410902
+            },
+            {
+              "id": 372497,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/372/497/310/172/pocket_wormhole.png",
+              "title": "Pocket Wormhole",
+              "url": "https://media.forgecdn.net/attachments/372/497/pocket_wormhole.png",
+              "modId": 410902
+            },
+            {
+              "id": 372494,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/372/494/310/172/abyss_watcher.png",
+              "title": "Abyss Watcher",
+              "url": "https://media.forgecdn.net/attachments/372/494/abyss_watcher.png",
+              "modId": 410902
+            },
+            {
+              "id": 372496,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/372/496/310/172/empty_waystone_scroll.png",
+              "title": "Empty Waystone Scroll",
+              "url": "https://media.forgecdn.net/attachments/372/496/empty_waystone_scroll.png",
+              "modId": 410902
+            },
+            {
+              "id": 372488,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/372/488/310/172/waystone_3.png",
+              "title": "A Waystone",
+              "url": "https://media.forgecdn.net/attachments/372/488/waystone_3.png",
+              "modId": 410902
+            },
+            {
+              "id": 372490,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/372/490/310/172/header.png",
+              "title": "Main Page Header",
+              "url": "https://media.forgecdn.net/attachments/372/490/header.png",
+              "modId": 410902
+            },
+            {
+              "id": 372500,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/372/500/310/172/doublevillage.png",
+              "title": "Waystones in Villages",
+              "url": "https://media.forgecdn.net/attachments/372/500/doublevillage.png",
+              "modId": 410902
+            },
+            {
+              "id": 372484,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/372/484/310/172/waystone_interfaces.png",
+              "title": "Waystone Interfaces",
+              "url": "https://media.forgecdn.net/attachments/372/484/waystone_interfaces.png",
+              "modId": 410902
+            },
+            {
+              "id": 372493,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/372/493/310/172/local_void.png",
+              "title": "Local Void",
+              "url": "https://media.forgecdn.net/attachments/372/493/local_void.png",
+              "modId": 410902
+            },
+            {
+              "id": 461459,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/461/459/310/172/void_totem.png",
+              "title": "Void Totem",
+              "url": "https://media.forgecdn.net/attachments/461/459/void_totem.png",
+              "modId": 410902
+            },
+            {
+              "id": 372487,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/372/487/310/172/wraith.png",
+              "title": "Discord Invite",
+              "url": "https://media.forgecdn.net/attachments/372/487/wraith.png",
+              "modId": 410902
+            }
+          ],
+          "mainFileId": 4574001
+        },
+        "curseForgeFile": {
+          "id": 4187194,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Fabric Waystones 3.0.0 - MC1.18.2",
+          "fileName": "wraith-waystones-3.0.0+mc1.18.2.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2022-12-17T19:20:49.963Z",
+          "fileLength": 342780,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 391366,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 32274,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3638478459,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3029671824,
+              "name": "LICENSE_wraith-waystones"
+            },
+            {
+              "fingerprint": 3724085528,
+              "name": "fwaystones.mixins.json"
+            },
+            {
+              "fingerprint": 2406657704,
+              "name": "fwaystones.accesswidener"
+            },
+            {
+              "fingerprint": 3763633060,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 1902063589,
+              "name": "data"
+            },
+            {
+              "fingerprint": 1603880129,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2308438678,
+              "name": "wraith-waystones-refmap.json"
+            },
+            {
+              "fingerprint": 3679028441,
+              "name": "wraith"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "838540a61894de12cd36f7cde126240205a8e950",
+              "algo": 1
+            },
+            {
+              "value": "5b0c311eb2541d41504ac7c1b6f21823",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000018.0000000002",
+              "gameVersion": "1.18.2",
+              "gameVersionReleaseDate": "2022-02-28T14:23:37.723Z",
+              "gameVersionName": "1.18.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "Client",
+            "1.18.2",
+            "Server"
+          ],
+          "fileFingerprint": 3409262320,
+          "modId": 410902
         }
       }
     ],

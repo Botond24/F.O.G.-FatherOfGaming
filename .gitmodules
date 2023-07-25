@@ -1,0 +1,3 @@
+[submodule "FOG-Docs"]
+	path = FOG-Docs
+	url = https://github.com/Botond24/FOG-Docs
