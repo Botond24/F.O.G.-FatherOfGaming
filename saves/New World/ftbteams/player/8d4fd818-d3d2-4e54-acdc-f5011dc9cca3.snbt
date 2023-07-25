@@ -8,7 +8,7 @@
 	properties: {
 		"ftbteams:display_name": "Button24"
 		"ftbteams:description": ""
-		"ftbteams:color": "#FF59D7"
+		"ftbteams:color": "#E1FF59"
 		"ftbteams:free_to_join": 0b
 		"ftbteams:max_msg_history_size": 1000
 	}

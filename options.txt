@@ -47,7 +47,7 @@ chatLineSpacing:0.0
 textBackgroundOpacity:0.5
 backgroundForChatOnly:true
 hideServerAddress:false
-advancedItemTooltips:false
+advancedItemTooltips:true
 pauseOnLostFocus:true
 overrideWidth:0
 overrideHeight:0
@@ -117,14 +117,6 @@ key_key.ae2.wireless_pattern_access_terminal:key.keyboard.unknown
 key_key.ae2.ae2wtlib_restock:key.keyboard.unknown
 key_key.ae2.ae2wtlib_magnet:key.keyboard.unknown
 key_key.ftbquests.quests:key.keyboard.unknown
-key_key.cpm.gestureMenu:key.keyboard.g
-key_key.cpm.renderToggle:key.keyboard.unknown
-key_key.cpm.qa_1:key.keyboard.unknown
-key_key.cpm.qa_2:key.keyboard.unknown
-key_key.cpm.qa_3:key.keyboard.unknown
-key_key.cpm.qa_4:key.keyboard.unknown
-key_key.cpm.qa_5:key.keyboard.unknown
-key_key.cpm.qa_6:key.keyboard.unknown
 key_create.keyinfo.toolmenu:key.keyboard.left.alt
 key_create.keyinfo.toolbelt:key.keyboard.left.alt
 key_key.dml-refabricated.teleport:key.keyboard.v
