@@ -23266,6 +23266,156 @@
         "userAdded": true,
         "wasSelected": true,
         "skipped": false,
+        "curseForgeProjectId": 248787,
+        "curseForgeFileId": 3927566,
+        "curseForgeProject": {
+          "id": 248787,
+          "name": "AppleSkin",
+          "authors": [
+            {
+              "id": 13914149,
+              "name": "squeek502",
+              "url": "https://www.curseforge.com/members/13914149-squeek502?username=squeek502"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Adds some useful information about food/hunger to the HUD",
+          "categories": [
+            {
+              "name": "Map and Information",
+              "slug": "map-information",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
+              "dateModified": "2014-05-08T17:42:23.74Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 423,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Food",
+              "slug": "mc-food",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-food",
+              "dateModified": "2014-05-08T17:45:26.55Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 436,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/49/635351499265510402.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 436,
+          "classId": 6,
+          "slug": "appleskin",
+          "isFeatured": false,
+          "dateModified": "2023-06-23T05:34:26.047Z",
+          "dateCreated": "2016-08-13T19:00:16.187Z",
+          "dateReleased": "2023-06-23T05:30:08.067Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/appleskin",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/squeek502/AppleSkin/issues",
+            "sourceUrl": "https://github.com/squeek502/AppleSkin"
+          },
+          "logo": {
+            "id": 47527,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/47/527/256/256/636066936394500688.png",
+            "title": "636066936394500688.png",
+            "url": "https://media.forgecdn.net/avatars/47/527/636066936394500688.png",
+            "modId": 248787
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 4605078
+        },
+        "curseForgeFile": {
+          "id": 3927566,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "appleskin-fabric-mc1.18.2-2.4.1.jar",
+          "fileName": "appleskin-fabric-mc1.18.2-2.4.1.jar",
+          "releaseType": 2,
+          "fileStatus": 4,
+          "fileDate": "2022-08-10T07:33:01.05Z",
+          "fileLength": 913604,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 4072647055,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 589621802,
+              "name": "LICENSE_appleskin-fabric"
+            },
+            {
+              "fingerprint": 1063487217,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 34278849,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 2520837536,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 1182616621,
+              "name": "appleskin.mixins.json"
+            },
+            {
+              "fingerprint": 2214423164,
+              "name": "appleskin-fabric-refmap.json"
+            },
+            {
+              "fingerprint": 2737576691,
+              "name": "squeek"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "bca8d17a4baf9cfa84a36965147bd615bffd539e",
+              "algo": 1
+            },
+            {
+              "value": "4c08a842a39648c6edc24beaac858805",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000018.0000000002",
+              "gameVersion": "1.18.2",
+              "gameVersionReleaseDate": "2022-02-28T14:23:37.723Z",
+              "gameVersionName": "1.18.2"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.18.2"
+          ],
+          "fileFingerprint": 1076465399,
+          "modId": 248787
+        },
         "modrinthProject": {
           "id": "EsAfCjCV",
           "slug": "appleskin",
@@ -23341,6 +23491,183 @@
         "userAdded": true,
         "wasSelected": true,
         "skipped": false,
+        "curseForgeProjectId": 517833,
+        "curseForgeFileId": 3742064,
+        "curseForgeProject": {
+          "id": 517833,
+          "name": "Arcanus: Legacy",
+          "authors": [
+            {
+              "id": 17199247,
+              "name": "Cammie",
+              "url": "https://www.curseforge.com/members/17199247-camellias_?username=camellias_"
+            },
+            {
+              "id": 19704318,
+              "name": "UpcraftLP",
+              "url": "https://www.curseforge.com/members/19704318-upcraftlp?username=upcraftlp"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Arcanus is a small magic mod with a magic system inspired by Wynncraft and EB Wizardry",
+          "categories": [
+            {
+              "name": "Armor, Tools, and Weapons",
+              "slug": "armor-weapons-tools",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
+              "dateModified": "2014-05-08T17:44:39.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 434,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Magic",
+              "slug": "magic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/magic",
+              "dateModified": "2014-05-08T17:40:24.787Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 419,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/34/635351496247862494.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 419,
+          "classId": 6,
+          "slug": "arcanus",
+          "isFeatured": false,
+          "dateModified": "2023-07-25T11:29:56.423Z",
+          "dateCreated": "2021-08-19T20:10:53.5Z",
+          "dateReleased": "2023-07-22T11:52:14.697Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/arcanus",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/CammiePone/Arcanus/issues",
+            "sourceUrl": "https://github.com/CammiePone/Arcanus"
+          },
+          "logo": {
+            "id": 421784,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/421/784/256/256/637650009906058553.png",
+            "title": "637650009906058553.png",
+            "url": "https://media.forgecdn.net/avatars/421/784/637650009906058553.png",
+            "modId": 517833
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 4658068
+        },
+        "curseForgeFile": {
+          "id": 3742064,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "arcanus-1.29.jar",
+          "fileName": "arcanus-1.29.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2022-04-10T02:17:23.77Z",
+          "fileLength": 531043,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 320211,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 319057,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1842939990,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2912266703,
+              "name": "LICENSE"
+            },
+            {
+              "fingerprint": 105251030,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 4280738319,
+              "name": "arcanus.mixins.json"
+            },
+            {
+              "fingerprint": 1410353610,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3064710029,
+              "name": "data"
+            },
+            {
+              "fingerprint": 4269573492,
+              "name": "arcanus-refmap.json"
+            },
+            {
+              "fingerprint": 304937520,
+              "name": "dev"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "b5edc40c232c20e3f2a1df8683aa2a98cb36fd42",
+              "algo": 1
+            },
+            {
+              "value": "e4da443492dd5a8464ea8b91242cc1f8",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000018.0000000002",
+              "gameVersion": "1.18.2",
+              "gameVersionReleaseDate": "2022-02-28T14:23:37.723Z",
+              "gameVersionName": "1.18.2"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.18.2"
+          ],
+          "fileFingerprint": 2347074809,
+          "modId": 517833
+        },
         "modrinthProject": {
           "id": "zgaWtmrV",
           "slug": "arcanus",
@@ -23701,7 +24028,11 @@
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
     "lastPlayed": 1690294263456,
-    "numPlays": 13
+    "numPlays": 13,
+    "lastExportName": "F.O.G-FatherOfGaming",
+    "lastExportVersion": "1.18.2",
+    "lastExportAuthor": "Button24",
+    "lastExportSaveTo": "C:\\Users\\sziha\\AppData\\Roaming\\ATLauncher\\instances\\FOG-FatherOfGaming"
   },
   "id": "1.18.2",
   "complianceLevel": 1,
