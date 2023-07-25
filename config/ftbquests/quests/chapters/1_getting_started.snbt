@@ -1,0 +1,47 @@
+{
+	id: "2DA8143FCA62B40F"
+	group: "7F5AF5B3A34CED75"
+	order_index: 1
+	filename: "1_getting_started"
+	title: "1. Getting Started"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 0.0d
+			y: 0.0d
+			description: ["Welcome to F.O.G aka. Father of Gaming. A questing modpack made to run on even the least powerful machines."]
+			id: "5996847D1D8CA969"
+			tasks: [{
+				id: "1E328CB0CCA99794"
+				type: "checkmark"
+				title: "Start Here"
+			}]
+		}
+		{
+			x: -1.5d
+			y: 0.0d
+			shape: "gear"
+			dependencies: ["5996847D1D8CA969"]
+			id: "6EB2D6717C0FFF19"
+			tasks: [{
+				id: "04BD9B29BB8443E8"
+				type: "checkmark"
+				title: "Settings"
+			}]
+		}
+		{
+			x: 1.5d
+			y: 0.0d
+			shape: "heart"
+			dependencies: ["5996847D1D8CA969"]
+			id: "0822E6323C2340C5"
+			tasks: [{
+				id: "3DF2CA00E5786736"
+				type: "checkmark"
+				title: "Suggestions"
+			}]
+		}
+	]
+	quest_links: [ ]
+}

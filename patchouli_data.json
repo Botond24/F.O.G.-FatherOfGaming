@@ -1,5 +1,23 @@
 {
   "bookGuiScale": 0,
   "clickedVisualize": false,
-  "bookData": {}
+  "bookData": {
+    "indrev:indrev": {
+      "viewedEntries": [
+        "indrev:enhanced_ore_processing/quadrupling",
+        "indrev:enhanced_ore_processing/doubling"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "tr-patchouli:guide": {
+      "viewedEntries": [
+        "tr-patchouli:start/tier0_machines",
+        "tr-patchouli:end/matter_fabricator",
+        "tr-patchouli:end/quantum_armor"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
 }

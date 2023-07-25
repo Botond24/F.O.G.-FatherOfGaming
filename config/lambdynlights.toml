@@ -64,6 +64,7 @@ mode = "fancy"
 				enderman = true
 
 			[light_sources.settings.entities.mca]
+				grim_reaper = true
 				male_zombie_villager = true
 				female_zombie_villager = true
 				female_villager = true

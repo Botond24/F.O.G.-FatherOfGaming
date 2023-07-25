@@ -2,7 +2,7 @@
 	version: 1
 	uuid: "8d4fd818d3d24e54acdcf5011dc9cca3"
 	name: "Button24"
-	can_edit: false
+	can_edit: true
 	lock: false
 	auto_pin: false
 	chapter_pinned: false

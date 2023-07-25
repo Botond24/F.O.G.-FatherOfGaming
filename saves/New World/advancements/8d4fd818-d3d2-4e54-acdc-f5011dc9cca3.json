@@ -1,43 +1,49 @@
 {
-  "techreborn:recipes/blast_furnace/titanium_ingot": {
+  "dml-refabricated:matter_condenser": {
     "criteria": {
-      "has_titanium_dust": "2023-07-25 14:47:48 +0200"
+      "checkInv": "2023-07-25 16:07:20 +0200"
     },
     "done": true
   },
-  "towers_of_the_wild_reworked:regular_tower": {
+  "dml-refabricated:trial": {
     "criteria": {
-      "regular": "2023-07-25 14:48:01 +0200"
+      "checkInv": "2023-07-25 16:09:24 +0200"
     },
     "done": true
   },
-  "farmersdelight:main/root": {
+  "techreborn:recipes/crafting_table/machine/alarm": {
     "criteria": {
-      "seeds": "2023-07-25 14:47:48 +0200"
+      "has_refined_iron_ingot": "2023-07-25 16:29:12 +0200"
     },
     "done": true
   },
-  "betterdungeons:root": {
+  "techreborn:recipes/crafting_table/manual": {
     "criteria": {
-      "always": "2023-07-25 14:47:48 +0200"
+      "has_book": "2023-07-25 16:29:12 +0200"
     },
     "done": true
   },
-  "techreborn:recipes/centrifuge/lava_cell": {
+  "croptopia:recipes/croptopia.croptopia/knife": {
     "criteria": {
-      "has_lava": "2023-07-25 14:47:48 +0200"
+      "has_iron": "2023-07-25 16:22:14 +0200"
     },
     "done": true
   },
-  "techreborn:recipes/centrifuge/calcium_carbonate_cell": {
+  "techreborn:recipes/wire_mill/hv_cable": {
     "criteria": {
-      "has_calcium_carbonate": "2023-07-25 14:47:48 +0200"
+      "has_refined_iron_ingot": "2023-07-25 16:29:12 +0200"
     },
     "done": true
   },
-  "dml-refabricated:first_join": {
+  "dml-refabricated:simulation_chamber": {
     "criteria": {
-      "tick": "2023-07-25 14:47:48 +0200"
+      "checkInv": "2023-07-25 16:01:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
     },
     "done": true
   },
@@ -49,53 +55,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/chemical_reactor/sulfuric_acid": {
+  "minecraft:recipes/misc/writable_book": {
     "criteria": {
-      "has_sulfur": "2023-07-25 14:47:48 +0200"
-    },
-    "done": true
-  },
-  "techreborn:recipes/chemical_reactor/calcium_carbonate": {
-    "criteria": {
-      "has_carbon": "2023-07-25 14:47:48 +0200",
-      "has_calcium": "2023-07-25 14:47:48 +0200"
-    },
-    "done": true
-  },
-  "ae2wtlib:recipes/wireless_universal_terminal/upgrade_pattern_encoding": {
-    "criteria": {
-      "has_wpt": "2023-07-25 14:47:48 +0200"
-    },
-    "done": true
-  },
-  "techreborn:recipes/vacuum_freezer/helium": {
-    "criteria": {
-      "has_heliumplasma": "2023-07-25 14:47:48 +0200"
-    },
-    "done": true
-  },
-  "techreborn:recipes/centrifuge/hydrogen_cell": {
-    "criteria": {
-      "has_hydrogen": "2023-07-25 14:47:48 +0200"
-    },
-    "done": true
-  },
-  "techreborn:recipes/fusion_reactor/platinum_dust": {
-    "criteria": {
-      "has_beryllium": "2023-07-25 14:47:48 +0200",
-      "has_wolframium": "2023-07-25 14:47:48 +0200"
-    },
-    "done": true
-  },
-  "techreborn:recipes/centrifuge/helium_cell": {
-    "criteria": {
-      "has_helium": "2023-07-25 14:47:48 +0200"
-    },
-    "done": true
-  },
-  "ae2wtlib:recipes/wireless_pattern_access_terminal": {
-    "criteria": {
-      "has_wt": "2023-07-25 14:47:48 +0200"
+      "has_book": "2023-07-25 16:29:12 +0200"
     },
     "done": true
   },
@@ -106,22 +68,27 @@
     },
     "done": true
   },
-  "ae2wtlib:recipes/wireless_universal_terminal/upgrade_pattern_access": {
+  "tr-patchouli:recipes/guide": {
     "criteria": {
-      "has_wit": "2023-07-25 14:47:48 +0200"
+      "has_book": "2023-07-25 16:29:12 +0200"
     },
     "done": true
   },
-  "techreborn:recipes/fusion_reactor/iridium_ore": {
+  "mca:recipes/misc/needle_and_thread": {
     "criteria": {
-      "has_lithium": "2023-07-25 14:47:48 +0200",
-      "has_wolframium": "2023-07-25 14:47:48 +0200"
+      "has_item": "2023-07-25 16:22:14 +0200"
     },
     "done": true
   },
-  "techreborn:recipes/centrifuge/sulfur_cell": {
+  "techreborn:recipes/crafting_table/parts/electronic_circuit": {
     "criteria": {
-      "has_sulfur": "2023-07-25 14:47:48 +0200"
+      "has_refined_iron_ingot": "2023-07-25 16:29:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
     },
     "done": true
   },
@@ -131,53 +98,15 @@
     },
     "done": true
   },
-  "techreborn:recipes/chemical_reactor/sodium_persulfate": {
+  "ae2:recipes/ae2.main/decorative/light_detector": {
     "criteria": {
-      "has_sodium_sulfide": "2023-07-25 14:47:48 +0200"
-    },
-    "done": true
-  },
-  "techreborn:recipes/chemical_reactor/methane": {
-    "criteria": {
-      "has_hydrogen": "2023-07-25 14:47:48 +0200",
-      "has_carbon": "2023-07-25 14:47:48 +0200"
-    },
-    "done": true
-  },
-  "techreborn:recipes/blast_furnace/silicon_plate": {
-    "criteria": {
-      "has_silicon": "2023-07-25 14:47:48 +0200"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:badlands": "2023-07-25 14:47:09 +0200",
-      "minecraft:desert": "2023-07-25 14:48:01 +0200"
-    },
-    "done": false
-  },
-  "towers_of_the_wild_reworked:root": {
-    "criteria": {
-      "sample_trigger": "2023-07-25 14:47:48 +0200"
+      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
     },
     "done": true
   },
   "techreborn:recipes/chemical_reactor/nitrocoal_fuel": {
     "criteria": {
       "has_glyceryl": "2023-07-25 14:47:48 +0200"
-    },
-    "done": true
-  },
-  "mca:root": {
-    "criteria": {
-      "village_desert": "2023-07-25 14:49:12 +0200"
-    },
-    "done": true
-  },
-  "techreborn:recipes/chemical_reactor/nitro_carbon": {
-    "criteria": {
-      "has_nitrogen": "2023-07-25 14:47:48 +0200"
     },
     "done": true
   },
@@ -195,35 +124,9 @@
     },
     "done": true
   },
-  "ae2wtlib:recipes/wireless_universal_terminal/ce": {
+  "techreborn:recipes/blast_furnace/steel_ingot_from_refined_iron": {
     "criteria": {
-      "has_wpt": "2023-07-25 14:47:48 +0200",
-      "has_wct": "2023-07-25 14:47:48 +0200"
-    },
-    "done": true
-  },
-  "create:root": {
-    "criteria": {
-      "0": "2023-07-25 14:47:48 +0200"
-    },
-    "done": true
-  },
-  "ae2wtlib:recipes/wireless_universal_terminal/upgrade_crafting": {
-    "criteria": {
-      "has_wct": "2023-07-25 14:47:48 +0200"
-    },
-    "done": true
-  },
-  "techreborn:recipes/compressor/compressed_plantball_from_plantball": {
-    "criteria": {
-      "has_plantball": "2023-07-25 14:47:48 +0200"
-    },
-    "done": true
-  },
-  "ae2wtlib:recipes/wireless_universal_terminal/ae": {
-    "criteria": {
-      "has_wit": "2023-07-25 14:47:48 +0200",
-      "has_wpt": "2023-07-25 14:47:48 +0200"
+      "has_refined_iron": "2023-07-25 16:29:12 +0200"
     },
     "done": true
   },
@@ -234,27 +137,45 @@
     },
     "done": true
   },
-  "hexcasting:grant_patchi_book": {
+  "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
-      "tick": "2023-07-25 14:47:48 +0200"
+      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
     },
     "done": true
   },
-  "techreborn:recipes/centrifuge/deuterium_cell": {
+  "croptopia:recipes/documentation": {
     "criteria": {
-      "has_deuterium": "2023-07-25 14:47:48 +0200"
+      "has_book": "2023-07-25 16:29:12 +0200"
     },
     "done": true
   },
-  "techreborn:recipes/compressor/compressed_plantball_from_melon_slices": {
+  "minecraft:recipes/decorations/chest": {
     "criteria": {
-      "has_melon_slice": "2023-07-25 14:47:48 +0200"
+      "has_lots_of_items": "2023-07-25 16:04:49 +0200"
     },
     "done": true
   },
-  "techreborn:recipes/chemical_reactor/glyceryl": {
+  "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
-      "has_nitro_carbon": "2023-07-25 14:47:48 +0200"
+      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/refined_iron_plate": {
+    "criteria": {
+      "has_tag_c_refined_iron_ingots": "2023-07-25 16:29:12 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/industrial_iron_block_from_ingots_iron_stonecutting": {
+    "criteria": {
+      "has_ingots_iron": "2023-07-25 16:22:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
     },
     "done": true
   },
@@ -265,10 +186,406 @@
     },
     "done": true
   },
-  "techreborn:recipes/chemical_reactor/sodium_sulfide": {
+  "techreborn:recipes/chemical_reactor/nitrogen_dioxide": {
     "criteria": {
-      "has_sulfur": "2023-07-25 14:47:48 +0200",
-      "has_sodium": "2023-07-25 14:47:48 +0200"
+      "has_nitrogen": "2023-07-25 14:47:48 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/refined_iron_storage_block": {
+    "criteria": {
+      "has_refined_iron_ingot": "2023-07-25 16:29:12 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine_block/basic_machine_frame": {
+    "criteria": {
+      "has_refined_iron_ingot": "2023-07-25 16:29:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2023-07-25 16:26:42 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/andesite_alloy": {
+    "criteria": {
+      "has_item": "2023-07-25 16:22:14 +0200"
+    },
+    "done": true
+  },
+  "tr-patchouli:recipes/guide_from_manual": {
+    "criteria": {
+      "has_manual": "2023-07-25 16:29:05 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/calcium_carbonate_cell": {
+    "criteria": {
+      "has_calcium_carbonate": "2023-07-25 14:47:48 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/vacuum_freezer/helium": {
+    "criteria": {
+      "has_heliumplasma": "2023-07-25 14:47:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2023-07-25 16:29:12 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/hydrogen_cell": {
+    "criteria": {
+      "has_hydrogen": "2023-07-25 14:47:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/techreborn.item_group/smelting/refined_iron_ingot_from_iron_ingot": {
+    "criteria": {
+      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/helium_cell": {
+    "criteria": {
+      "has_helium": "2023-07-25 14:47:48 +0200"
+    },
+    "done": true
+  },
+  "dehydration:iron_recipes": {
+    "criteria": {
+      "got_the_iron_for_dehydration": "2023-07-25 16:22:14 +0200"
+    },
+    "done": true
+  },
+  "mca:adventure/scythe_kill": {
+    "criteria": {
+      "iron": "2023-07-25 16:22:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_pattern_access_terminal": {
+    "criteria": {
+      "has_wt": "2023-07-25 14:47:48 +0200"
+    },
+    "done": true
+  },
+  "trowel:recipes/trowel": {
+    "criteria": {
+      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_universal_terminal/upgrade_pattern_access": {
+    "criteria": {
+      "has_wit": "2023-07-25 14:47:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/fusion_reactor/iridium_ore": {
+    "criteria": {
+      "has_lithium": "2023-07-25 14:47:48 +0200",
+      "has_wolframium": "2023-07-25 14:47:48 +0200"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/comb": {
+    "criteria": {
+      "has_item": "2023-07-25 16:22:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_universal_terminal/upgrade_crafting": {
+    "criteria": {
+      "has_wct": "2023-07-25 14:47:48 +0200"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_universal_terminal/ae": {
+    "criteria": {
+      "has_wit": "2023-07-25 14:47:48 +0200",
+      "has_wpt": "2023-07-25 14:47:48 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/iron_knife": {
+    "criteria": {
+      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/iron_plate": {
+    "criteria": {
+      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/compressed_plantball_from_melon_slices": {
+    "criteria": {
+      "has_melon_slice": "2023-07-25 14:47:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/insulated_hv_cable": {
+    "criteria": {
+      "has_refined_iron": "2023-07-25 16:29:12 +0200"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/whistle": {
+    "criteria": {
+      "has_item": "2023-07-25 16:22:14 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/distillation_tower/diesel": {
+    "criteria": {
+      "has_oil": "2023-07-25 14:47:48 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/empty_blaze_burner": {
+    "criteria": {
+      "has_item": "2023-07-25 16:22:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/titanium_ingot": {
+    "criteria": {
+      "has_titanium_dust": "2023-07-25 14:47:48 +0200"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2023-07-25 14:47:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2023-07-25 16:29:12 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/paper_from_book": {
+    "criteria": {
+      "has_book": "2023-07-25 16:29:12 +0200"
+    },
+    "done": true
+  },
+  "dml-refabricated:pristine_matter": {
+    "criteria": {
+      "checkInv": "2023-07-25 16:04:49 +0200"
+    },
+    "done": true
+  },
+  "dml-refabricated:first_join": {
+    "criteria": {
+      "tick": "2023-07-25 14:47:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/steel_ingot_from_refined_iron_and_carbon": {
+    "criteria": {
+      "has_refined_iron": "2023-07-25 16:29:12 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/calcium_carbonate": {
+    "criteria": {
+      "has_carbon": "2023-07-25 14:47:48 +0200",
+      "has_calcium": "2023-07-25 14:47:48 +0200"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_universal_terminal/upgrade_pattern_encoding": {
+    "criteria": {
+      "has_wpt": "2023-07-25 14:47:48 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/iron_furnace": {
+    "criteria": {
+      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/hv_cable": {
+    "criteria": {
+      "has_refined_iron_ingot": "2023-07-25 16:29:12 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/sulfur_cell": {
+    "criteria": {
+      "has_sulfur": "2023-07-25 14:47:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/methane": {
+    "criteria": {
+      "has_hydrogen": "2023-07-25 14:47:48 +0200",
+      "has_carbon": "2023-07-25 14:47:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:badlands": "2023-07-25 14:47:09 +0200",
+      "minecraft:swamp": "2023-07-25 15:56:13 +0200",
+      "minecraft:desert": "2023-07-25 14:48:01 +0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_universal_terminal/ce": {
+    "criteria": {
+      "has_wpt": "2023-07-25 14:47:48 +0200",
+      "has_wct": "2023-07-25 14:47:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2023-07-25 16:26:42 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/deuterium_cell": {
+    "criteria": {
+      "has_deuterium": "2023-07-25 14:47:48 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/cooking_pot": {
+    "criteria": {
+      "has_iron": "2023-07-25 16:22:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2023-07-25 16:26:42 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/refined_iron_fence": {
+    "criteria": {
+      "has_refined_iron": "2023-07-25 16:29:12 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/glyceryl": {
+    "criteria": {
+      "has_nitro_carbon": "2023-07-25 14:47:48 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/alloy_smelter/invar_ingot": {
+    "criteria": {
+      "has_iron": "2023-07-25 16:22:14 +0200"
     },
     "done": true
   },
@@ -279,21 +596,221 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2023-07-25 16:22:00 +0200"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/staff_of_life": {
+    "criteria": {
+      "has_item": "2023-07-25 16:21:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2023-07-25 16:26:42 +0200"
+    },
+    "done": true
+  },
+  "towers_of_the_wild_reworked:regular_tower": {
+    "criteria": {
+      "regular": "2023-07-25 14:48:01 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2023-07-25 14:47:48 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/techreborn.item_group/blasting/refined_iron_ingot_from_iron_ingot": {
+    "criteria": {
+      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2023-07-25 16:26:42 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/lava_cell": {
+    "criteria": {
+      "has_lava": "2023-07-25 14:47:48 +0200"
+    },
+    "done": true
+  },
+  "techreborn:refined_iron": {
+    "criteria": {
+      "crit1": "2023-07-25 16:29:12 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/sulfuric_acid": {
+    "criteria": {
+      "has_sulfur": "2023-07-25 14:47:48 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/frying_pan": {
+    "criteria": {
+      "has_iron": "2023-07-25 16:22:14 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/fusion_reactor/platinum_dust": {
+    "criteria": {
+      "has_beryllium": "2023-07-25 14:47:48 +0200",
+      "has_wolframium": "2023-07-25 14:47:48 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking_pot": {
+    "criteria": {
+      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
+    },
+    "done": true
+  },
+  "dml-refabricated:loot_fabricator": {
+    "criteria": {
+      "checkInv": "2023-07-25 16:08:22 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/techreborn.item_group/crafting_table/nugget/refined_iron_nugget": {
+    "criteria": {
+      "has_refined_iron_ingot": "2023-07-25 16:29:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/sodium_persulfate": {
+    "criteria": {
+      "has_sodium_sulfide": "2023-07-25 14:47:48 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/silicon_plate": {
+    "criteria": {
+      "has_silicon": "2023-07-25 14:47:48 +0200"
+    },
+    "done": true
+  },
+  "towers_of_the_wild_reworked:root": {
+    "criteria": {
+      "sample_trigger": "2023-07-25 14:47:48 +0200"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2023-07-25 16:29:12 +0200"
+    },
+    "done": true
+  },
+  "mca:root": {
+    "criteria": {
+      "village_desert": "2023-07-25 14:49:12 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/nitro_carbon": {
+    "criteria": {
+      "has_nitrogen": "2023-07-25 14:47:48 +0200"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2023-07-25 14:47:48 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/compressed_plantball_from_plantball": {
+    "criteria": {
+      "has_plantball": "2023-07-25 14:47:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
+    },
+    "done": true
+  },
+  "dml-refabricated:data_models": {
+    "criteria": {
+      "checkInv": "2023-07-25 16:01:17 +0200"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/nethersdelight/blackstone_blast_furnace": {
+    "criteria": {
+      "has_iron": "2023-07-25 16:22:14 +0200"
+    },
+    "done": true
+  },
+  "hexcasting:grant_patchi_book": {
+    "criteria": {
+      "tick": "2023-07-25 14:47:48 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/iron_platform": {
+    "criteria": {
+      "has_bars": "2023-07-25 16:22:14 +0200"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/nethersdelight/iron_machete": {
+    "criteria": {
+      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2023-07-25 16:26:42 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2023-07-25 16:22:14 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/sodium_sulfide": {
+    "criteria": {
+      "has_sulfur": "2023-07-25 14:47:48 +0200",
+      "has_sodium": "2023-07-25 14:47:48 +0200"
+    },
+    "done": true
+  },
   "ae2wtlib:recipes/wireless_pattern_encoding_terminal": {
     "criteria": {
       "has_wt": "2023-07-25 14:47:48 +0200"
     },
     "done": true
   },
-  "techreborn:recipes/chemical_reactor/nitrogen_dioxide": {
+  "techreborn:recipes/industrial_grinder/iron_ingot_with_mercury": {
     "criteria": {
-      "has_nitrogen": "2023-07-25 14:47:48 +0200"
-    },
-    "done": true
-  },
-  "techreborn:recipes/distillation_tower/diesel": {
-    "criteria": {
-      "has_oil": "2023-07-25 14:47:48 +0200"
+      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
     },
     "done": true
   },
