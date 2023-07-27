@@ -1,816 +1,1563 @@
 {
-  "dml-refabricated:matter_condenser": {
+  "techreborn:recipes/chemical_reactor/purple_stained_glass_pane_from_red_stained_glass_pane_with_blue_dye": {
     "criteria": {
-      "checkInv": "2023-07-25 16:07:20 +0200"
+      "has_blue_dye": "2023-07-27 22:22:50 +0200"
     },
     "done": true
   },
-  "dml-refabricated:trial": {
+  "ae2:recipes/ae2.main/network/cables/dense_covered_purple": {
     "criteria": {
-      "checkInv": "2023-07-25 16:09:24 +0200"
+      "has_dyes/black": "2023-07-27 22:22:57 +0200"
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/machine/alarm": {
+  "techreborn:recipes/chemical_reactor/cyan_carpet_from_green_concrete_powder_with_blue_dye": {
     "criteria": {
-      "has_refined_iron_ingot": "2023-07-25 16:29:12 +0200"
+      "has_blue_dye": "2023-07-27 22:22:49 +0200"
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/manual": {
+  "minecraft:recipes/decorations/blue_candle": {
     "criteria": {
-      "has_book": "2023-07-25 16:29:12 +0200"
+      "has_blue_dye": "2023-07-27 22:22:50 +0200"
     },
     "done": true
   },
-  "croptopia:recipes/croptopia.croptopia/knife": {
+  "techreborn:recipes/crafting_table/cable/copper_cable": {
     "criteria": {
-      "has_iron": "2023-07-25 16:22:14 +0200"
+      "has_copper_ingot": "2023-07-27 12:52:06 +0200"
     },
     "done": true
   },
-  "techreborn:recipes/wire_mill/hv_cable": {
+  "techreborn:recipes/extractor/phantom_membrane_from_elytra": {
     "criteria": {
-      "has_refined_iron_ingot": "2023-07-25 16:29:12 +0200"
+      "has_elytra": "2023-07-27 21:16:34 +0200"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/dense_smart_purple": {
+    "criteria": {
+      "has_dyes/black": "2023-07-27 22:22:57 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_small_dust_from_wooden_pickaxe": {
+    "criteria": {
+      "has_wooden_pickaxe": "2023-07-27 23:08:53 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/blue_wool_from_light_blue_wool_with_blue_dye": {
+    "criteria": {
+      "has_blue_dye": "2023-07-27 22:22:49 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/blue_carpet_from_white_concrete_powder_with_blue_dye": {
+    "criteria": {
+      "has_blue_dye": "2023-07-27 22:22:49 +0200"
     },
     "done": true
   },
   "dml-refabricated:simulation_chamber": {
     "criteria": {
-      "checkInv": "2023-07-25 16:01:00 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/iron_sword": {
-    "criteria": {
-      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
+      "checkInv": "2023-07-27 22:38:33 +0200"
     },
     "done": true
   },
   "ae2wtlib:recipes/infinity_booster_card": {
     "criteria": {
-      "has_wit": "2023-07-25 14:47:48 +0200",
-      "has_wpt": "2023-07-25 14:47:48 +0200",
-      "has_wct": "2023-07-25 14:47:48 +0200"
+      "has_wit": "2023-07-27 12:48:54 +0200",
+      "has_wpt": "2023-07-27 12:48:54 +0200",
+      "has_wct": "2023-07-27 12:48:54 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/misc/writable_book": {
+  "create:recipes/create.base/crafting/appliances/copper_backtank": {
     "criteria": {
-      "has_book": "2023-07-25 16:29:12 +0200"
+      "has_item": "2023-07-27 12:52:06 +0200"
     },
     "done": true
   },
-  "techreborn:recipes/chemical_reactor/nitro_diesel": {
+  "techreborn:recipes/chemical_reactor/cyan_candle_from_green_candle_with_blue_dye": {
     "criteria": {
-      "has_diesel": "2023-07-25 14:47:48 +0200",
-      "has_glyceryl": "2023-07-25 14:47:48 +0200"
+      "has_blue_dye": "2023-07-27 22:22:49 +0200"
     },
     "done": true
   },
-  "tr-patchouli:recipes/guide": {
+  "create:recipes/create.base/crafting/appliances/copper_diving_boots": {
     "criteria": {
-      "has_book": "2023-07-25 16:29:12 +0200"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/needle_and_thread": {
-    "criteria": {
-      "has_item": "2023-07-25 16:22:14 +0200"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/parts/electronic_circuit": {
-    "criteria": {
-      "has_refined_iron_ingot": "2023-07-25 16:29:12 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/iron_pickaxe": {
-    "criteria": {
-      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
+      "has_item": "2023-07-27 12:52:06 +0200"
     },
     "done": true
   },
   "ae2wtlib:recipes/magnet_card": {
     "criteria": {
-      "has_wct": "2023-07-25 14:47:48 +0200"
-    },
-    "done": true
-  },
-  "ae2:recipes/ae2.main/decorative/light_detector": {
-    "criteria": {
-      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
-    },
-    "done": true
-  },
-  "techreborn:recipes/chemical_reactor/nitrocoal_fuel": {
-    "criteria": {
-      "has_glyceryl": "2023-07-25 14:47:48 +0200"
-    },
-    "done": true
-  },
-  "techreborn:recipes/chemical_reactor/water": {
-    "criteria": {
-      "has_hydrogen": "2023-07-25 14:47:48 +0200",
-      "has_compressed_air": "2023-07-25 14:47:48 +0200"
+      "has_wct": "2023-07-27 12:48:54 +0200"
     },
     "done": true
   },
   "techreborn:recipes/fusion_reactor/helium_plasma": {
     "criteria": {
-      "has_helium3": "2023-07-25 14:47:48 +0200",
-      "has_deuterium": "2023-07-25 14:47:48 +0200"
+      "has_helium3": "2023-07-27 12:48:54 +0200",
+      "has_deuterium": "2023-07-27 12:48:54 +0200"
     },
     "done": true
   },
-  "techreborn:recipes/blast_furnace/steel_ingot_from_refined_iron": {
+  "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
-      "has_refined_iron": "2023-07-25 16:29:12 +0200"
+      "has_copper_ingot": "2023-07-27 12:52:06 +0200"
     },
     "done": true
   },
   "techreborn:recipes/fusion_reactor/helium3": {
     "criteria": {
-      "has_tritium": "2023-07-25 14:47:48 +0200",
-      "has_deuterium": "2023-07-25 14:47:48 +0200"
+      "has_tritium": "2023-07-27 12:48:54 +0200",
+      "has_deuterium": "2023-07-27 12:48:54 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_nugget": {
+  "techreborn:recipes/chemical_reactor/blue_carpet_from_light_blue_concrete_powder_with_blue_dye": {
     "criteria": {
-      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
+      "has_blue_dye": "2023-07-27 22:22:49 +0200"
     },
     "done": true
   },
-  "croptopia:recipes/documentation": {
+  "create:recipes/create.palettes/copper_shingles_from_ingots_copper_stonecutting": {
     "criteria": {
-      "has_book": "2023-07-25 16:29:12 +0200"
+      "has_ingots_copper": "2023-07-27 12:52:06 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chest": {
+  "minecraft:end/elytra": {
     "criteria": {
-      "has_lots_of_items": "2023-07-25 16:04:49 +0200"
+      "elytra": "2023-07-27 21:16:34 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/iron_block": {
+  "techreborn:recipes/grinder/bone_meal": {
     "criteria": {
-      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
+      "has_bone": "2023-07-27 22:37:42 +0200"
     },
     "done": true
   },
-  "techreborn:recipes/compressor/refined_iron_plate": {
+  "create:recipes/create.base/crafting/kinetics/fluid_valve": {
     "criteria": {
-      "has_tag_c_refined_iron_ingots": "2023-07-25 16:29:12 +0200"
+      "has_item": "2023-07-27 12:52:06 +0200"
     },
     "done": true
   },
-  "create:recipes/create.palettes/industrial_iron_block_from_ingots_iron_stonecutting": {
+  "minecraft:recipes/decorations/torch": {
     "criteria": {
-      "has_ingots_iron": "2023-07-25 16:22:14 +0200"
+      "has_stone_pickaxe": "2023-07-27 23:08:55 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/tools/shears": {
+  "techreborn:recipes/chemical_reactor/cyan_stained_glass_pane_from_green_stained_glass_pane_with_blue_dye": {
     "criteria": {
-      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
+      "has_blue_dye": "2023-07-27 22:22:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_blue_dye": "2023-07-27 22:22:50 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2023-07-27 12:57:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet_from_white_carpet": {
+    "criteria": {
+      "has_purple_dye": "2023-07-27 22:22:57 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/techreborn.item_group/crafting_table/nugget/copper_nugget": {
+    "criteria": {
+      "has_copper_ingot": "2023-07-27 12:52:06 +0200"
     },
     "done": true
   },
   "techreborn:recipes/chemical_reactor/nitrofuel": {
     "criteria": {
-      "has_oil": "2023-07-25 14:47:48 +0200",
-      "has_nitrogen": "2023-07-25 14:47:48 +0200"
+      "has_oil": "2023-07-27 12:48:54 +0200",
+      "has_nitrogen": "2023-07-27 12:48:54 +0200"
     },
     "done": true
   },
   "techreborn:recipes/chemical_reactor/nitrogen_dioxide": {
     "criteria": {
-      "has_nitrogen": "2023-07-25 14:47:48 +0200"
+      "has_nitrogen": "2023-07-27 12:48:54 +0200"
     },
     "done": true
   },
-  "techreborn:recipes/techreborn.item_group/crafting_table/storage_block/refined_iron_storage_block": {
+  "minecraft:recipes/decorations/jukebox": {
     "criteria": {
-      "has_refined_iron_ingot": "2023-07-25 16:29:12 +0200"
+      "has_diamond": "2023-07-27 12:57:33 +0200"
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/machine_block/basic_machine_frame": {
+  "techreborn:recipes/chemical_reactor/purple_carpet_from_magenta_carpet_with_blue_dye": {
     "criteria": {
-      "has_refined_iron_ingot": "2023-07-25 16:29:12 +0200"
+      "has_blue_dye": "2023-07-27 22:22:49 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/spruce_boat": {
+  "techreborn:recipes/chemical_reactor/green_carpet_from_yellow_carpet_with_blue_dye": {
     "criteria": {
-      "in_water": "2023-07-25 16:26:42 +0200"
+      "has_blue_dye": "2023-07-27 22:22:50 +0200"
     },
     "done": true
   },
-  "create:recipes/create.base/crafting/materials/andesite_alloy": {
+  "techreborn:recipes/chemical_reactor/light_blue_terracotta_from_light_gray_terracotta_with_blue_dye": {
     "criteria": {
-      "has_item": "2023-07-25 16:22:14 +0200"
+      "has_blue_dye": "2023-07-27 22:22:50 +0200"
     },
     "done": true
   },
-  "tr-patchouli:recipes/guide_from_manual": {
+  "techreborn:recipes/chemical_reactor/purple_terracotta_from_red_terracotta_with_blue_dye": {
     "criteria": {
-      "has_manual": "2023-07-25 16:29:05 +0200"
+      "has_blue_dye": "2023-07-27 22:22:49 +0200"
     },
     "done": true
   },
-  "techreborn:recipes/centrifuge/calcium_carbonate_cell": {
+  "create:recipes/create.palettes/crafting/materials/zinc_block_from_compacting": {
     "criteria": {
-      "has_calcium_carbonate": "2023-07-25 14:47:48 +0200"
+      "has_item": "2023-07-27 12:51:52 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/glowstone_dust": {
+    "criteria": {
+      "has_glowstone_dust": "2023-07-27 22:25:36 +0200"
     },
     "done": true
   },
   "techreborn:recipes/vacuum_freezer/helium": {
     "criteria": {
-      "has_heliumplasma": "2023-07-25 14:47:48 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bookshelf": {
-    "criteria": {
-      "has_book": "2023-07-25 16:29:12 +0200"
-    },
-    "done": true
-  },
-  "techreborn:recipes/centrifuge/hydrogen_cell": {
-    "criteria": {
-      "has_hydrogen": "2023-07-25 14:47:48 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/iron_leggings": {
-    "criteria": {
-      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
-    },
-    "done": true
-  },
-  "techreborn:recipes/techreborn.item_group/smelting/refined_iron_ingot_from_iron_ingot": {
-    "criteria": {
-      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
-    },
-    "done": true
-  },
-  "techreborn:recipes/centrifuge/helium_cell": {
-    "criteria": {
-      "has_helium": "2023-07-25 14:47:48 +0200"
-    },
-    "done": true
-  },
-  "dehydration:iron_recipes": {
-    "criteria": {
-      "got_the_iron_for_dehydration": "2023-07-25 16:22:14 +0200"
-    },
-    "done": true
-  },
-  "mca:adventure/scythe_kill": {
-    "criteria": {
-      "iron": "2023-07-25 16:22:00 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/iron_axe": {
-    "criteria": {
-      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
-    },
-    "done": true
-  },
-  "ae2wtlib:recipes/wireless_pattern_access_terminal": {
-    "criteria": {
-      "has_wt": "2023-07-25 14:47:48 +0200"
-    },
-    "done": true
-  },
-  "trowel:recipes/trowel": {
-    "criteria": {
-      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
-    },
-    "done": true
-  },
-  "ae2wtlib:recipes/wireless_universal_terminal/upgrade_pattern_access": {
-    "criteria": {
-      "has_wit": "2023-07-25 14:47:48 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/shield": {
-    "criteria": {
-      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
+      "has_heliumplasma": "2023-07-27 12:48:54 +0200"
     },
     "done": true
   },
   "techreborn:recipes/fusion_reactor/iridium_ore": {
     "criteria": {
-      "has_lithium": "2023-07-25 14:47:48 +0200",
-      "has_wolframium": "2023-07-25 14:47:48 +0200"
+      "has_lithium": "2023-07-27 12:48:54 +0200",
+      "has_wolframium": "2023-07-27 12:48:54 +0200"
     },
     "done": true
   },
-  "mca:recipes/misc/comb": {
+  "techreborn:recipes/chemical_reactor/purple_carpet_from_white_concrete_powder_with_purple_dye": {
     "criteria": {
-      "has_item": "2023-07-25 16:22:14 +0200"
+      "has_purple_dye": "2023-07-27 22:22:57 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/misc/bucket": {
+  "create:recipes/create.base/crafting/materials/copper_nugget": {
     "criteria": {
-      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
+      "has_item": "2023-07-27 12:52:06 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/combat/iron_boots": {
+  "ae2:recipes/ae2.main/network/cables/smart_purple": {
     "criteria": {
-      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/hopper": {
-    "criteria": {
-      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
+      "has_dyes/black": "2023-07-27 22:22:57 +0200"
     },
     "done": true
   },
   "ae2wtlib:recipes/wireless_universal_terminal/upgrade_crafting": {
     "criteria": {
-      "has_wct": "2023-07-25 14:47:48 +0200"
+      "has_wct": "2023-07-27 12:48:54 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/tools/modifiers/wither_bone_conversion": {
+    "criteria": {
+      "has_bone": "2023-07-27 22:37:40 +0200"
     },
     "done": true
   },
   "ae2wtlib:recipes/wireless_universal_terminal/ae": {
     "criteria": {
-      "has_wit": "2023-07-25 14:47:48 +0200",
-      "has_wpt": "2023-07-25 14:47:48 +0200"
+      "has_wit": "2023-07-27 12:48:54 +0200",
+      "has_wpt": "2023-07-27 12:48:54 +0200"
     },
     "done": true
   },
-  "farmersdelight:recipes/farmersdelight/iron_knife": {
+  "techreborn:recipes/crafting_table/cable/insulated_copper_cable": {
     "criteria": {
-      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
+      "has_copper": "2023-07-27 12:52:06 +0200"
     },
     "done": true
   },
-  "techreborn:recipes/compressor/iron_plate": {
+  "create:recipes/create.base/crafting/kinetics/rose_quartz_lamp": {
     "criteria": {
-      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
+      "has_item": "2023-07-27 12:51:52 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/copper_tiles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2023-07-27 12:52:06 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/purple_carpet_from_white_carpet_with_purple_dye": {
+    "criteria": {
+      "has_purple_dye": "2023-07-27 22:22:57 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/blue_stained_glass_from_light_blue_stained_glass_with_blue_dye": {
+    "criteria": {
+      "has_blue_dye": "2023-07-27 22:22:50 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/techreborn.item_group/crafting_table/small_dust/glowstone_small_dust_from_dust": {
+    "criteria": {
+      "has_glowstone_dust": "2023-07-27 22:25:36 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/copper_scaffolding_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2023-07-27 12:52:06 +0200"
+    },
+    "done": true
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2023-07-27 12:51:40 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/blue_stained_glass_from_cyan_stained_glass_with_blue_dye": {
+    "criteria": {
+      "has_blue_dye": "2023-07-27 22:22:50 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/whisk": {
+    "criteria": {
+      "has_item": "2023-07-27 23:17:26 +0200"
     },
     "done": true
   },
   "techreborn:recipes/compressor/compressed_plantball_from_melon_slices": {
     "criteria": {
-      "has_melon_slice": "2023-07-25 14:47:48 +0200"
+      "has_melon_slice": "2023-07-27 12:48:54 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/combat/crossbow": {
+  "techreborn:recipes/chemical_reactor/purple_stained_glass_from_glass_with_purple_dye": {
     "criteria": {
-      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
+      "has_purple_dye": "2023-07-27 22:22:57 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/combat/iron_chestplate": {
+  "techreborn:recipes/crafting_table/cable/insulated_copper_cable_alt": {
     "criteria": {
-      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
+      "has_copper": "2023-07-27 12:52:06 +0200"
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/cable/insulated_hv_cable": {
+  "techreborn:recipes/chemical_reactor/purple_candle_from_magenta_candle_with_blue_dye": {
     "criteria": {
-      "has_refined_iron": "2023-07-25 16:29:12 +0200"
+      "has_blue_dye": "2023-07-27 22:22:49 +0200"
     },
     "done": true
   },
-  "mca:recipes/misc/whistle": {
+  "techreborn:recipes/chemical_reactor/blue_carpet_from_cyan_concrete_powder_with_blue_dye": {
     "criteria": {
-      "has_item": "2023-07-25 16:22:14 +0200"
+      "has_blue_dye": "2023-07-27 22:22:49 +0200"
     },
     "done": true
   },
   "techreborn:recipes/distillation_tower/diesel": {
     "criteria": {
-      "has_oil": "2023-07-25 14:47:48 +0200"
+      "has_oil": "2023-07-27 12:48:54 +0200"
     },
     "done": true
   },
-  "create:recipes/create.base/crafting/kinetics/empty_blaze_burner": {
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
-      "has_item": "2023-07-25 16:22:14 +0200"
+      "has_blue_dye": "2023-07-27 22:22:50 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/combat/iron_helmet": {
+  "ae2:recipes/ae2.main/network/cables/glass_purple": {
     "criteria": {
-      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
+      "has_dyes/black": "2023-07-27 22:22:57 +0200"
     },
     "done": true
   },
-  "techreborn:recipes/blast_furnace/titanium_ingot": {
+  "techreborn:recipes/chemical_reactor/purple_candle_from_magenta_candle_with_purple_dye": {
     "criteria": {
-      "has_titanium_dust": "2023-07-25 14:47:48 +0200"
+      "has_purple_dye": "2023-07-27 22:22:57 +0200"
     },
     "done": true
   },
-  "betterdungeons:root": {
+  "techreborn:recipes/techreborn.item_group/crafting_table/nugget/diamond_nugget": {
     "criteria": {
-      "always": "2023-07-25 14:47:48 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lectern": {
-    "criteria": {
-      "has_book": "2023-07-25 16:29:12 +0200"
-    },
-    "done": true
-  },
-  "techreborn:recipes/extractor/paper_from_book": {
-    "criteria": {
-      "has_book": "2023-07-25 16:29:12 +0200"
-    },
-    "done": true
-  },
-  "dml-refabricated:pristine_matter": {
-    "criteria": {
-      "checkInv": "2023-07-25 16:04:49 +0200"
+      "has_diamond": "2023-07-27 12:57:33 +0200"
     },
     "done": true
   },
   "dml-refabricated:first_join": {
     "criteria": {
-      "tick": "2023-07-25 14:47:48 +0200"
+      "tick": "2023-07-27 12:48:54 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/iron_bars": {
+  "techreborn:recipes/compressor/copper_plate": {
     "criteria": {
-      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
-    },
-    "done": true
-  },
-  "techreborn:recipes/blast_furnace/steel_ingot_from_refined_iron_and_carbon": {
-    "criteria": {
-      "has_refined_iron": "2023-07-25 16:29:12 +0200"
+      "has_copper_ingot": "2023-07-27 12:52:06 +0200"
     },
     "done": true
   },
   "techreborn:recipes/chemical_reactor/calcium_carbonate": {
     "criteria": {
-      "has_carbon": "2023-07-25 14:47:48 +0200",
-      "has_calcium": "2023-07-25 14:47:48 +0200"
+      "has_carbon": "2023-07-27 12:48:54 +0200",
+      "has_calcium": "2023-07-27 12:48:54 +0200"
     },
     "done": true
   },
-  "ae2wtlib:recipes/wireless_universal_terminal/upgrade_pattern_encoding": {
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
     "criteria": {
-      "has_wpt": "2023-07-25 14:47:48 +0200"
+      "has_purple_dye": "2023-07-27 22:22:57 +0200"
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/machine/iron_furnace": {
+  "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
-      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
+      "has_diamond": "2023-07-27 12:57:33 +0200"
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/cable/hv_cable": {
+  "techreborn:recipes/chemical_reactor/green_carpet_from_yellow_concrete_powder_with_blue_dye": {
     "criteria": {
-      "has_refined_iron_ingot": "2023-07-25 16:29:12 +0200"
+      "has_blue_dye": "2023-07-27 22:22:49 +0200"
     },
     "done": true
   },
-  "techreborn:recipes/centrifuge/sulfur_cell": {
+  "tconstruct:recipes/misc/common/glass/vanilla/beacon": {
     "criteria": {
-      "has_sulfur": "2023-07-25 14:47:48 +0200"
+      "has_nether_star": "2023-07-27 22:27:43 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/minecart": {
+  "create:recipes/create.base/crafting/kinetics/encased_fan": {
     "criteria": {
-      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
+      "has_item": "2023-07-27 23:17:26 +0200"
     },
     "done": true
   },
-  "techreborn:recipes/chemical_reactor/methane": {
+  "minecraft:recipes/misc/beacon": {
     "criteria": {
-      "has_hydrogen": "2023-07-25 14:47:48 +0200",
-      "has_carbon": "2023-07-25 14:47:48 +0200"
+      "has_nether_star": "2023-07-27 22:27:43 +0200"
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
+  "create:recipes/create.palettes/copycat_panel_from_ingots_zinc_stonecutting": {
     "criteria": {
-      "minecraft:badlands": "2023-07-25 14:47:09 +0200",
-      "minecraft:swamp": "2023-07-25 15:56:13 +0200",
-      "minecraft:desert": "2023-07-25 14:48:01 +0200"
-    },
-    "done": false
-  },
-  "minecraft:recipes/redstone/iron_door": {
-    "criteria": {
-      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
+      "has_ingots_zinc": "2023-07-27 12:51:52 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/tools/iron_hoe": {
+  "techreborn:recipes/chemical_reactor/green_candle_from_yellow_candle_with_blue_dye": {
     "criteria": {
-      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
+      "has_blue_dye": "2023-07-27 22:22:50 +0200"
     },
     "done": true
   },
-  "ae2wtlib:recipes/wireless_universal_terminal/ce": {
+  "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
-      "has_wpt": "2023-07-25 14:47:48 +0200",
-      "has_wct": "2023-07-25 14:47:48 +0200"
+      "has_diamond": "2023-07-27 12:57:33 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/birch_boat": {
+  "create:recipes/create.base/crafting/kinetics/mechanical_pump": {
     "criteria": {
-      "in_water": "2023-07-25 16:26:42 +0200"
+      "has_item": "2023-07-27 12:52:06 +0200"
     },
     "done": true
   },
-  "techreborn:recipes/centrifuge/deuterium_cell": {
+  "create:recipes/create.base/crafting/curiosities/brown_toolbox": {
     "criteria": {
-      "has_deuterium": "2023-07-25 14:47:48 +0200"
+      "has_item": "2023-07-27 23:15:47 +0200"
     },
     "done": true
   },
-  "croptopia:recipes/croptopia.croptopia/cooking_pot": {
+  "techreborn:recipes/chemical_reactor/cyan_wool_from_green_wool_with_blue_dye": {
     "criteria": {
-      "has_iron": "2023-07-25 16:22:14 +0200"
+      "has_blue_dye": "2023-07-27 22:22:49 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/tools/iron_shovel": {
+  "techreborn:recipes/chemical_reactor/purple_terracotta_from_magenta_terracotta_with_purple_dye": {
     "criteria": {
-      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
+      "has_purple_dye": "2023-07-27 22:22:57 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/acacia_boat": {
+  "techreborn:recipes/chemical_reactor/light_blue_carpet_from_light_gray_carpet_with_blue_dye": {
     "criteria": {
-      "in_water": "2023-07-25 16:26:42 +0200"
+      "has_blue_dye": "2023-07-27 22:22:49 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/iron_trapdoor": {
+  "create:recipes/create.base/crafting/materials/zinc_nugget_from_decompacting": {
     "criteria": {
-      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
+      "has_item": "2023-07-27 12:51:52 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/smithing_table": {
+  "tconstruct:tools/make_part": {
     "criteria": {
-      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
+      "crafted_part": "2023-07-27 23:13:16 +0200"
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/misc_block/refined_iron_fence": {
+  "techreborn:recipes/chemical_reactor/light_blue_terracotta_from_white_terracotta_with_blue_dye": {
     "criteria": {
-      "has_refined_iron": "2023-07-25 16:29:12 +0200"
-    },
-    "done": true
-  },
-  "techreborn:recipes/chemical_reactor/glyceryl": {
-    "criteria": {
-      "has_nitro_carbon": "2023-07-25 14:47:48 +0200"
-    },
-    "done": true
-  },
-  "techreborn:recipes/alloy_smelter/invar_ingot": {
-    "criteria": {
-      "has_iron": "2023-07-25 16:22:14 +0200"
-    },
-    "done": true
-  },
-  "ae2wtlib:recipes/wireless_universal_terminal/ca": {
-    "criteria": {
-      "has_wit": "2023-07-25 14:47:48 +0200",
-      "has_wct": "2023-07-25 14:47:48 +0200"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2023-07-25 16:22:00 +0200"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/staff_of_life": {
-    "criteria": {
-      "has_item": "2023-07-25 16:21:26 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "in_water": "2023-07-25 16:26:42 +0200"
-    },
-    "done": true
-  },
-  "towers_of_the_wild_reworked:regular_tower": {
-    "criteria": {
-      "regular": "2023-07-25 14:48:01 +0200"
+      "has_blue_dye": "2023-07-27 22:22:49 +0200"
     },
     "done": true
   },
   "farmersdelight:main/root": {
     "criteria": {
-      "seeds": "2023-07-25 14:47:48 +0200"
+      "seeds": "2023-07-27 12:48:54 +0200"
     },
     "done": true
   },
-  "techreborn:recipes/techreborn.item_group/blasting/refined_iron_ingot_from_iron_ingot": {
+  "techreborn:recipes/chemical_reactor/purple_wool_from_white_wool_with_purple_dye": {
     "criteria": {
-      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
+      "has_purple_dye": "2023-07-27 22:22:57 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+  "tconstruct:recipes/tconstruct/tools/armor/building/travelers_pants": {
     "criteria": {
-      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/dark_oak_boat": {
-    "criteria": {
-      "in_water": "2023-07-25 16:26:42 +0200"
+      "has_item": "2023-07-27 12:52:06 +0200"
     },
     "done": true
   },
   "techreborn:recipes/centrifuge/lava_cell": {
     "criteria": {
-      "has_lava": "2023-07-25 14:47:48 +0200"
+      "has_lava": "2023-07-27 12:48:54 +0200"
     },
     "done": true
   },
-  "techreborn:refined_iron": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
-      "crit1": "2023-07-25 16:29:12 +0200"
+      "has_diamond": "2023-07-27 12:57:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2023-07-27 12:57:33 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/tools/armor/building/travelers_goggles": {
+    "criteria": {
+      "has_item": "2023-07-27 12:52:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2023-07-27 12:52:06 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/blue_stained_glass_pane_from_cyan_stained_glass_pane_with_blue_dye": {
+    "criteria": {
+      "has_blue_dye": "2023-07-27 22:22:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2023-07-27 22:25:35 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/blue_carpet_from_light_blue_carpet_with_blue_dye": {
+    "criteria": {
+      "has_blue_dye": "2023-07-27 22:22:50 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2023-07-27 12:57:33 +0200"
+    },
+    "done": true
+  },
+  "dehydration:copper_recipes": {
+    "criteria": {
+      "got_the_copper_for_dehydration": "2023-07-27 12:52:06 +0200"
     },
     "done": true
   },
   "techreborn:recipes/chemical_reactor/sulfuric_acid": {
     "criteria": {
-      "has_sulfur": "2023-07-25 14:47:48 +0200"
+      "has_sulfur": "2023-07-27 12:48:54 +0200"
     },
     "done": true
   },
-  "croptopia:recipes/croptopia.croptopia/frying_pan": {
+  "techreborn:recipes/industrial_grinder/copper_ingot_with_mercury": {
     "criteria": {
-      "has_iron": "2023-07-25 16:22:14 +0200"
+      "has_copper_ingot": "2023-07-27 12:52:06 +0200"
     },
     "done": true
   },
   "techreborn:recipes/fusion_reactor/platinum_dust": {
     "criteria": {
-      "has_beryllium": "2023-07-25 14:47:48 +0200",
-      "has_wolframium": "2023-07-25 14:47:48 +0200"
+      "has_beryllium": "2023-07-27 12:48:54 +0200",
+      "has_wolframium": "2023-07-27 12:48:54 +0200"
     },
     "done": true
   },
-  "farmersdelight:recipes/farmersdelight/cooking_pot": {
+  "create:recipes/create.base/crafting/materials/andesite_alloy_from_zinc": {
     "criteria": {
-      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
+      "has_item": "2023-07-27 12:51:52 +0200"
     },
     "done": true
   },
-  "dml-refabricated:loot_fabricator": {
+  "tconstruct:world/sky_island": {
     "criteria": {
-      "checkInv": "2023-07-25 16:08:22 +0200"
+      "found_island": "2023-07-27 12:57:57 +0200"
     },
     "done": true
   },
-  "techreborn:recipes/techreborn.item_group/crafting_table/nugget/refined_iron_nugget": {
+  "techreborn:recipes/chemical_reactor/purple_stained_glass_pane_from_magenta_stained_glass_pane_with_blue_dye": {
     "criteria": {
-      "has_refined_iron_ingot": "2023-07-25 16:29:12 +0200"
+      "has_blue_dye": "2023-07-27 22:22:49 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/lantern": {
+  "techreborn:recipes/chemical_reactor/magenta_candle_from_pink_candle_with_purple_dye": {
     "criteria": {
-      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
+      "has_purple_dye": "2023-07-27 22:22:57 +0200"
     },
     "done": true
   },
-  "techreborn:recipes/chemical_reactor/sodium_persulfate": {
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
-      "has_sodium_sulfide": "2023-07-25 14:47:48 +0200"
+      "has_iron_pickaxe": "2023-07-27 23:08:58 +0200"
     },
     "done": true
   },
   "techreborn:recipes/blast_furnace/silicon_plate": {
     "criteria": {
-      "has_silicon": "2023-07-25 14:47:48 +0200"
+      "has_silicon": "2023-07-27 12:48:54 +0200"
     },
     "done": true
   },
   "towers_of_the_wild_reworked:root": {
     "criteria": {
-      "sample_trigger": "2023-07-25 14:47:48 +0200"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/family_tree": {
-    "criteria": {
-      "has_item": "2023-07-25 16:29:12 +0200"
-    },
-    "done": true
-  },
-  "mca:root": {
-    "criteria": {
-      "village_desert": "2023-07-25 14:49:12 +0200"
-    },
-    "done": true
-  },
-  "techreborn:recipes/chemical_reactor/nitro_carbon": {
-    "criteria": {
-      "has_nitrogen": "2023-07-25 14:47:48 +0200"
+      "sample_trigger": "2023-07-27 12:48:54 +0200"
     },
     "done": true
   },
   "create:root": {
     "criteria": {
-      "0": "2023-07-25 14:47:48 +0200"
+      "0": "2023-07-27 12:48:54 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/light_blue_wool_from_light_gray_wool_with_blue_dye": {
+    "criteria": {
+      "has_blue_dye": "2023-07-27 22:22:50 +0200"
     },
     "done": true
   },
   "techreborn:recipes/compressor/compressed_plantball_from_plantball": {
     "criteria": {
-      "has_plantball": "2023-07-25 14:47:48 +0200"
+      "has_plantball": "2023-07-27 12:48:54 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chain": {
+  "techreborn:recipes/chemical_reactor/purple_stained_glass_from_red_stained_glass_with_blue_dye": {
     "criteria": {
-      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
-    },
-    "done": true
-  },
-  "dml-refabricated:data_models": {
-    "criteria": {
-      "checkInv": "2023-07-25 16:01:17 +0200"
-    },
-    "done": true
-  },
-  "nethersdelight:recipes/nethersdelight/blackstone_blast_furnace": {
-    "criteria": {
-      "has_iron": "2023-07-25 16:22:14 +0200"
+      "has_blue_dye": "2023-07-27 22:22:49 +0200"
     },
     "done": true
   },
   "hexcasting:grant_patchi_book": {
     "criteria": {
-      "tick": "2023-07-25 14:47:48 +0200"
+      "tick": "2023-07-27 12:48:54 +0200"
     },
     "done": true
   },
-  "tconstruct:recipes/tconstruct/general/common/iron_platform": {
+  "minecraft:story/mine_diamond": {
     "criteria": {
-      "has_bars": "2023-07-25 16:22:14 +0200"
+      "diamond": "2023-07-27 12:57:33 +0200"
     },
     "done": true
   },
-  "nethersdelight:recipes/nethersdelight/iron_machete": {
+  "minecraft:story/upgrade_tools": {
     "criteria": {
-      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
+      "stone_pickaxe": "2023-07-27 23:08:55 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/oak_boat": {
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
     "criteria": {
-      "in_water": "2023-07-25 16:26:42 +0200"
+      "has_blue_dye": "2023-07-27 22:22:50 +0200"
     },
     "done": true
   },
-  "minecraft:story/smelt_iron": {
+  "techreborn:recipes/chemical_reactor/blue_wool_from_white_wool_with_blue_dye": {
     "criteria": {
-      "iron": "2023-07-25 16:22:14 +0200"
+      "has_blue_dye": "2023-07-27 22:22:50 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2023-07-27 12:57:33 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/diamond_dust": {
+    "criteria": {
+      "has_diamond": "2023-07-27 12:57:33 +0200"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/smart_blue": {
+    "criteria": {
+      "has_dyes/black": "2023-07-27 22:22:50 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/blue_candle_from_light_blue_candle_with_blue_dye": {
+    "criteria": {
+      "has_blue_dye": "2023-07-27 22:22:49 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/light_blue_stained_glass_from_light_gray_stained_glass_with_blue_dye": {
+    "criteria": {
+      "has_blue_dye": "2023-07-27 22:22:50 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/purple_stained_glass_from_magenta_stained_glass_with_blue_dye": {
+    "criteria": {
+      "has_blue_dye": "2023-07-27 22:22:49 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/propeller": {
+    "criteria": {
+      "has_item": "2023-07-27 23:17:26 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/fluid_pipe_vertical": {
+    "criteria": {
+      "has_item": "2023-07-27 12:52:06 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/blue_terracotta_from_terracotta_with_blue_dye": {
+    "criteria": {
+      "has_blue_dye": "2023-07-27 22:22:49 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/blue_stained_glass_from_glass_with_blue_dye": {
+    "criteria": {
+      "has_blue_dye": "2023-07-27 22:22:50 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_pickaxe": {
+    "criteria": {
+      "has_iron_pickaxe": "2023-07-27 23:08:58 +0200"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/nethersdelight/diamond_machete": {
+    "criteria": {
+      "has_diamond": "2023-07-27 12:57:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2023-07-27 22:22:49 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/blue_terracotta_from_cyan_terracotta_with_blue_dye": {
+    "criteria": {
+      "has_blue_dye": "2023-07-27 22:22:49 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/light_blue_stained_glass_pane_from_white_stained_glass_pane_with_blue_dye": {
+    "criteria": {
+      "has_blue_dye": "2023-07-27 22:22:50 +0200"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/glass_blue": {
+    "criteria": {
+      "has_dyes/black": "2023-07-27 22:22:50 +0200"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2023-07-27 12:52:06 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/blue_carpet_from_cyan_carpet_with_blue_dye": {
+    "criteria": {
+      "has_blue_dye": "2023-07-27 22:22:50 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/nitro_diesel": {
+    "criteria": {
+      "has_diesel": "2023-07-27 12:48:54 +0200",
+      "has_glyceryl": "2023-07-27 12:48:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2023-07-27 12:57:33 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/purple_carpet_from_magenta_concrete_powder_with_purple_dye": {
+    "criteria": {
+      "has_purple_dye": "2023-07-27 22:22:57 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/purple_wool_from_red_wool_with_blue_dye": {
+    "criteria": {
+      "has_blue_dye": "2023-07-27 22:22:49 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/magenta_stained_glass_pane_from_pink_stained_glass_pane_with_purple_dye": {
+    "criteria": {
+      "has_purple_dye": "2023-07-27 22:22:57 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/purple_wool_from_magenta_wool_with_blue_dye": {
+    "criteria": {
+      "has_blue_dye": "2023-07-27 22:22:49 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/green_stained_glass_from_yellow_stained_glass_with_blue_dye": {
+    "criteria": {
+      "has_blue_dye": "2023-07-27 22:22:50 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/green_stained_glass_pane_from_yellow_stained_glass_pane_with_blue_dye": {
+    "criteria": {
+      "has_blue_dye": "2023-07-27 22:22:49 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/blue_stained_glass_pane_from_glass_pane_with_blue_dye": {
+    "criteria": {
+      "has_blue_dye": "2023-07-27 22:22:49 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/nitrocoal_fuel": {
+    "criteria": {
+      "has_glyceryl": "2023-07-27 12:48:54 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/blue_candle_from_cyan_candle_with_blue_dye": {
+    "criteria": {
+      "has_blue_dye": "2023-07-27 22:22:50 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/water": {
+    "criteria": {
+      "has_hydrogen": "2023-07-27 12:48:54 +0200",
+      "has_compressed_air": "2023-07-27 12:48:54 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/copper_platform": {
+    "criteria": {
+      "has_bars": "2023-07-27 12:52:06 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/cyan_carpet_from_green_carpet_with_blue_dye": {
+    "criteria": {
+      "has_blue_dye": "2023-07-27 22:22:50 +0200"
+    },
+    "done": true
+  },
+  "dehydration:diamond_recipes": {
+    "criteria": {
+      "got_the_diamond_for_dehydration": "2023-07-27 12:57:33 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/light_blue_candle_from_light_gray_candle_with_blue_dye": {
+    "criteria": {
+      "has_blue_dye": "2023-07-27 22:22:49 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/magenta_wool_from_pink_wool_with_purple_dye": {
+    "criteria": {
+      "has_purple_dye": "2023-07-27 22:22:57 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/throwball/glow_ball": {
+    "criteria": {
+      "has_item": "2023-07-27 22:25:35 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/copper_valve_handle_from_others": {
+    "criteria": {
+      "has_item": "2023-07-27 12:52:06 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/steam_engine": {
+    "criteria": {
+      "has_item": "2023-07-27 12:52:06 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/alloy_smelter/bronze_ingot": {
+    "criteria": {
+      "has_copper": "2023-07-27 12:52:06 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/copper_can": {
+    "criteria": {
+      "has_item": "2023-07-27 12:52:06 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/purple_carpet_from_red_carpet_with_blue_dye": {
+    "criteria": {
+      "has_blue_dye": "2023-07-27 22:22:49 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/light_blue_stained_glass_pane_from_light_gray_stained_glass_pane_with_blue_dye": {
+    "criteria": {
+      "has_blue_dye": "2023-07-27 22:22:50 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/magenta_carpet_from_pink_concrete_powder_with_purple_dye": {
+    "criteria": {
+      "has_purple_dye": "2023-07-27 22:22:57 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/green_terracotta_from_yellow_terracotta_with_blue_dye": {
+    "criteria": {
+      "has_blue_dye": "2023-07-27 22:22:50 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_pickaxe": "2023-07-27 23:08:57 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/super_glue": {
+    "criteria": {
+      "has_item": "2023-07-27 23:17:26 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2023-07-27 22:37:42 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/calcium_carbonate_cell": {
+    "criteria": {
+      "has_calcium_carbonate": "2023-07-27 12:48:54 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/hydrogen_cell": {
+    "criteria": {
+      "has_hydrogen": "2023-07-27 12:48:54 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/lamp_led": {
+    "criteria": {
+      "has_glowstone_dust": "2023-07-27 22:25:36 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/helium_cell": {
+    "criteria": {
+      "has_helium": "2023-07-27 12:48:54 +0200"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_pattern_access_terminal": {
+    "criteria": {
+      "has_wt": "2023-07-27 12:48:54 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/purple_stained_glass_pane_from_magenta_stained_glass_pane_with_purple_dye": {
+    "criteria": {
+      "has_purple_dye": "2023-07-27 22:22:57 +0200"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_universal_terminal/upgrade_pattern_access": {
+    "criteria": {
+      "has_wit": "2023-07-27 12:48:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2023-07-27 22:25:36 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/light_blue_stained_glass_from_white_stained_glass_with_blue_dye": {
+    "criteria": {
+      "has_blue_dye": "2023-07-27 22:22:50 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/purple_terracotta_from_magenta_terracotta_with_blue_dye": {
+    "criteria": {
+      "has_blue_dye": "2023-07-27 22:22:50 +0200"
+    },
+    "done": true
+  },
+  "towers_of_the_wild_reworked:derelict_grass_tower": {
+    "criteria": {
+      "derelict_grass": "2023-07-27 12:58:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2023-07-27 22:37:42 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/wire_mill/copper_cable": {
+    "criteria": {
+      "has_copper_ingot": "2023-07-27 12:52:06 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/tools/armor/building/travelers_chestplate": {
+    "criteria": {
+      "has_item": "2023-07-27 12:52:06 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/magenta_terracotta_from_pink_terracotta_with_purple_dye": {
+    "criteria": {
+      "has_purple_dye": "2023-07-27 22:22:57 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/copycat_step_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2023-07-27 12:51:52 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/cyan_terracotta_from_green_terracotta_with_blue_dye": {
+    "criteria": {
+      "has_blue_dye": "2023-07-27 22:22:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2023-07-27 23:08:58 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_the_recipe": "2023-07-27 22:22:49 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/purple_candle_from_candle_with_purple_dye": {
+    "criteria": {
+      "has_purple_dye": "2023-07-27 22:22:57 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/purple_stained_glass_pane_from_glass_pane_with_purple_dye": {
+    "criteria": {
+      "has_purple_dye": "2023-07-27 22:22:57 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/storage_block/copper_wall": {
+    "criteria": {
+      "has_copper": "2023-07-27 12:52:06 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/cyan_stained_glass_from_green_stained_glass_with_blue_dye": {
+    "criteria": {
+      "has_blue_dye": "2023-07-27 22:22:50 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/copper_valve_handle": {
+    "criteria": {
+      "has_item": "2023-07-27 12:52:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_candle": {
+    "criteria": {
+      "has_purple_dye": "2023-07-27 22:22:57 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/light_blue_candle_from_white_candle_with_blue_dye": {
+    "criteria": {
+      "has_blue_dye": "2023-07-27 22:22:49 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/copper_ladder_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2023-07-27 12:52:06 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/titanium_ingot": {
+    "criteria": {
+      "has_titanium_dust": "2023-07-27 12:48:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2023-07-27 23:08:58 +0200"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2023-07-27 12:48:54 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/purple_carpet_from_magenta_concrete_powder_with_blue_dye": {
+    "criteria": {
+      "has_blue_dye": "2023-07-27 22:22:50 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_pickaxe": {
+    "criteria": {
+      "has_golden_pickaxe": "2023-07-27 23:08:57 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/purple_carpet_from_red_concrete_powder_with_blue_dye": {
+    "criteria": {
+      "has_blue_dye": "2023-07-27 22:22:49 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/light_blue_carpet_from_light_gray_concrete_powder_with_blue_dye": {
+    "criteria": {
+      "has_blue_dye": "2023-07-27 22:22:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_blue_dye": "2023-07-27 22:22:50 +0200"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_universal_terminal/upgrade_pattern_encoding": {
+    "criteria": {
+      "has_wpt": "2023-07-27 12:48:54 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/materials/copper_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2023-07-27 12:52:06 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/purple_carpet_from_magenta_carpet_with_purple_dye": {
+    "criteria": {
+      "has_purple_dye": "2023-07-27 22:22:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_blue_dye": "2023-07-27 22:22:50 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/sulfur_cell": {
+    "criteria": {
+      "has_sulfur": "2023-07-27 12:48:54 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/magenta_carpet_from_pink_carpet_with_purple_dye": {
+    "criteria": {
+      "has_purple_dye": "2023-07-27 22:22:57 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/storage_block/copper_wall_stonecutting": {
+    "criteria": {
+      "has_copper": "2023-07-27 12:52:06 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/methane": {
+    "criteria": {
+      "has_hydrogen": "2023-07-27 12:48:54 +0200",
+      "has_carbon": "2023-07-27 12:48:54 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_pickaxe_with_mercury": {
+    "criteria": {
+      "has_diamond_pickaxe": "2023-07-27 23:08:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2023-07-27 12:57:42 +0200",
+      "minecraft:dark_forest": "2023-07-27 12:52:14 +0200",
+      "minecraft:river": "2023-07-27 12:58:30 +0200",
+      "minecraft:forest": "2023-07-27 12:57:53 +0200",
+      "minecraft:old_growth_birch_forest": "2023-07-27 12:48:54 +0200",
+      "minecraft:plains": "2023-07-27 12:58:53 +0200"
+    },
+    "done": false
+  },
+  "create:recipes/create.palettes/copper_bars_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2023-07-27 12:52:06 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/green_wool_from_yellow_wool_with_blue_dye": {
+    "criteria": {
+      "has_blue_dye": "2023-07-27 22:22:49 +0200"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_universal_terminal/ce": {
+    "criteria": {
+      "has_wpt": "2023-07-27 12:48:54 +0200",
+      "has_wct": "2023-07-27 12:48:54 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/alloy_smelter/brass_ingot": {
+    "criteria": {
+      "has_copper": "2023-07-27 12:52:06 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/throwball/efln_ball": {
+    "criteria": {
+      "has_item": "2023-07-27 22:25:36 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/purple_candle_from_red_candle_with_blue_dye": {
+    "criteria": {
+      "has_blue_dye": "2023-07-27 22:22:49 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/blue_carpet_from_white_carpet_with_blue_dye": {
+    "criteria": {
+      "has_blue_dye": "2023-07-27 22:22:49 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/synthetic_redstone_crystal": {
+    "criteria": {
+      "has_diamond": "2023-07-27 12:57:33 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/deuterium_cell": {
+    "criteria": {
+      "has_deuterium": "2023-07-27 12:48:54 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/glyceryl": {
+    "criteria": {
+      "has_nitro_carbon": "2023-07-27 12:48:54 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2023-07-27 12:57:33 +0200"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_universal_terminal/ca": {
+    "criteria": {
+      "has_wit": "2023-07-27 12:48:54 +0200",
+      "has_wct": "2023-07-27 12:48:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_blue_dye": "2023-07-27 22:22:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_purple_dye": "2023-07-27 22:22:57 +0200"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/staff_of_life": {
+    "criteria": {
+      "has_item": "2023-07-27 22:27:43 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/frame/diamond": {
+    "criteria": {
+      "has_item": "2023-07-27 12:57:33 +0200"
+    },
+    "done": true
+  },
+  "towers_of_the_wild_reworked:regular_tower": {
+    "criteria": {
+      "regular": "2023-07-27 12:52:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2023-07-27 12:57:33 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/purple_wool_from_magenta_wool_with_purple_dye": {
+    "criteria": {
+      "has_purple_dye": "2023-07-27 22:22:57 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_pickaxe_with_water": {
+    "criteria": {
+      "has_diamond_pickaxe": "2023-07-27 23:08:59 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/smart_fluid_pipe": {
+    "criteria": {
+      "has_item": "2023-07-27 12:52:06 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/magenta_stained_glass_from_pink_stained_glass_with_purple_dye": {
+    "criteria": {
+      "has_purple_dye": "2023-07-27 22:22:57 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/sodium_persulfate": {
+    "criteria": {
+      "has_sodium_sulfide": "2023-07-27 12:48:54 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_pickaxe": {
+    "criteria": {
+      "has_wooden_pickaxe": "2023-07-27 23:08:53 +0200"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/dense_smart_blue": {
+    "criteria": {
+      "has_dyes/black": "2023-07-27 22:22:49 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/nitro_carbon": {
+    "criteria": {
+      "has_nitrogen": "2023-07-27 12:48:54 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/blue_candle_from_candle_with_blue_dye": {
+    "criteria": {
+      "has_blue_dye": "2023-07-27 22:22:50 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/tools/armor/building/travelers_boots": {
+    "criteria": {
+      "has_item": "2023-07-27 12:52:06 +0200"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/smart_fluix": {
+    "criteria": {
+      "has_dusts/glowstone": "2023-07-27 22:25:36 +0200"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/dense_smart_fluix": {
+    "criteria": {
+      "has_dusts/glowstone": "2023-07-27 22:25:36 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/steam_whistle": {
+    "criteria": {
+      "has_item": "2023-07-27 12:52:06 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/appliances/copper_diving_helmet": {
+    "criteria": {
+      "has_item": "2023-07-27 12:52:06 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/blue_stained_glass_pane_from_light_blue_stained_glass_pane_with_blue_dye": {
+    "criteria": {
+      "has_blue_dye": "2023-07-27 22:22:49 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/blue_terracotta_from_light_blue_terracotta_with_blue_dye": {
+    "criteria": {
+      "has_blue_dye": "2023-07-27 22:22:50 +0200"
+    },
+    "done": true
+  },
+  "dml-refabricated:data_models": {
+    "criteria": {
+      "checkInv": "2023-07-27 22:38:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_pickaxe": "2023-07-27 23:08:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2023-07-27 12:57:33 +0200"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/blueprint": {
+    "criteria": {
+      "has_item": "2023-07-27 22:22:50 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/purple_terracotta_from_terracotta_with_purple_dye": {
+    "criteria": {
+      "has_purple_dye": "2023-07-27 22:22:57 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/fluid_pipe": {
+    "criteria": {
+      "has_item": "2023-07-27 12:52:06 +0200"
     },
     "done": true
   },
   "techreborn:recipes/chemical_reactor/sodium_sulfide": {
     "criteria": {
-      "has_sulfur": "2023-07-25 14:47:48 +0200",
-      "has_sodium": "2023-07-25 14:47:48 +0200"
+      "has_sulfur": "2023-07-27 12:48:54 +0200",
+      "has_sodium": "2023-07-27 12:48:54 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/purple_stained_glass_from_magenta_stained_glass_with_purple_dye": {
+    "criteria": {
+      "has_purple_dye": "2023-07-27 22:22:57 +0200"
     },
     "done": true
   },
   "ae2wtlib:recipes/wireless_pattern_encoding_terminal": {
     "criteria": {
-      "has_wt": "2023-07-25 14:47:48 +0200"
+      "has_wt": "2023-07-27 12:48:54 +0200"
     },
     "done": true
   },
-  "techreborn:recipes/industrial_grinder/iron_ingot_with_mercury": {
+  "create:recipes/create.base/crafting/kinetics/hose_pulley": {
     "criteria": {
-      "has_iron_ingot": "2023-07-25 16:22:14 +0200"
+      "has_item": "2023-07-27 12:52:06 +0200"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/blue_wool_from_cyan_wool_with_blue_dye": {
+    "criteria": {
+      "has_blue_dye": "2023-07-27 22:22:49 +0200"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/dense_covered_blue": {
+    "criteria": {
+      "has_dyes/black": "2023-07-27 22:22:50 +0200"
     },
     "done": true
   },

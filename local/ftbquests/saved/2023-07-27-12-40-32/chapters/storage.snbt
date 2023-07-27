@@ -1,0 +1,55 @@
+{
+	id: "5CFE897C8B7FC970"
+	group: "6AA5BECA3CFAA254"
+	order_index: 1
+	filename: "storage"
+	title: "Storage"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "Make a create vault"
+			x: -1.0d
+			y: 0.0d
+			description: ["Create vaults are a great way for storing lots of items in a small space"]
+			id: "560ABB27D9B6F160"
+			tasks: [{
+				id: "1A92AE72DF338EDC"
+				type: "item"
+				item: "create:item_vault"
+			}]
+		}
+		{
+			title: "Make an Enderchest (modded)"
+			x: 1.0d
+			y: 0.0d
+			description: ["Enderchests are a great way to transfer items over a great distance"]
+			id: "24A35812DC4CC8B4"
+			tasks: [{
+				id: "596948B644CC027A"
+				type: "item"
+				item: {
+					id: "enderchests:ender_chest"
+					Count: 1b
+					tag: {
+						owner: "all"
+						code: "000"
+					}
+				}
+			}]
+		}
+		{
+			title: "Create a basic ME system"
+			x: 0.0d
+			y: 1.5d
+			description: ["ME system is the only digital storage solution in this pack"]
+			id: "76CC1A56AC625915"
+			tasks: [{
+				id: "508830A3F1F14C90"
+				type: "item"
+				item: "ae2:controller"
+			}]
+		}
+	]
+	quest_links: [ ]
+}

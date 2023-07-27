@@ -1,13 +1,12 @@
-[16:11:45] [Render thread/INFO] [JMLogger] JourneyMap log initialized.
-[16:11:45] [Render thread/INFO] [JourneymapClient] initialize ENTER
-[16:11:45] [Render thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.9-SNAPSHOT
-[16:11:45] [Render thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
-[16:11:45] [Render thread/INFO] [PluginHelper] Initialized IClientPlugin: wraith.fwaystones.integration.journeymap.JourneymapPlugin
-[16:11:45] [Render thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
-[16:11:45] [Render thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
-[16:11:46] [Render thread/ERROR] [FileHandler] Couldn't get resource set from null to null: java.lang.NullPointerException: Cannot invoke "java.net.URL.getProtocol()" because "fileLocation" is null
-[16:11:46] [Render thread/INFO] [ThemeLoader] Preloaded theme textures: 0
-[16:11:46] [Render thread/INFO] [?] Version: JourneyMap 1.18.2-5.9.7, built with fabric 0.66.0+1.18.2
+[21:31:58] [Render thread/INFO] [JMLogger] JourneyMap log initialized.
+[21:31:58] [Render thread/INFO] [JourneymapClient] initialize ENTER
+[21:31:58] [Render thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.9-SNAPSHOT
+[21:31:58] [Render thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[21:31:59] [Render thread/INFO] [PluginHelper] Initialized IClientPlugin: wraith.fwaystones.integration.journeymap.JourneymapPlugin
+[21:31:59] [Render thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[21:31:59] [Render thread/ERROR] [FileHandler] Couldn't get resource set from null to null: java.lang.NullPointerException: Cannot invoke "java.net.URL.getProtocol()" because "fileLocation" is null
+[21:31:59] [Render thread/INFO] [ThemeLoader] Preloaded theme textures: 0
+[21:31:59] [Render thread/INFO] [?] Version: JourneyMap 1.18.2-5.9.7, built with fabric 0.66.0+1.18.2
 fabric: 0.14.10
 Environment: os.name, os.arch, java.version, user.country, user.language=null, game language=en_us, locale=en_us
 Features: 
@@ -24,25 +23,25 @@ MiniMapProperties{state=Valid, file=journeymap.minimap2.config, configVersion=5.
 FullMapProperties{state=Valid, file=journeymap.fullmap.config, configVersion=5.9.7, zoomLevel=0, showPlayers=true, waypointIconScale=1.0, showEntityNames=true, showPlayerHeading=true, showVillagers=true, showPlayerLoc=true, showKeys=true, playerDisplayScale=1.0, showMobs=true, showPets=true, waypointLabelScale=1.0, preferredMapType=day, mobDisplay=jm.common.entity_display.dots, showSelf=true, locationFormat=xzyv, playerDisplay=jm.common.entity_display.dots, mobDisplayScale=1.0, selfDisplayScale=1.0, showGrid=true, showMouseLoc=true, showWaypoints=true, showCaves=true, showAnimals=true, dragScale=1, showMobHeading=true, showWaypointLabels=true, locationFormatVerbose=true, fontScale=1.0}
 WaypointProperties{state=Valid, file=journeymap.waypoint.config, configVersion=5.9.7, autoRemoveDeathpointDistance=2, dateFormat=MM-dd-yyyy, autoRemoveDeathpoints=false, fullscreenDoubleClickToCreate=true, managerDimensionFocus=false, minDistance=4, boldLabel=false, textureSmall=true, showDeathpointlabel=true, beaconEnabled=true, createDeathpoints=true, showName=true, disableStrikeThrough=false, maxDistance=0, autoHideLabel=true, autoRemoveTempWaypoints=2, teleportCommand=/tp {name} {x} {y} {z}, showStaticBeam=true, shaderBeacon=false, timeFormat=HH:mm:ss, showDeviationLabel=false, showDistance=true, showRotatingBeam=true, fontScale=2.0, showTexture=true, managerEnabled=true}
 WebMapProperties{state=Valid, file=journeymap.webmap.config, configVersion=5.9.7, port=8080, enabled=false}
-CoreProperties{state=Valid, file=journeymap.core.config, configVersion=5.9.7, verboseColorPalette=false, maxPlayersData=32, mapSurfaceAboveCaves=true, dataCachingEnabled=true, optionsManagerViewed=null, announceMod=true, colorPassive=#bbbbbb, mapBlendWater=false, renderDistanceSurfaceMax=0, seedId=false, radarVerticalDistance=16, mapBlendGrass=true, recordCacheStats=false, hideSneakingEntities=true, revealShape=jm.minimap.shape_circle, mapBiome=true, alwaysMapSurface=false, colorVillager=#88e188, mapPlants=false, colorPet=#0077ff, radarLateralDistance=64, mapBathymetry=false, mapCrops=true, maxMobsData=32, mapPlantShadows=false, alwaysMapCaves=false, checkUpdates=true, mapBlendFoliage=true, hideSpectators=false, mappingEnabled=true, colorPlayer=#ffffff, tileHighDisplayQuality=true, cacheVillagersData=2200, logLevel=INFO, maxVillagersData=32, mapWaterBiomeColors=false, maxAnimalsData=32, mapTransparency=true, caveBlackAsClear=false, tileRenderType=1, caveIgnoreGlass=true, mapTopography=true, renderDistanceCaveMax=0, mapAntialiasing=true, colorSelf=#0000ff, cachePlayersData=2000, cacheMobsData=3000, cachePlayerData=1000, splashViewed=null, colorHostile=#ff0000, cacheAnimalsData=3100, themeName=OceanMonument, mapCaveLighting=true, renderDelay=2, glErrorChecking=false, autoMapPoll=2000}
-[16:11:46] [Render thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 1 avg 1342.5ms
-[16:11:46] [Render thread/INFO] [JourneymapClient] postInitialize EXIT, elapsed count 1 avg 13.33ms
-[16:11:59] [Render thread/INFO] [ModBlockDelegate] Custom modded block handling enabled for create
-[16:12:00] [Render thread/INFO] [ColorManager] Loaded color palette for 829 blockstates in 405ms
-[16:12:00] [Render thread/INFO] [ColorManager] Loaded color palette for 829 blockstates in 51ms
-[16:12:00] [Render thread/INFO] [ColorManager] Loaded color palette for 829 blockstates in 42ms
-[16:12:00] [Render thread/INFO] [ColorManager] Loaded color palette for 829 blockstates in 42ms
-[16:12:00] [Render thread/INFO] [ColorManager] Loaded color palette for 829 blockstates in 44ms
-[16:12:00] [Render thread/INFO] [ColorManager] Loaded color palette for 829 blockstates in 42ms
-[16:12:00] [Render thread/INFO] [ColorManager] Loaded color palette for 829 blockstates in 36ms
-[16:12:00] [Render thread/INFO] [ColorManager] Loaded color palette for 829 blockstates in 39ms
-[16:12:00] [Render thread/INFO] [ColorManager] Loaded color palette for 829 blockstates in 39ms
-[16:12:00] [Render thread/INFO] [ColorManager] Loaded color palette for 829 blockstates in 47ms
-[16:12:00] [Render thread/INFO] [ColorManager] Loaded color palette for 829 blockstates in 31ms
-[16:12:25] [Render thread/INFO] [ChatLog] 
-[16:12:25] [Render thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
-[16:12:25] [Render thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
-[16:12:26] [Render thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\sziha\AppData\Roaming\ATLauncher\instances\FOG-FatherOfGaming\journeymap\data\sp\New World\waypoints
-[16:12:26] [Render thread/INFO] [JourneymapClient] Mapping started in C:\Users\sziha\AppData\Roaming\ATLauncher\instances\FOG-FatherOfGaming\journeymap\data\sp\New World\overworld. Memory: 3584MB total, 2053MB free 
-[16:20:21] [Render thread/WARN] [JMLogger] Can't get entityTexture for mca:textures/entity_icon/grimreaper.png
-[16:45:44] [Render thread/INFO] [JourneymapClient] Mapping halted in C:\Users\sziha\AppData\Roaming\ATLauncher\instances\FOG-FatherOfGaming\journeymap\data\mp\offline\minecraft:overworld
+CoreProperties{state=Valid, file=journeymap.core.config, configVersion=5.9.7, verboseColorPalette=false, maxPlayersData=32, mapSurfaceAboveCaves=true, dataCachingEnabled=true, optionsManagerViewed=null, announceMod=true, colorPassive=#bbbbbb, mapBlendWater=false, renderDistanceSurfaceMax=0, seedId=false, radarVerticalDistance=16, mapBlendGrass=true, recordCacheStats=false, hideSneakingEntities=true, revealShape=jm.minimap.shape_circle, mapBiome=true, alwaysMapSurface=false, colorVillager=#88e188, mapPlants=false, colorPet=#0077ff, radarLateralDistance=64, mapBathymetry=false, mapCrops=true, maxMobsData=32, mapPlantShadows=false, alwaysMapCaves=false, checkUpdates=true, mapBlendFoliage=true, hideSpectators=false, mappingEnabled=true, colorPlayer=#ffffff, tileHighDisplayQuality=true, cacheVillagersData=2200, logLevel=INFO, maxVillagersData=32, mapWaterBiomeColors=false, maxAnimalsData=32, mapTransparency=true, caveBlackAsClear=false, tileRenderType=1, caveIgnoreGlass=true, mapTopography=true, renderDistanceCaveMax=0, mapAntialiasing=true, colorSelf=#0000ff, cachePlayersData=2000, cacheMobsData=3000, cachePlayerData=1000, splashViewed=5.9.7, colorHostile=#ff0000, cacheAnimalsData=3100, themeName=OceanMonument, mapCaveLighting=true, renderDelay=2, glErrorChecking=false, autoMapPoll=2000}
+[21:31:59] [Render thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 1 avg 1077.61ms
+[21:31:59] [Render thread/INFO] [JourneymapClient] postInitialize EXIT, elapsed count 1 avg 9.95ms
+[21:32:10] [Render thread/INFO] [ModBlockDelegate] Custom modded block handling enabled for create
+[21:32:11] [Render thread/INFO] [ColorManager] Loaded color palette for 829 blockstates in 285ms
+[21:32:11] [Render thread/INFO] [ColorManager] Loaded color palette for 829 blockstates in 38ms
+[21:32:11] [Render thread/INFO] [ColorManager] Loaded color palette for 829 blockstates in 37ms
+[21:32:11] [Render thread/INFO] [ColorManager] Loaded color palette for 829 blockstates in 34ms
+[21:32:11] [Render thread/INFO] [ColorManager] Loaded color palette for 829 blockstates in 36ms
+[21:32:11] [Render thread/INFO] [ColorManager] Loaded color palette for 829 blockstates in 32ms
+[21:32:11] [Render thread/INFO] [ColorManager] Loaded color palette for 829 blockstates in 35ms
+[21:32:11] [Render thread/INFO] [ColorManager] Loaded color palette for 829 blockstates in 36ms
+[21:32:11] [Render thread/INFO] [ColorManager] Loaded color palette for 829 blockstates in 32ms
+[21:32:11] [Render thread/INFO] [ColorManager] Loaded color palette for 829 blockstates in 28ms
+[21:32:11] [Render thread/INFO] [ColorManager] Loaded color palette for 829 blockstates in 28ms
+[21:35:22] [Render thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[21:35:22] [Render thread/INFO] [WaypointStore] Loaded 2 waypoints from C:\Users\sziha\AppData\Roaming\ATLauncher\instances\FOG-FatherOfGaming\journeymap\data\sp\New World\waypoints
+[21:35:22] [Render thread/INFO] [JourneymapClient] Mapping started in C:\Users\sziha\AppData\Roaming\ATLauncher\instances\FOG-FatherOfGaming\journeymap\data\sp\New World\overworld. Memory: 3968MB total, 2207MB free 
+[21:35:45] [Render thread/INFO] [ChatLog] 
+[21:53:28] [Render thread/INFO] [StatTimer] TileDrawStep.updateRegionTexture hit max count, 1000000
+[21:53:28] [Render thread/INFO] [StatTimer] TileDrawStep.draw(low) hit max count, 1000000
+[23:24:05] [Render thread/INFO] [JourneymapClient] Mapping halted in C:\Users\sziha\AppData\Roaming\ATLauncher\instances\FOG-FatherOfGaming\journeymap\data\mp\offline\minecraft:overworld

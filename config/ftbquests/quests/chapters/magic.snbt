@@ -1,0 +1,220 @@
+{
+	id: "6A9AE5D9519096C2"
+	group: "6AA5BECA3CFAA254"
+	order_index: 0
+	filename: "magic"
+	title: "Magic"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "Arcanus start"
+			x: -1.0d
+			y: 0.0d
+			description: [
+				"This is the start of the Arcanus mod."
+				"To use magic you need to find certain books to learn the spells."
+				"These books can be found in villages with a special building."
+			]
+			id: "45307F85BB0FADD0"
+			tasks: [{
+				id: "01875AED27C63B6D"
+				type: "item"
+				item: {
+					id: "arcanus:initiate_wand"
+					Count: 1b
+					tag: {
+						arcanus: { }
+					}
+				}
+			}]
+			rewards: [
+				{
+					id: "4B69689D89067000"
+					type: "item"
+					item: "arcanus:display_case"
+				}
+				{
+					id: "5B339AC5221F7C9A"
+					type: "item"
+					item: "arcanus:fillable_bookshelf"
+				}
+			]
+		}
+		{
+			x: 1.0d
+			y: 0.0d
+			dependencies: ["321AA502BDAB2FE3"]
+			id: "273AE358492B8266"
+			tasks: [{
+				id: "7C6042050809E7A9"
+				type: "item"
+				item: "minecraft:amethyst_shard"
+			}]
+			rewards: [{
+				id: "568E703E0BE5118A"
+				type: "item"
+				item: "hexcasting:sub_sandwich"
+			}]
+		}
+		{
+			title: "Find all the spells"
+			x: -3.0d
+			y: 0.0d
+			dependencies: ["45307F85BB0FADD0"]
+			id: "360787BB3D758C6B"
+			tasks: [
+				{
+					id: "796DED3299F691C2"
+					type: "advancement"
+					advancement: "arcanus:spell_books/all_spells"
+					criterion: ""
+				}
+				{
+					id: "61B246A5E653A6FA"
+					type: "advancement"
+					advancement: "arcanus:spell_books/arcane_barrier"
+					criterion: ""
+				}
+				{
+					id: "2FB1265E7E49E10F"
+					type: "advancement"
+					advancement: "arcanus:spell_books/discombobulate"
+					criterion: ""
+				}
+				{
+					id: "25B71D542EB07C65"
+					type: "advancement"
+					advancement: "arcanus:spell_books/dream_warp"
+					criterion: ""
+				}
+				{
+					id: "74C8EAFD18B33C02"
+					type: "advancement"
+					advancement: "arcanus:spell_books/heal"
+					criterion: ""
+				}
+				{
+					id: "07538CFEFDABC035"
+					type: "advancement"
+					advancement: "arcanus:spell_books/lunge"
+					criterion: ""
+				}
+				{
+					id: "5E3D382E5697CF69"
+					type: "advancement"
+					advancement: "arcanus:spell_books/magic_missile"
+					criterion: ""
+				}
+				{
+					id: "137095FDC7EC8ECE"
+					type: "advancement"
+					advancement: "arcanus:spell_books/solar_strike"
+					criterion: ""
+				}
+				{
+					id: "192A6AE01EB9B2C1"
+					type: "advancement"
+					advancement: "arcanus:spell_books/telekinetic_shock"
+					criterion: ""
+				}
+			]
+		}
+		{
+			x: 1.0d
+			y: -1.5d
+			dependencies: ["273AE358492B8266"]
+			id: "450C9C2F02CA1EDB"
+			tasks: [{
+				id: "73D1EC4D8F3FEC59"
+				type: "item"
+				item: "hexcasting:amethyst_dust"
+			}]
+			rewards: [{
+				id: "12EAB99B38D73B38"
+				type: "item"
+				item: "hexcasting:lens"
+			}]
+		}
+		{
+			x: 1.0d
+			y: 1.5d
+			dependencies: ["273AE358492B8266"]
+			id: "735D2EFB016CCF49"
+			tasks: [{
+				id: "71CB48C13391CA80"
+				type: "item"
+				item: "hexcasting:charged_amethyst"
+			}]
+		}
+		{
+			title: "Make a Staff"
+			x: 2.5d
+			y: 1.5d
+			dependencies: ["735D2EFB016CCF49"]
+			id: "29B9612ACA0EF54B"
+			tasks: [{
+				id: "4EE56CBCC051E9D1"
+				type: "item"
+				title: "Any #hexcasting:wands"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "hexcasting:wands"
+					}
+				}
+			}]
+			rewards: [{
+				id: "4FD878D9856F3C1E"
+				type: "item"
+				item: {
+					id: "patchouli:guide_book"
+					Count: 1b
+					tag: {
+						"patchouli:book": "hexcasting:thehexbook"
+					}
+				}
+			}]
+		}
+		{
+			x: 4.0d
+			y: 1.5d
+			dependencies: ["29B9612ACA0EF54B"]
+			id: "3350E31846B85FD3"
+			tasks: [{
+				id: "179D66E2B40FD767"
+				type: "item"
+				item: {
+					id: "hexcasting:spellbook"
+					Count: 1b
+					tag: {
+						page_names: { }
+						page_idx: 0
+					}
+				}
+			}]
+		}
+		{
+			title: "Make a mana flask"
+			x: -3.0d
+			y: 1.5d
+			dependencies: ["45307F85BB0FADD0"]
+			id: "122154299BDB32B5"
+			tasks: [{
+				id: "0948509CB889AE21"
+				type: "item"
+				item: {
+					id: "arcanus:mana_flask"
+					Count: 1b
+					tag: {
+						arcanus: {
+							Mana: 0
+						}
+					}
+				}
+			}]
+		}
+	]
+	quest_links: [ ]
+}

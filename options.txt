@@ -1,5 +1,5 @@
 version:2975
-autoJump:true
+autoJump:false
 autoSuggestions:true
 chatColors:true
 chatLinks:true
@@ -82,7 +82,7 @@ key_key.back:key.keyboard.s
 key_key.right:key.keyboard.d
 key_key.jump:key.keyboard.space
 key_key.sneak:key.keyboard.left.shift
-key_key.sprint:key.keyboard.left.control
+key_key.sprint:key.mouse.5
 key_key.drop:key.keyboard.q
 key_key.inventory:key.keyboard.e
 key_key.chat:key.keyboard.t
@@ -121,8 +121,6 @@ key_create.keyinfo.toolmenu:key.keyboard.left.alt
 key_create.keyinfo.toolbelt:key.keyboard.left.alt
 key_key.dml-refabricated.teleport:key.keyboard.v
 key_key.dml-refabricated.soul_vision:key.keyboard.b
-key_key.indrev.modular:key.keyboard.k
-key_key.indrev.gamer_axe_toggle:key.keyboard.g
 key_key.journeymap.zoom_in:key.keyboard.equal
 key_key.journeymap.zoom_out:key.keyboard.minus
 key_key.journeymap.minimap_type:key.keyboard.left.bracket
@@ -153,7 +151,7 @@ key_key.travelersbackpack.toggle_tank:key.keyboard.n
 key_key.travelersbackpack.cycle_tool:key.keyboard.z
 key_zoomify.key.zoom:key.keyboard.c
 key_zoomify.key.gui:key.keyboard.f8
-soundCategory_master:1.0
+soundCategory_master:0.0
 soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0

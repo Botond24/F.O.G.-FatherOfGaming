@@ -1,0 +1,161 @@
+{
+	id: "124C4C5520044458"
+	group: "7F5AF5B3A34CED75"
+	order_index: 1
+	filename: "exploring"
+	title: "2. Exploring"
+	icon: {
+		id: "icarus:white_feathered_wings"
+		Count: 1b
+		tag: {
+			Damage: 0
+		}
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "Find a village"
+			x: 0.0d
+			y: 0.0d
+			optional: true
+			id: "36F292E7D904F975"
+			tasks: [{
+				id: "6087EA7B60B4EDC6"
+				type: "structure"
+				structure: "#minecraft:village"
+			}]
+			rewards: [
+				{
+					id: "28A49C649F567CD2"
+					type: "item"
+					item: "mca:blueprint"
+				}
+				{
+					id: "4CC4C1DAC1CF2556"
+					type: "item"
+					item: "mca:book_blueprint"
+				}
+			]
+		}
+		{
+			title: "Find/make a backpack"
+			x: -1.0d
+			y: -1.5d
+			description: ["A backpack is great for exploring"]
+			id: "29C29CAA9C9E7FD1"
+			tasks: [{
+				id: "1C71EE5AA6252148"
+				type: "item"
+				title: "Any #travelersbackpack:custom_travelers_backpack"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "travelersbackpack:custom_travelers_backpack"
+					}
+				}
+			}]
+		}
+		{
+			title: "Create some wings for easy travel"
+			x: 1.0d
+			y: -1.5d
+			dependencies: ["106A1ABF5C9CC9D0"]
+			id: "55B024B0C2AFB4D4"
+			tasks: [{
+				id: "5A7F48264FF5A473"
+				type: "item"
+				title: "Any #icarus:melts"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "icarus:melts"
+					}
+				}
+			}]
+		}
+		{
+			title: "Find some elytra in towers"
+			x: 1.0d
+			y: -3.5d
+			id: "106A1ABF5C9CC9D0"
+			tasks: [{
+				id: "167E2D291800D719"
+				type: "item"
+				item: {
+					id: "minecraft:elytra"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "14F3E447880A04F8"
+				type: "item"
+				item: "minecraft:honeycomb"
+				count: 3
+			}]
+		}
+		{
+			title: "Find all slime islands"
+			x: 2.0d
+			y: 0.0d
+			optional: true
+			id: "0022D1BB6819CBB5"
+			tasks: [
+				{
+					id: "348F0637FA28E29F"
+					type: "advancement"
+					advancement: "tconstruct:world/earth_island"
+					criterion: ""
+				}
+				{
+					id: "641C67D94FB8CD67"
+					type: "advancement"
+					advancement: "tconstruct:world/ender_island"
+					criterion: ""
+				}
+				{
+					id: "6385F5A5FA530632"
+					type: "advancement"
+					advancement: "tconstruct:world/sky_island"
+					criterion: ""
+				}
+			]
+		}
+		{
+			title: "Find an artifact"
+			x: 3.0d
+			y: -1.5d
+			id: "004FA927A207ED89"
+			tasks: [{
+				id: "5DAC36C2436E8CDF"
+				type: "item"
+				title: "Any #artifacts:artifacts"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "artifacts:artifacts"
+					}
+				}
+			}]
+		}
+		{
+			title: "Find and mine some amethyst"
+			x: 1.0d
+			y: 1.5d
+			id: "321AA502BDAB2FE3"
+			tasks: [{
+				id: "507611FC30136853"
+				type: "advancement"
+				advancement: "hexcasting:root"
+				criterion: ""
+			}]
+		}
+	]
+	quest_links: [ ]
+}

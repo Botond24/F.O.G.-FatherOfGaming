@@ -1,0 +1,25 @@
+{
+	version: 1
+	uuid: "8d4fd818d3d24e54acdcf5011dc9cca3"
+	name: "Button24"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: {
+		5DAC36C2436E8CDF: 1
+	}
+	started: {
+		124C4C5520044458: 1690455955123L
+		0000000000000001: 1690455955123L
+		004FA927A207ED89: 1690455955123L
+		5DAC36C2436E8CDF: 1690455955123L
+	}
+	completed: {
+		004FA927A207ED89: 1690455955123L
+		5DAC36C2436E8CDF: 1690455955123L
+	}
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

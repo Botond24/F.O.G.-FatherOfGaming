@@ -1,0 +1,219 @@
+{
+	id: "4FAD816610D76A4E"
+	group: "7F5AF5B3A34CED75"
+	order_index: 2
+	filename: "3_create"
+	title: "4. Create"
+	icon: "create:large_cogwheel"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: -1.5d
+			y: 4.0d
+			id: "7E86EB07324665ED"
+			tasks: [{
+				id: "62E12270A3494ED4"
+				type: "item"
+				item: "create:andesite_alloy"
+			}]
+		}
+		{
+			x: -2.5d
+			y: -0.5d
+			dependencies: ["2D007171ECC248CF"]
+			id: "08F260AE0CBC63A1"
+			tasks: [{
+				id: "202C6B1307E771BC"
+				type: "item"
+				item: "create:brass_ingot"
+			}]
+		}
+		{
+			x: 3.0d
+			y: 4.0d
+			id: "49EBD08A01608EA1"
+			tasks: [{
+				id: "67839C8CA21F6ED1"
+				type: "item"
+				item: "minecraft:copper_ingot"
+			}]
+		}
+		{
+			x: -1.0d
+			y: 2.5d
+			dependencies: ["7E86EB07324665ED"]
+			id: "2CDE2ED6E5BCA3DA"
+			tasks: [{
+				id: "671CD7D267895716"
+				type: "item"
+				item: "create:mechanical_press"
+			}]
+		}
+		{
+			title: "Waterwheel"
+			x: -2.5d
+			y: 6.0d
+			dependencies: ["7E86EB07324665ED"]
+			id: "3304FD0DCB661A00"
+			tasks: [{
+				id: "4DB1D5F8DFD9A812"
+				type: "item"
+				item: {
+					id: "itemfilters:or"
+					Count: 1b
+					tag: {
+						items: [
+							{
+								id: "create:water_wheel"
+								Count: 1b
+							}
+							{
+								id: "create:large_water_wheel"
+								Count: 1b
+							}
+						]
+					}
+				}
+			}]
+		}
+		{
+			title: "Windmill"
+			x: -1.0d
+			y: 6.0d
+			dependencies: ["7E86EB07324665ED"]
+			id: "1E81374F6CAA483D"
+			tasks: [{
+				id: "5967966B389D7A94"
+				type: "item"
+				item: "create:windmill_bearing"
+			}]
+		}
+		{
+			title: "Boiler"
+			x: 5.0d
+			y: -2.0d
+			dependencies: [
+				"0B3B2055CE527853"
+				"2D007171ECC248CF"
+				"3B33C31580E058E1"
+			]
+			id: "618D01F17800DA9F"
+			tasks: [
+				{
+					id: "2FB371A0E7E97DA4"
+					type: "item"
+					item: "create:fluid_tank"
+					count: 9L
+				}
+				{
+					id: "140CB48BE5044708"
+					type: "item"
+					item: "create:steam_engine"
+				}
+				{
+					id: "09C27B98425C32A1"
+					type: "item"
+					item: "create:blaze_burner"
+					count: 9L
+					consume_items: false
+				}
+			]
+		}
+		{
+			x: 3.0d
+			y: -1.0d
+			dependencies: ["347A602D228A05CF"]
+			id: "2D007171ECC248CF"
+			tasks: [{
+				id: "4FC6E9727C04F5A1"
+				type: "item"
+				item: "create:blaze_burner"
+			}]
+		}
+		{
+			x: 2.5d
+			y: 0.5d
+			dependencies: ["49B4FC77B66A2BBC"]
+			id: "347A602D228A05CF"
+			tasks: [{
+				id: "76A9207E6EA69345"
+				type: "item"
+				item: "create:empty_blaze_burner"
+			}]
+		}
+		{
+			x: 1.0d
+			y: 1.5d
+			dependencies: ["2CDE2ED6E5BCA3DA"]
+			id: "49B4FC77B66A2BBC"
+			tasks: [{
+				id: "23B0901AEC9D5229"
+				type: "item"
+				item: "create:iron_sheet"
+			}]
+		}
+		{
+			x: 3.0d
+			y: 2.0d
+			dependencies: [
+				"2CDE2ED6E5BCA3DA"
+				"49EBD08A01608EA1"
+			]
+			id: "0FE890BE4D4E7461"
+			tasks: [{
+				id: "7323B69CEC200142"
+				type: "item"
+				item: "create:copper_sheet"
+			}]
+		}
+		{
+			x: 4.0d
+			y: 0.5d
+			dependencies: ["0FE890BE4D4E7461"]
+			id: "0B3B2055CE527853"
+			tasks: [{
+				id: "49BB8F74F7F5B123"
+				type: "item"
+				item: "create:fluid_tank"
+			}]
+		}
+		{
+			x: 6.0d
+			y: 0.5d
+			dependencies: ["07BF178F57BF5C2A"]
+			id: "3B33C31580E058E1"
+			tasks: [{
+				id: "2B26C41AE0D03263"
+				type: "item"
+				item: "create:steam_engine"
+			}]
+		}
+		{
+			x: 4.5d
+			y: 3.0d
+			dependencies: ["2CDE2ED6E5BCA3DA"]
+			id: "07BF178F57BF5C2A"
+			tasks: [{
+				id: "600327B86FDA0F06"
+				type: "item"
+				item: "create:golden_sheet"
+			}]
+		}
+		{
+			x: -3.0d
+			y: 2.5d
+			dependencies: [
+				"08F260AE0CBC63A1"
+				"2CDE2ED6E5BCA3DA"
+			]
+			id: "68DE189B04024ADE"
+			tasks: [{
+				id: "7E2883D7A3FA3B06"
+				type: "item"
+				item: "create:brass_sheet"
+			}]
+		}
+	]
+	quest_links: [ ]
+}
